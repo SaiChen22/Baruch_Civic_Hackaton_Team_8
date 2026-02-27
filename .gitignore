@@ -1,0 +1,6 @@
+venv/
+venv_streamlit/
+venv_with_packages/
+__pycache__/
+**/__pycache__/
+*.pyc
