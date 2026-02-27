@@ -1,0 +1,15 @@
+TAB_3_IMPLEMENTATION_CHECKS:
+✓ Stacked bar title
+✓ Top 20 subheader
+✓ Doubled Up label
+✓ DHS Shelter label
+✓ Non-DHS Shelter label
+✓ What Can Be Done
+✓ Better identification
+✓ Targeted resources
+✓ Data transparency
+✓ Doubled up narrative
+✓ 1-indexed
+✓ Stacked barmode
+
+ALL_CHECKS_PASSED

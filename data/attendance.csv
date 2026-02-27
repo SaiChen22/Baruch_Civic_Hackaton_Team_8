@@ -1,0 +1,1531 @@
+dbn,school_name,grade,category,year,total_days,days_absent,days_present,attendance,contributing_10_total_days,chronically_absent,chronically_absent_1
+01M015,P.S. 015 Roberto Clemente,All Grades,All Students,2020-21,32686,3931,28755,88.0,199,84,42.2
+01M019,P.S. 019 Asher Levy,All Grades,All Students,2020-21,36681,2523,34158,93.1,213,50,23.5
+01M020,P.S. 020 Anna Silver,All Grades,All Students,2020-21,71138,5482,65656,92.3,425,99,23.3
+01M034,P.S. 034 Franklin D. Roosevelt,All Grades,All Students,2020-21,48074,5516,42558,88.5,286,116,40.6
+01M063,The STAR Academy - P.S.63,All Grades,All Students,2020-21,36697,2599,34098,92.9,222,57,25.7
+01M064,P.S. 064 Robert Simon,All Grades,All Students,2020-21,38761,4809,33952,87.6,233,112,48.1
+01M110,P.S. 110 Florence Nightingale,All Grades,All Students,2020-21,64920,3930,60990,93.9,382,74,19.4
+01M134,P.S. 134 Henrietta Szold,All Grades,All Students,2020-21,36644,5816,30828,84.1,219,120,54.8
+01M140,P.S. 140 Nathan Straus,All Grades,All Students,2020-21,61555,13060,48495,78.8,369,233,63.1
+01M142,P.S. 142 Amalia Castro,All Grades,All Students,2020-21,56464,5402,51062,90.4,344,123,35.8
+01M184,P.S. 184m Shuang Wen,All Grades,All Students,2020-21,125881,3404,122477,97.3,728,45,6.2
+01M188,P.S. 188 The Island School,All Grades,All Students,2020-21,65521,10827,54694,83.5,409,217,53.1
+01M292,Orchard Collegiate Academy,All Grades,All Students,2020-21,51741,9998,41743,80.7,299,170,56.9
+01M315,The East Village Community School,All Grades,All Students,2020-21,51850,2195,49655,95.8,309,35,11.3
+01M332,University Neighborhood Middle School,All Grades,All Students,2020-21,36277,5484,30793,84.9,211,98,46.4
+01M361,The Children's Workshop School,All Grades,All Students,2020-21,51863,4154,47709,92.0,313,75,24.0
+01M363,Neighborhood School,All Grades,All Students,2020-21,46981,1720,45261,96.3,275,25,9.1
+01M364,Earth School,All Grades,All Students,2020-21,49983,3652,46331,92.7,297,75,25.3
+01M378,School for Global Leaders,All Grades,All Students,2020-21,31655,1972,29683,93.8,190,38,20.0
+01M448,University Neighborhood High School,All Grades,All Students,2020-21,98875,13805,85070,86.0,579,224,38.7
+01M450,East Side Community School,All Grades,All Students,2020-21,117665,2619,115046,97.8,685,26,3.8
+01M539,"New Explorations into Science, Technology and Math",All Grades,All Students,2020-21,313410,10409,303001,96.7,1797,123,6.8
+01M696,Bard High School Early College,All Grades,All Students,2020-21,110961,6418,104543,94.2,637,126,19.8
+01M839,Tompkins Square Middle School,All Grades,All Students,2020-21,61691,1967,59724,96.8,357,26,7.3
+02M001,P.S. 001 Alfred E. Smith,All Grades,All Students,2020-21,41262,3356,37906,91.9,243,72,29.6
+02M002,P.S. 002 Meyer London,All Grades,All Students,2020-21,73438,4434,69004,94.0,428,74,17.3
+02M003,P.S. 003 Charrette School,All Grades,All Students,2020-21,103425,3375,100050,96.7,619,54,8.7
+02M006,P.S. 006 Lillie D. Blake,All Grades,All Students,2020-21,102577,2356,100221,97.7,608,29,4.8
+02M011,P.S. 011 William T. Harris,All Grades,All Students,2020-21,138623,4680,133943,96.6,823,87,10.6
+02M033,P.S. 033 Chelsea Prep,All Grades,All Students,2020-21,96314,8754,87560,90.9,585,156,26.7
+02M040,P.S. 040 Augustus Saint-Gaudens,All Grades,All Students,2020-21,109851,3530,106321,96.8,651,29,4.5
+02M041,P.S. 041 Greenwich Village,All Grades,All Students,2020-21,92277,2349,89928,97.5,561,26,4.6
+02M042,P.S. 042 Benjamin Altman,All Grades,All Students,2020-21,94684,2204,92480,97.7,551,36,6.5
+02M047,47 The American Sign Language and English Secondar,All Grades,All Students,2020-21,37827,6943,30884,81.6,226,125,55.3
+02M051,P.S. 051 Elias Howe,All Grades,All Students,2020-21,81720,10039,71681,87.7,492,171,34.8
+02M059,P.S. 059 Beekman Hill International,All Grades,All Students,2020-21,99555,2791,96764,97.2,608,37,6.1
+02M077,P.S. 77 Lower Lab School,All Grades,All Students,2020-21,60851,704,60147,98.8,351,0,0.0
+02M089,P.S. 89,All Grades,All Students,2020-21,58216,2249,55967,96.1,354,31,8.8
+02M104,J.H.S. 104 Simon Baruch,All Grades,All Students,2020-21,177247,6809,170438,96.2,1042,110,10.6
+02M111,P.S. 111 Adolph S. Ochs,All Grades,All Students,2020-21,68539,7987,60552,88.3,427,153,35.8
+02M114,East Side Middle School,All Grades,All Students,2020-21,75925,1460,74465,98.1,448,23,5.1
+02M116,P.S. 116 Mary Lindley Murray,All Grades,All Students,2020-21,70752,5237,65515,92.6,428,85,19.9
+02M124,P.S. 124 Yung Wing,All Grades,All Students,2020-21,113591,1172,112419,99.0,659,6,0.9
+02M126,P.S. 126 Jacob August Riis,All Grades,All Students,2020-21,118250,4128,114122,96.5,689,61,8.9
+02M130,P.S. 130 Hernando De Soto,All Grades,All Students,2020-21,130705,964,129741,99.3,757,7,0.9
+02M131,M.S. 131,All Grades,All Students,2020-21,44207,3770,40437,91.5,257,68,26.5
+02M135,The Urban Assembly School for Emergency Management,All Grades,All Students,2020-21,46626,6439,40187,86.2,274,98,35.8
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,All Grades,All Students,2020-21,70366,16621,53745,76.4,407,259,63.6
+02M150,P.S. 150,All Grades,All Students,2020-21,29692,1116,28576,96.2,182,16,8.8
+02M151,Yorkville Community School,All Grades,All Students,2020-21,73673,6090,67583,91.7,436,95,21.8
+02M158,P.S. 158 Bayard Taylor,All Grades,All Students,2020-21,115928,3457,112471,97.0,703,35,5.0
+02M167,J.H.S. 167 Robert F. Wagner,All Grades,All Students,2020-21,222639,15210,207429,93.2,1302,263,20.2
+02M177,Yorkville East Middle School,All Grades,All Students,2020-21,41822,1799,40023,95.7,241,30,12.4
+02M183,P.S. 183 Robert L. Stevenson,All Grades,All Students,2020-21,93552,2020,91532,97.8,555,13,2.3
+02M198,P.S. 198 Isador E. Ida Straus,All Grades,All Students,2020-21,78555,2219,76336,97.2,477,35,7.3
+02M212,P.S. 212 Midtown West,All Grades,All Students,2020-21,56441,2389,54052,95.8,337,38,11.3
+02M217,P.S./I.S. 217 Roosevelt Island,All Grades,All Students,2020-21,107841,4339,103502,96.0,669,65,9.7
+02M225,Ella Baker School,All Grades,All Students,2020-21,58920,2844,56076,95.2,347,52,15.0
+02M234,P.S. 234 Independence School,All Grades,All Students,2020-21,79798,2497,77301,96.9,473,22,4.7
+02M255,M.S. 255 Salk School of Science,All Grades,All Students,2020-21,63034,1185,61849,98.1,363,12,3.3
+02M260,The Clinton School,All Grades,All Students,2020-21,136556,7265,129291,94.7,796,117,14.7
+02M267,"East Side Elementary School, PS 267",All Grades,All Students,2020-21,68189,1542,66647,97.7,426,22,5.2
+02M276,Battery Park City School,All Grades,All Students,2020-21,135899,3151,132748,97.7,821,47,5.7
+02M280,Manhattan Early College School for Advertising,All Grades,All Students,2020-21,80273,15101,65172,81.2,465,234,50.3
+02M281,The River School,All Grades,All Students,2020-21,78278,3537,74741,95.5,482,55,11.4
+02M282,Urban Assembly Maker Academy,All Grades,All Students,2020-21,84195,15735,68460,81.3,492,275,55.9
+02M288,Food and Finance High School,All Grades,All Students,2020-21,72143,13113,59030,81.8,408,164,40.2
+02M289,I.S. 289,All Grades,All Students,2020-21,45908,1060,44848,97.7,266,11,4.1
+02M290,P.S. 290 Manhattan New School,All Grades,All Students,2020-21,79524,2239,77285,97.2,506,59,11.7
+02M294,Essex Street Academy,All Grades,All Students,2020-21,64313,9896,54417,84.6,373,165,44.2
+02M296,High School of Hospitality Management,All Grades,All Students,2020-21,54746,16293,38453,70.2,300,216,72.0
+02M297,M.S. 297,All Grades,All Students,2020-21,142875,10700,132175,92.5,834,174,20.9
+02M298,Pace High School,All Grades,All Students,2020-21,101644,26068,75576,74.4,591,352,59.6
+02M300,"Urban Assembly School of Design and Construction,",All Grades,All Students,2020-21,43891,6884,37007,84.3,261,117,44.8
+02M303,"Facing History School, The",All Grades,All Students,2020-21,57083,10764,46319,81.1,342,191,55.8
+02M305,"Urban Assembly Academy of Government and Law, The",All Grades,All Students,2020-21,59080,7179,51901,87.8,350,156,44.6
+02M308,Lower Manhattan Arts Academy,All Grades,All Students,2020-21,58742,9413,49329,84.0,341,185,54.3
+02M312,New York City Lab Middle School for Collaborative,All Grades,All Students,2020-21,99712,1502,98210,98.5,574,8,1.4
+02M316,"Urban Assembly School of Business for Young Women,",All Grades,All Students,2020-21,24715,7490,17225,69.7,146,99,67.8
+02M340,Sixth Avenue Elementary School,All Grades,All Students,2020-21,61721,2114,59607,96.6,365,34,9.3
+02M343,The Peck Slip School,All Grades,All Students,2020-21,72746,2077,70669,97.1,436,33,7.6
+02M347,The 47 American Sign Language & English Lower Scho,All Grades,All Students,2020-21,33739,3937,29802,88.3,202,86,42.6
+02M374,Gramercy Arts High School,All Grades,All Students,2020-21,82849,6375,76474,92.3,484,101,20.9
+02M376,NYC iSchool,All Grades,All Students,2020-21,80511,6079,74432,92.4,489,100,20.4
+02M392,Manhattan Business Academy,All Grades,All Students,2020-21,65898,8863,57035,86.6,409,136,33.3
+02M393,Business Of Sports School,All Grades,All Students,2020-21,76896,15981,60915,79.2,458,219,47.8
+02M397,Spruce Street School,All Grades,All Students,2020-21,84776,4006,80770,95.3,510,54,10.6
+02M399,The High School For Language And Diplomacy,All Grades,All Students,2020-21,41261,10888,30373,73.6,241,143,59.3
+02M400,High School for Environmental Studies,All Grades,All Students,2020-21,204032,20445,183587,90.0,1189,284,23.9
+02M407,Institute for Collaborative Education,All Grades,All Students,2020-21,85904,4213,81691,95.1,496,62,12.5
+02M408,Professional Performing Arts High School,All Grades,All Students,2020-21,97643,3420,94223,96.5,569,56,9.8
+02M411,Baruch College Campus High School,All Grades,All Students,2020-21,83315,3244,80071,96.1,496,43,8.7
+02M412,N.Y.C. Lab School for Collaborative Studies,All Grades,All Students,2020-21,84445,2982,81463,96.5,486,41,8.4
+02M413,School of the Future High School,All Grades,All Students,2020-21,127611,8501,119110,93.3,736,136,18.5
+02M414,N.Y.C. Museum School,All Grades,All Students,2020-21,75510,3828,71682,94.9,442,56,12.7
+02M416,Eleanor Roosevelt High School,All Grades,All Students,2020-21,95010,4054,90956,95.7,547,51,9.3
+02M418,Millennium High School,All Grades,All Students,2020-21,121690,2912,118778,97.6,700,33,4.7
+02M419,Landmark High School,All Grades,All Students,2020-21,59592,18006,41586,69.8,368,305,82.9
+02M420,High School for Health Professions and Human Servi,All Grades,All Students,2020-21,300183,59075,241108,80.3,1781,787,44.2
+02M422,Quest to Learn,All Grades,All Students,2020-21,104704,11921,92783,88.6,619,211,34.1
+02M425,Leadership and Public Service High School,All Grades,All Students,2020-21,50377,4745,45632,90.6,293,62,21.2
+02M427,Manhattan Academy For Arts & Language,All Grades,All Students,2020-21,32364,5295,27069,83.6,195,78,40.0
+02M437,Hudson High School of Learning Technologies,All Grades,All Students,2020-21,61674,10697,50977,82.7,377,177,46.9
+02M438,International High School at Union Square,All Grades,All Students,2020-21,53548,11450,42098,78.6,336,179,53.3
+02M439,Manhattan Village Academy,All Grades,All Students,2020-21,80625,2619,78006,96.8,464,21,4.5
+02M442,"Ballet Tech, NYC Public School for Dance",All Grades,All Students,2020-21,24741,518,24223,97.9,142,4,2.8
+02M449,Vanguard High School,All Grades,All Students,2020-21,69376,3391,65985,95.1,437,67,15.3
+02M459,Manhattan International High School,All Grades,All Students,2020-21,49547,10542,39005,78.7,298,162,54.4
+02M475,Stuyvesant High School,All Grades,All Students,2020-21,583781,16446,567335,97.2,3341,162,4.8
+02M489,High School of Economics and Finance,All Grades,All Students,2020-21,127963,18486,109477,85.6,741,304,41.0
+02M500,Unity Center for Urban Technologies,All Grades,All Students,2020-21,52885,7537,45348,85.7,318,119,37.4
+02M507,Urban Assembly Gateway School for Technology,All Grades,All Students,2020-21,60838,3430,57408,94.4,457,70,15.3
+02M519,Talent Unlimited High School,All Grades,All Students,2020-21,89360,21282,68078,76.2,522,369,70.7
+02M520,Murry Bergtraum High School for Business Careers,All Grades,All Students,2020-21,22278,1945,20333,91.3,141,45,31.9
+02M527,P.S. 527 - East Side School for Social Action,All Grades,All Students,2020-21,80258,1638,78620,98.0,473,12,2.5
+02M529,Jacqueline Kennedy Onassis High School,All Grades,All Students,2020-21,33833,7816,26017,76.9,212,116,54.7
+02M531,Repertory Company High School for Theatre Arts,All Grades,All Students,2020-21,41927,3779,38148,91.0,240,73,30.4
+02M533,Union Square Academy for Health Sciences,All Grades,All Students,2020-21,72046,10932,61114,84.8,428,193,45.1
+02M534,Harvest Collegiate High School,All Grades,All Students,2020-21,77089,25628,51461,66.8,459,387,84.3
+02M542,Manhattan Bridges High School,All Grades,All Students,2020-21,89643,19554,70089,78.2,520,325,62.5
+02M543,New Design High School,All Grades,All Students,2020-21,87150,14693,72457,83.1,513,226,44.1
+02M545,High School for Dual Language and Asian Studies,All Grades,All Students,2020-21,66939,2240,64699,96.7,403,33,8.2
+02M546,Academy for Software Engineering,All Grades,All Students,2020-21,77745,14088,63657,81.9,454,260,57.3
+02M551,Urban Assembly New York Harbor School,All Grades,All Students,2020-21,88921,18448,70473,79.3,515,304,59.0
+02M580,Richard R. Green High School of Teaching,All Grades,All Students,2020-21,50032,11145,38887,77.7,289,126,43.6
+02M600,The High School of Fashion Industries,All Grades,All Students,2020-21,281351,65027,216324,76.9,1676,1169,69.7
+02M615,Chelsea Career and Technical Education High School,All Grades,All Students,2020-21,78745,20429,58316,74.1,471,278,59.0
+02M630,Art and Design High School,All Grades,All Students,2020-21,260103,19001,241102,92.7,1507,251,16.7
+02M655,Life Sciences Secondary School,All Grades,All Students,2020-21,59558,17339,42219,70.9,353,249,70.5
+02M896,Lower Manhattan Community Middle School,All Grades,All Students,2020-21,66069,1491,64578,97.7,380,18,4.7
+02M933,City Knoll Middle School,All Grades,All Students,2020-21,22599,4537,18062,79.9,134,73,54.5
+03M009,P.S. 009 Sarah Anderson,All Grades,All Students,2020-21,88788,3027,85761,96.6,535,39,7.3
+03M054,J.H.S. 054 Booker T. Washington,All Grades,All Students,2020-21,143769,9466,134303,93.4,839,166,19.8
+03M075,P.S. 075 Emily Dickinson,All Grades,All Students,2020-21,84458,6850,77608,91.9,499,119,23.8
+03M076,P.S. 076 A. Philip Randolph,All Grades,All Students,2020-21,53619,10013,43606,81.3,323,177,54.8
+03M084,P.S. 084 Lillian Weber,All Grades,All Students,2020-21,104976,5000,99976,95.2,634,81,12.8
+03M087,P.S. 087 William Sherman,All Grades,All Students,2020-21,116903,478,116425,99.6,690,3,0.4
+03M145,"P.S. 145, The Bloomingdale School",All Grades,All Students,2020-21,69197,10806,58391,84.4,418,188,45.0
+03M149,P.S. 149 Sojourner Truth,All Grades,All Students,2020-21,35231,4603,30628,86.9,220,99,45.0
+03M163,P.S. 163 Alfred E. Smith,All Grades,All Students,2020-21,84285,5078,79207,94.0,507,93,18.3
+03M165,P.S. 165 Robert E. Simon,All Grades,All Students,2020-21,64753,5909,58844,90.9,403,122,30.3
+03M166,P.S. 166 The Richard Rodgers School of The Arts an,All Grades,All Students,2020-21,103190,2822,100368,97.3,615,32,5.2
+03M180,P.S. 180 Hugo Newman,All Grades,All Students,2020-21,75167,12425,62742,83.5,444,203,45.7
+03M185,The Locke School of Arts and Engineering,All Grades,All Students,2020-21,55522,6268,49254,88.7,332,129,38.9
+03M191,The Riverside School for Makers and Artists,All Grades,All Students,2020-21,92063,15987,76076,82.6,548,290,52.9
+03M199,P.S. 199 Jessie Isador Straus,All Grades,All Students,2020-21,107646,2963,104683,97.2,636,33,5.2
+03M241,STEM Institute of Manhattan,All Grades,All Students,2020-21,18286,2673,15613,85.4,110,61,55.5
+03M242,P.S. 242 - The Young Diplomats Magnet Academy,All Grades,All Students,2020-21,24232,5886,18346,75.7,150,90,60.0
+03M243,M.S. 243 Center School,All Grades,All Students,2020-21,44549,408,44141,99.1,255,2,0.8
+03M245,M.S. M245 The Computer School,All Grades,All Students,2020-21,67289,4473,62816,93.4,391,59,15.1
+03M247,M.S. M247 Dual Language Middle School,All Grades,All Students,2020-21,40317,2009,38308,95.0,234,30,12.8
+03M250,M.S. 250 West Side Collaborative Middle School,All Grades,All Students,2020-21,19362,2527,16835,86.9,114,37,32.5
+03M256,Lafayette Academy,All Grades,All Students,2020-21,31221,6323,24898,79.7,181,104,57.5
+03M258,Community Action School - MS 258,All Grades,All Students,2020-21,39969,3085,36884,92.3,232,51,22.0
+03M291,West End Secondary School,All Grades,All Students,2020-21,106039,5169,100870,95.1,627,84,13.4
+03M299,The Maxine Greene HS for Imaginative Inquiry,All Grades,All Students,2020-21,32399,7163,25236,77.9,186,87,46.8
+03M307,"Urban Assembly School for Media Studies, The",All Grades,All Students,2020-21,65100,12163,52937,81.3,380,235,61.8
+03M333,P.S. 333 Manhattan School for Children,All Grades,All Students,2020-21,100385,4514,95871,95.5,582,70,12.0
+03M334,The Anderson School,All Grades,All Students,2020-21,89951,1285,88666,98.6,519,10,1.9
+03M402,The Urban Assembly School for Green Careers,All Grades,All Students,2020-21,51590,13280,38310,74.3,306,198,64.7
+03M403,The Global Learning Collaborative,All Grades,All Students,2020-21,77750,17639,60111,77.3,456,394,86.4
+03M415,Wadleigh Secondary School for the Performing & Vis,All Grades,All Students,2020-21,62767,2969,59798,95.3,365,43,11.8
+03M417,Frank McCourt High School,All Grades,All Students,2020-21,69997,6021,63976,91.4,411,103,25.1
+03M421,West Prep Academy,All Grades,All Students,2020-21,32164,4528,27636,85.9,186,74,39.8
+03M452,P.S. 452,All Grades,All Students,2020-21,65438,3718,61720,94.3,403,58,14.4
+03M479,Beacon High School,All Grades,All Students,2020-21,253399,15684,237715,93.8,1521,268,17.6
+03M485,Fiorello H. LaGuardia High School of Music & Art a,All Grades,All Students,2020-21,475028,43386,431642,90.9,2721,793,29.1
+03M492,"High School for Law, Advocacy and Community Justic",All Grades,All Students,2020-21,67451,12284,55167,81.8,397,186,46.9
+03M494,High School of Arts and Technology,All Grades,All Students,2020-21,77297,11691,65606,84.9,459,212,46.2
+03M541,Manhattan / Hunter Science High School,All Grades,All Students,2020-21,78945,1374,77571,98.3,454,11,2.4
+03M859,Special Music School,All Grades,All Students,2020-21,51795,761,51034,98.5,299,6,2.0
+03M860,Frederick Douglass Academy II Secondary School,All Grades,All Students,2020-21,58148,6718,51430,88.4,348,99,28.4
+03M862,Mott Hall II,All Grades,All Students,2020-21,68168,4590,63578,93.3,398,84,21.1
+04M007,P.S. 007 Samuel Stern,All Grades,All Students,2020-21,61798,12924,48874,79.1,386,243,63.0
+04M012,Tag Young Scholars,All Grades,All Students,2020-21,99602,1147,98455,98.8,579,12,2.1
+04M037,River East Elementary,All Grades,All Students,2020-21,47283,7594,39689,83.9,279,140,50.2
+04M038,P.S. 38 Roberto Clemente,All Grades,All Students,2020-21,35294,6992,28302,80.2,232,136,58.6
+04M057,James Weldon Johnson,All Grades,All Students,2020-21,106936,8767,98169,91.8,632,193,30.5
+04M072,The Lexington Academy,All Grades,All Students,2020-21,98040,18116,79924,81.5,581,286,49.2
+04M083,P.S. 083 Luis Munoz Rivera,All Grades,All Students,2020-21,60427,4647,55780,92.3,366,89,24.3
+04M096,P.S. 096 Joseph Lanzetta,All Grades,All Students,2020-21,66149,10642,55507,83.9,395,213,53.9
+04M102,P.S. 102 Jacques Cartier,All Grades,All Students,2020-21,31940,4940,27000,84.5,198,89,44.9
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational C,All Grades,All Students,2020-21,74578,13595,60983,81.8,439,238,54.2
+04M112,P.S. 112 Jose Celso Barbosa,All Grades,All Students,2020-21,47753,7525,40228,84.2,284,149,52.5
+04M146,P.S. 146 Ann M. Short,All Grades,All Students,2020-21,59250,4777,54473,91.9,367,106,28.9
+04M155,P.S. 155 William Paca,All Grades,All Students,2020-21,38023,5478,32545,85.6,229,101,44.1
+04M171,P.S. 171 Patrick Henry,All Grades,All Students,2020-21,133931,9110,124821,93.2,775,176,22.7
+04M182,The Bilingual Bicultural School,All Grades,All Students,2020-21,46975,3224,43751,93.1,277,60,21.7
+04M206,P.S. 206 Jose Celso Barbosa,All Grades,All Students,2020-21,78570,9404,69166,88.0,454,169,37.2
+04M224,M.S. 224 Manhattan East School for Arts & Academic,All Grades,All Students,2020-21,35742,1374,34368,96.2,206,24,11.7
+04M372,Esperanza Preparatory Academy,All Grades,All Students,2020-21,82291,14740,67551,82.1,487,255,52.4
+04M375,Mosaic Preparatory Academy,All Grades,All Students,2020-21,38004,6455,31549,83.0,231,138,59.7
+04M377,Renaissance School of the Arts,All Grades,All Students,2020-21,34359,2328,32031,93.2,202,38,18.8
+04M435,Manhattan Center for Science and Mathematics,All Grades,All Students,2020-21,284346,16691,267655,94.1,1640,235,14.3
+04M495,Park East High School,All Grades,All Students,2020-21,67179,7209,59970,89.3,388,130,33.5
+04M497,Central Park East I,All Grades,All Students,2020-21,26438,2015,24423,92.4,157,30,19.1
+04M555,Central Park East High School,All Grades,All Students,2020-21,90204,4211,85993,95.3,522,68,13.0
+04M610,Young Women's Leadership School,All Grades,All Students,2020-21,83152,10981,72171,86.8,481,263,54.7
+04M680,"Heritage School, The",All Grades,All Students,2020-21,55682,6897,48785,87.6,322,71,22.0
+04M825,Isaac Newton Middle School for Math & Science,All Grades,All Students,2020-21,56659,2472,54187,95.6,327,49,15.0
+04M964,Central Park East II,All Grades,All Students,2020-21,75055,1259,73796,98.3,444,11,2.5
+05M030,P.S. 030 Hernandez/Hughes,All Grades,All Students,2020-21,36738,5948,30790,83.8,228,117,51.3
+05M036,P.S. 036 Margaret Douglas,All Grades,All Students,2020-21,54222,7837,46385,85.5,320,149,46.6
+05M046,P.S. 046 Arthur Tappan,All Grades,All Students,2020-21,86772,17266,69506,80.1,513,289,56.3
+05M092,P.S. 092 Mary McLeod Bethune,All Grades,All Students,2020-21,38165,4332,33833,88.6,232,110,47.4
+05M123,P.S. 123 Mahalia Jackson,All Grades,All Students,2020-21,73453,16684,56769,77.3,454,271,59.7
+05M125,P.S. 125 Ralph Bunche,All Grades,All Students,2020-21,50500,5936,44564,88.2,300,112,37.3
+05M129,P.S. 129 John H. Finley,All Grades,All Students,2020-21,53833,11330,42503,79.0,324,210,64.8
+05M133,P.S. 133 Fred R Moore,All Grades,All Students,2020-21,36474,3959,32515,89.1,225,88,39.1
+05M148,Eagle Academy for Young Men of Harlem,All Grades,All Students,2020-21,56397,17698,38699,68.6,330,278,84.2
+05M154,P.S. 154 Harriet Tubman,All Grades,All Students,2020-21,38725,5640,33085,85.4,238,120,50.4
+05M157,The Urban Assembly School for Global Commerce,All Grades,All Students,2020-21,33979,3968,30011,88.3,213,75,35.2
+05M161,P.S. 161 Pedro Albizu Campos,All Grades,All Students,2020-21,119772,18894,100878,84.2,715,389,54.4
+05M175,P.S. 175 Henry H Garnet,All Grades,All Students,2020-21,55625,11811,43814,78.8,338,213,63.0
+05M194,P.S. 194 Countee Cullen,All Grades,All Students,2020-21,30593,3497,27096,88.6,189,75,39.7
+05M197,P.S. 197 John B. Russwurm,All Grades,All Students,2020-21,41050,5622,35428,86.3,248,111,44.8
+05M200,P.S. 200- The James McCune Smith School,All Grades,All Students,2020-21,51752,12558,39194,75.7,327,219,67.0
+05M286,Urban Assembly Academy for Future Leaders,All Grades,All Students,2020-21,16337,2319,14018,85.8,97,42,43.3
+05M304,Mott Hall High School,All Grades,All Students,2020-21,35203,10138,25065,71.2,210,126,60.0
+05M318,Thurgood Marshall Academy Lower School,All Grades,All Students,2020-21,32328,2634,29694,91.9,192,54,28.1
+05M362,Columbia Secondary School,All Grades,All Students,2020-21,122161,5012,117149,95.9,704,89,12.6
+05M369,Urban Assembly School for the Performing Arts,All Grades,All Students,2020-21,65157,11767,53390,81.9,381,174,45.7
+05M371,School of Earth Exploration and Discovery Harlem (,All Grades,All Students,2020-21,13526,2998,10528,77.8,79,54,68.4
+05M499,Frederick Douglass Academy,All Grades,All Students,2020-21,171984,33849,138135,80.3,1002,586,58.5
+05M514,New Design Middle School,All Grades,All Students,2020-21,22931,6095,16836,73.4,144,95,66.0
+05M517,Teachers College Community School,All Grades,All Students,2020-21,64308,8492,55816,86.8,384,149,38.8
+05M670,Thurgood Marshall Academy for Learning and Social,All Grades,All Students,2020-21,93126,22378,70748,76.0,542,386,71.2
+05M692,"High School for Mathematics, Science and Engineeri",All Grades,All Students,2020-21,86337,6169,80168,92.9,497,96,19.3
+06M004,P.S. 004 Duke Ellington,All Grades,All Students,2020-21,79026,10942,68084,86.2,478,213,44.6
+06M005,P.S. 005 Ellen Lurie,All Grades,All Students,2020-21,90306,9438,80868,89.5,539,183,34.0
+06M008,P.S. 008 Luis Belliard,All Grades,All Students,2020-21,76357,10691,65666,86.0,451,196,43.5
+06M018,P.S. 018 Park Terrace,All Grades,All Students,2020-21,55527,4182,51345,92.5,325,72,22.2
+06M028,P.S. 028 Wright Brothers,All Grades,All Students,2020-21,80104,10422,69682,87.0,497,231,46.5
+06M048,P.S. 048 P.O. Michael J. Buczek,All Grades,All Students,2020-21,72829,6843,65986,90.6,439,137,31.2
+06M052,Harold O. Levy School,All Grades,All Students,2020-21,43291,4708,38583,89.1,249,87,34.9
+06M098,P.S. 098 Shorac Kappock,All Grades,All Students,2020-21,63411,8832,54579,86.1,379,180,47.5
+06M103,Dos Puentes Elementary School,All Grades,All Students,2020-21,72620,4250,68370,94.1,434,90,20.7
+06M115,P.S. 115 Alexander Humboldt,All Grades,All Students,2020-21,69312,8842,60470,87.2,406,176,43.3
+06M128,P.S. 128 Audubon,All Grades,All Students,2020-21,98148,15320,82828,84.4,587,272,46.3
+06M132,P.S. 132 Juan Pablo Duarte,All Grades,All Students,2020-21,32842,1825,31017,94.4,195,34,17.4
+06M143,J.H.S. 143 Eleanor Roosevelt,All Grades,All Students,2020-21,39471,6842,32629,82.7,236,135,57.2
+06M152,P.S. 152 Dyckman Valley,All Grades,All Students,2020-21,85189,12476,72713,85.4,514,252,49.0
+06M153,P.S. 153 Adam Clayton Powell,All Grades,All Students,2020-21,76120,7647,68473,90.0,464,151,32.5
+06M173,P.S. 173,All Grades,All Students,2020-21,76459,6675,69784,91.3,463,134,28.9
+06M178,Professor Juan Bosch Public School,All Grades,All Students,2020-21,45599,2789,42810,93.9,265,50,18.9
+06M187,P.S./I.S. 187 Hudson Cliffs,All Grades,All Students,2020-21,129663,6676,122987,94.9,764,115,15.1
+06M189,P.S. 189,All Grades,All Students,2020-21,100126,7542,92584,92.5,591,154,26.1
+06M192,P.S. 192 Jacob H. Schiff,All Grades,All Students,2020-21,54505,6546,47959,88.0,329,129,39.2
+06M209,Hamilton Grange Middle School,All Grades,All Students,2020-21,58630,5743,52887,90.2,342,115,33.6
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for C,All Grades,All Students,2020-21,74463,6970,67493,90.6,435,134,30.8
+06M211,Inwood Early College for Health and Information Te,All Grades,All Students,2020-21,72221,9987,62234,86.2,432,165,38.2
+06M223,The Mott Hall School,All Grades,All Students,2020-21,47014,1547,45467,96.7,272,28,10.3
+06M278,Paula Hedbavny School,All Grades,All Students,2020-21,82331,6627,75704,92.0,475,125,26.3
+06M293,City College Academy of the Arts,All Grades,All Students,2020-21,106755,10612,96143,90.1,622,202,32.5
+06M311,Amistad Dual Language School,All Grades,All Students,2020-21,71898,5314,66584,92.6,423,101,23.9
+06M314,Muscota,All Grades,All Students,2020-21,50562,2043,48519,96.0,296,26,8.8
+06M319,M.S. 319 - Maria Teresa,All Grades,All Students,2020-21,55959,799,55160,98.6,329,10,3.0
+06M322,Middle School 322,All Grades,All Students,2020-21,50694,4778,45916,90.6,297,100,33.7
+06M324,M.S. 324 - Patria Mirabal,All Grades,All Students,2020-21,47430,4307,43123,90.9,280,79,28.2
+06M328,Community Math & Science Prep,All Grades,All Students,2020-21,23356,3284,20072,85.9,138,57,41.3
+06M346,Community Health Academy of the Heights,All Grades,All Students,2020-21,114565,5594,108971,95.1,663,72,10.9
+06M348,Washington Heights Expeditionary Learning School,All Grades,All Students,2020-21,167167,19882,147285,88.1,958,364,38.0
+06M349,Harbor Heights,All Grades,All Students,2020-21,17238,1018,16220,94.1,105,17,16.2
+06M366,Washington Heights Academy,All Grades,All Students,2020-21,94674,8352,86322,91.2,563,154,27.4
+06M368,Hamilton Heights School,All Grades,All Students,2020-21,37047,4367,32680,88.2,229,78,34.1
+06M462,The College Academy,All Grades,All Students,2020-21,60022,11364,48658,81.1,371,190,51.2
+06M463,High School for Media and Communications,All Grades,All Students,2020-21,53456,4468,48988,91.6,331,72,21.8
+06M467,High School for Law and Public Service,All Grades,All Students,2020-21,72686,20258,52428,72.1,452,275,60.8
+06M468,High School for Health Careers and Sciences,All Grades,All Students,2020-21,66616,5472,61144,91.8,406,82,20.2
+06M513,Castle Bridge School,All Grades,All Students,2020-21,31284,1194,30090,96.2,185,17,9.2
+06M528,I.S. 528 Bea Fuller Rodgers School,All Grades,All Students,2020-21,44757,1041,43716,97.7,257,20,7.8
+06M540,A. Philip Randolph Campus High School,All Grades,All Students,2020-21,259313,64672,194641,75.1,1516,789,52.0
+06M552,Gregorio Luperon High School for Science and Mathe,All Grades,All Students,2020-21,91137,9211,81926,89.9,556,179,32.2
+07X001,P.S. 001 Courtlandt School,All Grades,All Students,2020-21,93901,13250,80651,85.9,560,268,47.9
+07X005,P.S. 5 Port Morris,All Grades,All Students,2020-21,108151,11545,96606,89.3,652,245,37.6
+07X018,P.S. 018 John Peter Zenger,All Grades,All Students,2020-21,77840,11174,66666,85.6,468,232,49.6
+07X025,P.S. 025 Bilingual School,All Grades,All Students,2020-21,92073,9796,82277,89.4,544,196,36.0
+07X029,P.S./M.S. 029 Melrose School,All Grades,All Students,2020-21,137288,23670,113618,82.8,810,402,49.6
+07X030,P.S. 030 Wilton,All Grades,All Students,2020-21,83619,10869,72750,87.0,510,206,40.4
+07X031,P.S./M.S. 031 The William Lloyd Garrison,All Grades,All Students,2020-21,107729,12729,95000,88.2,640,198,30.9
+07X043,P.S. 043 Jonas Bronck,All Grades,All Students,2020-21,61074,8610,52464,85.9,362,177,48.9
+07X049,P.S. 049 Willis Avenue,All Grades,All Students,2020-21,104109,9982,94127,90.4,631,229,36.3
+07X065,P.S. 065 Mother Hale Academy,All Grades,All Students,2020-21,54448,9180,45268,83.1,357,208,58.3
+07X151,J.H.S. 151 Lou Gehrig,All Grades,All Students,2020-21,23797,2890,20907,87.9,140,47,33.6
+07X154,P.S. 154 Jonathan D. Hyatt,All Grades,All Students,2020-21,53660,6947,46713,87.1,315,129,41.0
+07X157,P.S. 157 Grove Hill,All Grades,All Students,2020-21,93453,12724,80729,86.4,554,261,47.1
+07X161,P.S. 161 Juan Ponce De Leon School,All Grades,All Students,2020-21,66022,7050,58972,89.3,402,135,33.6
+07X179,P.S. 179,All Grades,All Students,2020-21,48042,8099,39943,83.1,294,156,53.1
+07X221,South Bronx Preparatory: A College Board School,All Grades,All Students,2020-21,111437,6056,105381,94.6,645,105,16.3
+07X223,The Laboratory School of Finance and Technology: X,All Grades,All Students,2020-21,123940,13982,109958,88.7,720,262,36.4
+07X224,P.S./I.S. 224,All Grades,All Students,2020-21,42990,6978,36012,83.8,254,126,49.6
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",All Grades,All Students,2020-21,83974,15016,68958,82.1,512,218,42.6
+07X277,P.S. 277,All Grades,All Students,2020-21,64951,9667,55284,85.1,391,190,48.6
+07X296,South Bronx Academy for Applied Media,All Grades,All Students,2020-21,42235,4965,37270,88.2,248,100,40.3
+07X298,Academy of Public Relations,All Grades,All Students,2020-21,34065,3966,30099,88.4,199,73,36.7
+07X334,International Community High School,All Grades,All Students,2020-21,66566,19723,46843,70.4,393,280,71.2
+07X343,Academy of Applied Mathematics and Technology,All Grades,All Students,2020-21,52238,4686,47552,91.0,304,93,30.6
+07X359,Concourse Village Elementary School,All Grades,All Students,2020-21,49924,2180,47744,95.6,300,43,14.3
+07X369,Young Leaders Elementary School,All Grades,All Students,2020-21,44754,5173,39581,88.4,266,111,41.7
+07X427,Community School for Social Justice,All Grades,All Students,2020-21,58472,22258,36214,61.9,347,336,96.8
+07X473,Mott Haven Village Preparatory High School,All Grades,All Students,2020-21,41638,7618,34020,81.7,253,116,45.8
+07X495,University Heights Secondary School,All Grades,All Students,2020-21,102574,4485,98089,95.6,598,69,11.5
+07X500,Hostos-Lincoln Academy of Science,All Grades,All Students,2020-21,98570,10746,87824,89.1,571,231,40.5
+07X522,Bronx Design and Construction Academy,All Grades,All Students,2020-21,50917,6919,43998,86.4,306,112,36.6
+07X527,Bronx Leadership Academy II High School,All Grades,All Students,2020-21,84483,20249,64234,76.0,497,274,55.1
+07X548,Careers in Sports High School,All Grades,All Students,2020-21,88835,16664,72171,81.2,516,238,46.1
+07X551,The Urban Assembly Bronx Academy of Letters,All Grades,All Students,2020-21,105289,31778,73511,69.8,617,475,77.0
+07X584,I.S. 584,All Grades,All Students,2020-21,40248,6734,33514,83.3,240,117,48.8
+07X600,Alfred E. Smith Career and Technical Education Hig,All Grades,All Students,2020-21,76844,12449,64395,83.8,448,199,44.4
+07X625,Walkabout Bronx High School,All Grades,All Students,2020-21,8925,927,7998,89.6,51,18,35.3
+07X670,Health Opportunities High School,All Grades,All Students,2020-21,64572,11172,53400,82.7,393,233,59.3
+08X014,P.S. X014 Senator John Calandra,All Grades,All Students,2020-21,101171,8108,93063,92.0,611,155,25.4
+08X036,P.S. 036 Unionport,All Grades,All Students,2020-21,127853,11562,116291,91.0,756,240,31.7
+08X048,P.S. 048 Joseph R. Drake,All Grades,All Students,2020-21,97925,11914,86011,87.8,598,261,43.6
+08X062,P.S. 062 Inocensio Casanova,All Grades,All Students,2020-21,92470,12312,80158,86.7,566,241,42.6
+08X069,P.S. 069 Journey Prep School,All Grades,All Students,2020-21,99814,8479,91335,91.5,584,158,27.1
+08X071,P.S. 071 Rose E. Scala,All Grades,All Students,2020-21,245577,21651,223926,91.2,1441,394,27.3
+08X072,P.S. 072 Dr. William Dorney,All Grades,All Students,2020-21,118382,10196,108186,91.4,704,220,31.3
+08X075,P.S. 75 School of Research and Discovery,All Grades,All Students,2020-21,92380,8443,83937,90.9,561,171,30.5
+08X093,P.S. 093 Albert G. Oliver,All Grades,All Students,2020-21,61523,4853,56670,92.1,377,88,23.3
+08X100,P.S. 100 Isaac Clason,All Grades,All Students,2020-21,93191,8412,84779,91.0,558,186,33.3
+08X101,M.S. X101 Edward R. Byrne,All Grades,All Students,2020-21,95587,2504,93083,97.4,554,36,6.5
+08X107,P.S. 107,All Grades,All Students,2020-21,92014,9256,82758,89.9,552,177,32.1
+08X119,The Dr. Emmett W. Bassett School,All Grades,All Students,2020-21,110101,7321,102780,93.4,647,149,23.0
+08X123,J.H.S. 123 James M. Kieran,All Grades,All Students,2020-21,87917,9398,78519,89.3,517,163,31.5
+08X130,P.S. 130 Abram Stevens Hewitt,All Grades,All Students,2020-21,62624,6373,56251,89.8,381,140,36.7
+08X131,J.H.S. 131 Albert Einstein,All Grades,All Students,2020-21,71857,8314,63543,88.4,426,174,40.8
+08X138,P.S. 138 Samuel Randall,All Grades,All Students,2020-21,101738,10795,90943,89.4,601,200,33.3
+08X140,P.S. X140 The Eagle School,All Grades,All Students,2020-21,83922,9206,74716,89.0,492,193,39.2
+08X146,P.S. 146 Edward Collins,All Grades,All Students,2020-21,59490,4126,55364,93.1,368,97,26.4
+08X152,P.S. 152 Evergreen,All Grades,All Students,2020-21,124412,12040,112372,90.3,749,237,31.6
+08X182,P.S. 182,All Grades,All Students,2020-21,101833,7546,94287,92.6,614,155,25.2
+08X269,Bronx Studio School for Writers and Artists,All Grades,All Students,2020-21,109653,12017,97636,89.0,649,230,35.4
+08X282,Women's Academy of Excellence,All Grades,All Students,2020-21,34635,7014,27621,79.7,201,89,44.3
+08X293,Renaissance High School for Musical Theater and th,All Grades,All Students,2020-21,76045,13682,62363,82.0,451,234,51.9
+08X301,M.S. 301 Paul L. Dunbar,All Grades,All Students,2020-21,32826,3547,29279,89.2,194,73,37.6
+08X302,M.S. 302 Luisa Dessus Cruz,All Grades,All Students,2020-21,79291,2580,76711,96.7,463,39,8.4
+08X304,P.S. 304 Early Childhood School,All Grades,All Students,2020-21,90734,6304,84430,93.1,545,127,23.3
+08X312,Millennium Art Academy,All Grades,All Students,2020-21,68172,9072,59100,86.7,401,138,34.4
+08X320,Pelham Lab High School,All Grades,All Students,2020-21,71317,8163,63154,88.6,431,171,39.7
+08X333,The Longwood Academy of Discovery,All Grades,All Students,2020-21,91154,10698,80456,88.3,546,219,40.1
+08X337,The School for Inquiry and Social Justice,All Grades,All Students,2020-21,80441,7790,72651,90.3,465,143,30.8
+08X348,Schuylerville Preparatory High School,All Grades,All Students,2020-21,63203,11438,51765,81.9,383,169,44.1
+08X349,Bronx River High School,All Grades,All Students,2020-21,76460,11049,65411,85.5,463,191,41.3
+08X367,"Archimedes Academy for Math, Science and Technolog",All Grades,All Students,2020-21,100759,14899,85860,85.2,589,228,38.7
+08X371,Urban Institute of Mathematics,All Grades,All Students,2020-21,65348,3415,61933,94.8,382,54,14.1
+08X375,The Bronx Mathematics Preparatory School,All Grades,All Students,2020-21,32989,4366,28623,86.8,195,84,43.1
+08X376,Antonia Pantoja Preparatory Academy: A College Boa,All Grades,All Students,2020-21,69357,10338,59019,85.1,420,177,42.1
+08X392,Bronx Delta School,All Grades,All Students,2020-21,78158,6328,71830,91.9,464,113,24.4
+08X405,Herbert H. Lehman High School,All Grades,All Students,2020-21,172775,22208,150567,87.1,1026,387,37.7
+08X424,Bronx Academy for Multi-Media,All Grades,All Students,2020-21,47974,2633,45341,94.5,288,37,12.8
+08X432,Bronx Bridges High School,All Grades,All Students,2020-21,59571,9047,50524,84.8,370,139,37.6
+08X448,Soundview Academy for Culture and Scholarship,All Grades,All Students,2020-21,62937,7209,55728,88.5,370,136,36.8
+08X452,Gotham Collaborative High School,All Grades,All Students,2020-21,64419,11652,52767,81.9,394,157,39.8
+08X467,Mott Hall Community School,All Grades,All Students,2020-21,59926,4944,54982,91.7,357,86,24.1
+08X530,Longwood Preparatory Academy,All Grades,All Students,2020-21,60284,6125,54159,89.8,362,147,40.6
+08X558,Westchester Square Academy,All Grades,All Students,2020-21,77682,13984,63698,82.0,461,229,49.7
+08X559,School for Tourism and Hospitality,All Grades,All Students,2020-21,27954,3979,23975,85.8,172,67,39.0
+08X561,Bronx Compass High School,All Grades,All Students,2020-21,63945,7894,56051,87.7,385,118,30.6
+08X562,Blueprint Middle School,All Grades,All Students,2020-21,97182,4395,92787,95.5,568,75,13.2
+08X583,P.S. 583,All Grades,All Students,2020-21,55039,5324,49715,90.3,333,106,31.8
+09X004,P.S./M.S. 004 Crotona Park West,All Grades,All Students,2020-21,73483,8680,64803,88.2,454,196,43.2
+09X011,P.S. 011 Highbridge,All Grades,All Students,2020-21,88742,13612,75130,84.7,545,264,48.4
+09X022,J.H.S. 022 Jordan L. Mott,All Grades,All Students,2020-21,61070,7064,54006,88.4,365,135,37.0
+09X028,P.S. 028 Mount Hope,All Grades,All Students,2020-21,110055,16031,94024,85.4,679,289,42.6
+09X035,P.S. 035 Franz Siegel,All Grades,All Students,2020-21,84966,11689,73277,86.2,513,237,46.2
+09X042,P.S. 042 Claremont,All Grades,All Students,2020-21,59387,6048,53339,89.8,362,123,34.0
+09X053,P.S. 053 Basheer Quisim,All Grades,All Students,2020-21,149797,9949,139848,93.4,926,224,24.2
+09X055,P.S. 055 Benjamin Franklin,All Grades,All Students,2020-21,94442,10745,83697,88.6,560,224,40.0
+09X058,P.S. 058,All Grades,All Students,2020-21,61392,6871,54521,88.8,381,139,36.5
+09X063,P.S. 063 Author's Academy,All Grades,All Students,2020-21,87383,7835,79548,91.0,537,149,27.7
+09X070,P.S. 070 Max Schoenfeld,All Grades,All Students,2020-21,160349,13368,146981,91.7,953,267,28.0
+09X073,P.S. 073 Bronx,All Grades,All Students,2020-21,70301,11003,59298,84.3,431,229,53.1
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,All Grades,All Students,2020-21,17044,1730,15314,89.8,101,37,36.6
+09X109,P.S. 109 Sedgwick,All Grades,All Students,2020-21,92374,10001,82373,89.2,541,194,35.9
+09X110,P.S. 110 Theodore Schoenfeld,All Grades,All Students,2020-21,62489,7880,54609,87.4,380,170,44.7
+09X114,P.S. X114 - Luis Llorens Torres Schools,All Grades,All Students,2020-21,103759,9550,94209,90.8,626,198,31.6
+09X117,I.S. 117 Joseph H. Wade,All Grades,All Students,2020-21,71118,2373,68745,96.7,424,31,7.3
+09X126,P.S. 126 Dr Marjorie H Dunbar,All Grades,All Students,2020-21,95674,7250,88424,92.4,590,168,28.5
+09X128,Mott Hall III,All Grades,All Students,2020-21,61374,3478,57896,94.3,357,64,17.9
+09X132,P.S. 132 Garret A. Morgan,All Grades,All Students,2020-21,58395,9398,48997,83.9,380,217,57.1
+09X163,P.S. 163 Arthur A. Schomburg,All Grades,All Students,2020-21,64396,4097,60299,93.6,383,87,22.7
+09X170,P.S. 170,All Grades,All Students,2020-21,38351,4309,34042,88.8,229,92,40.2
+09X199,P.S. 199X - The Shakespeare School,All Grades,All Students,2020-21,105373,8854,96519,91.6,642,186,29.0
+09X204,P.S. 204 Morris Heights,All Grades,All Students,2020-21,108078,7777,100301,92.8,634,124,19.6
+09X215,Kappa,All Grades,All Students,2020-21,55443,7233,48210,87.0,322,145,45.0
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magne,All Grades,All Students,2020-21,173613,14843,158770,91.5,1015,293,28.9
+09X219,I.S. 219 New Venture School,All Grades,All Students,2020-21,49516,1449,48067,97.1,294,24,8.2
+09X227,Bronx Collegiate Academy,All Grades,All Students,2020-21,63713,7085,56628,88.9,384,128,33.3
+09X229,I.S. 229 Roland Patterson,All Grades,All Students,2020-21,35504,2088,33416,94.1,210,35,16.7
+09X231,Eagle Academy for Young Men,All Grades,All Students,2020-21,84209,13908,70301,83.5,493,227,46.0
+09X232,I.S. 232,All Grades,All Students,2020-21,66010,6334,59676,90.4,387,118,30.5
+09X236,P.S. 236 Langston Hughes,All Grades,All Students,2020-21,49711,3108,46603,93.7,295,69,23.4
+09X241,Urban Assembly School for Applied Math and Science,All Grades,All Students,2020-21,106566,11435,95131,89.3,622,219,35.2
+09X250,Eximius College Preparatory Academy: A College Boa,All Grades,All Students,2020-21,67822,8981,58841,86.8,397,146,36.8
+09X252,Mott Hall Bronx High School,All Grades,All Students,2020-21,59662,10150,49512,83.0,350,155,44.3
+09X260,Bronx Center for Science and Mathematics,All Grades,All Students,2020-21,70606,11761,58845,83.3,442,243,55.0
+09X263,Validus Preparatory Academy,All Grades,All Students,2020-21,58067,7956,50111,86.3,339,134,39.5
+09X274,The New American Academy at Roberto Clemente State,All Grades,All Students,2020-21,90545,14680,75865,83.8,543,239,44.0
+09X294,The Walton Avenue School,All Grades,All Students,2020-21,77764,7348,70416,90.6,464,166,35.8
+09X297,Morris Academy for Collaborative Studies,All Grades,All Students,2020-21,80221,13620,66601,83.0,464,202,43.5
+09X303,I.S. X303 Leadership & Community Service,All Grades,All Students,2020-21,57024,3173,53851,94.4,330,52,15.8
+09X311,Lucero Elementary School,All Grades,All Students,2020-21,55846,3388,52458,93.9,334,70,21.0
+09X313,I.S. 313 School of Leadership Development,All Grades,All Students,2020-21,41881,4632,37249,88.9,249,92,36.9
+09X323,Bronx Writing Academy,All Grades,All Students,2020-21,57814,7691,50123,86.7,338,128,37.9
+09X324,Bronx Early College Academy for Teaching & Learnin,All Grades,All Students,2020-21,82259,14002,68257,83.0,496,218,44.0
+09X327,Comprehensive Model School Project M.S. 327,All Grades,All Students,2020-21,122172,19633,102539,83.9,709,278,39.2
+09X328,New Millennium Bronx Academy of the Arts,All Grades,All Students,2020-21,55056,5252,49804,90.5,325,112,34.5
+09X329,DreamYard Preparatory School,All Grades,All Students,2020-21,56751,8304,48447,85.4,338,151,44.7
+09X339,I.S. 339,All Grades,All Students,2020-21,55438,4366,51072,92.1,324,77,23.8
+09X361,The Highbridge Green School,All Grades,All Students,2020-21,67312,3193,64119,95.3,391,55,14.1
+09X365,Academy for Language and Technology,All Grades,All Students,2020-21,63956,4364,59592,93.2,377,87,23.1
+09X403,Bronx International High School,All Grades,All Students,2020-21,58500,14609,43891,75.0,336,159,47.3
+09X404,School for Excellence,All Grades,All Students,2020-21,30844,4772,26072,84.5,196,90,45.9
+09X412,Bronx High School of Business,All Grades,All Students,2020-21,54901,8288,46613,84.9,359,157,43.7
+09X413,Bronx High School for Medical Science,All Grades,All Students,2020-21,84862,6875,77987,91.9,498,126,25.3
+09X443,The Family School,All Grades,All Students,2020-21,86178,11155,75023,87.1,518,226,43.6
+09X449,Grant Avenue Elementary School,All Grades,All Students,2020-21,72031,6446,65585,91.1,434,135,31.1
+09X454,Science and Technology Academy: A Mott Hall School,All Grades,All Students,2020-21,70056,6031,64025,91.4,408,103,25.2
+09X457,Sheridan Academy for Young Leaders,All Grades,All Students,2020-21,87698,12467,75231,85.8,531,265,49.9
+09X505,"Bronx School for Law, Government and Justice",All Grades,All Students,2020-21,131382,13512,117870,89.7,750,187,24.9
+09X517,Frederick Douglass Academy III Secondary School,All Grades,All Students,2020-21,51996,10097,41899,80.6,308,156,50.6
+09X525,Bronx Leadership Academy High School,All Grades,All Students,2020-21,68845,6781,62064,90.2,411,90,21.9
+09X543,High School for Violin and Dance,All Grades,All Students,2020-21,36079,5091,30988,85.9,210,71,33.8
+09X555,Mount Eden Children's Academy,All Grades,All Students,2020-21,73475,5693,67782,92.3,433,106,24.5
+09X564,Claremont International HS,All Grades,All Students,2020-21,57697,12259,45438,78.8,356,198,55.6
+09X568,Young Women's Leadership School of the Bronx,All Grades,All Students,2020-21,96372,18426,77946,80.9,561,344,61.3
+09X593,South Bronx International Middle School,All Grades,All Students,2020-21,24020,757,23263,96.8,146,8,5.5
+09X594,M.S. 594,All Grades,All Students,2020-21,41891,3985,37906,90.5,247,57,23.1
+10X003,P.S. 3 Raul Julia Micro Society,All Grades,All Students,2020-21,58418,3855,54563,93.4,345,79,22.9
+10X007,Milton Fein School,All Grades,All Students,2020-21,85377,6011,79366,93.0,510,127,24.9
+10X008,P.S. 008 Isaac Varian,All Grades,All Students,2020-21,146284,18572,127712,87.3,868,330,38.0
+10X009,P.S. 9 Ryer Avenue Elementary School,All Grades,All Students,2020-21,131655,13716,117939,89.6,795,330,41.5
+10X015,P.S. X015 Institute for Environmental Learning,All Grades,All Students,2020-21,80953,8675,72278,89.3,467,146,31.3
+10X020,"PS/MS 20 P.O.George J. Werdann, III",All Grades,All Students,2020-21,148153,15401,132752,89.6,877,349,39.8
+10X023,P.S. 023 The New Children's School,All Grades,All Students,2020-21,69834,11922,57912,82.9,426,240,56.3
+10X024,P.S. 024 Spuyten Duyvil,All Grades,All Students,2020-21,137898,5330,132568,96.1,813,79,9.7
+10X032,P.S. 032 Belmont,All Grades,All Students,2020-21,118315,15686,102629,86.7,704,299,42.5
+10X033,P.S. 033 Timothy Dwight,All Grades,All Students,2020-21,129989,18155,111834,86.0,772,339,43.9
+10X037,P.S. X037 - Multiple Intelligence School,All Grades,All Students,2020-21,100791,13450,87341,86.7,581,230,39.6
+10X045,Thomas C. Giordano Middle School 45,All Grades,All Students,2020-21,121195,20002,101193,83.5,714,354,49.6
+10X046,P.S. 046 Edgar Allan Poe,All Grades,All Students,2020-21,127414,13777,113637,89.2,761,302,39.7
+10X051,The Bronx STEM and Arts Academy,All Grades,All Students,2020-21,33315,3816,29499,88.5,200,70,35.0
+10X054,P.S./I.S. 54,All Grades,All Students,2020-21,74787,5443,69344,92.7,448,102,22.8
+10X056,P.S. 056 Norwood Heights,All Grades,All Students,2020-21,118296,9022,109274,92.4,691,164,23.7
+10X059,P.S. 059 The Community School of Technology,All Grades,All Students,2020-21,83171,15225,67946,81.7,500,271,54.2
+10X077,Bedford Park Elementary School,All Grades,All Students,2020-21,87555,10050,77505,88.5,517,223,43.1
+10X080,J.H.S. 080 The Mosholu Parkway,All Grades,All Students,2020-21,105088,11917,93171,88.7,620,249,40.2
+10X081,P.S. 081 Robert J. Christen,All Grades,All Students,2020-21,125436,4449,120987,96.5,743,56,7.5
+10X085,P.S. 085 Great Expectations,All Grades,All Students,2020-21,134115,16435,117680,87.7,811,338,41.7
+10X086,P.S. 086 Kingsbridge Heights,All Grades,All Students,2020-21,267150,25922,241228,90.3,1565,464,29.6
+10X091,P.S. 091 Bronx,All Grades,All Students,2020-21,92268,8632,83636,90.6,546,172,31.5
+10X094,P.S. 094 Kings College School,All Grades,All Students,2020-21,185084,17217,167867,90.7,1090,371,34.0
+10X095,P.S. 095 Sheila Mencher,All Grades,All Students,2020-21,181283,22440,158843,87.6,1067,440,41.2
+10X118,J.H.S. 118 William W. Niles,All Grades,All Students,2020-21,166547,21850,144697,86.9,985,432,43.9
+10X141,Riverdale / Kingsbridge Academy (Middle School / H,All Grades,All Students,2020-21,272497,25571,246926,90.6,1583,433,27.4
+10X159,P.S. 159 Luis Munoz Marin Biling,All Grades,All Students,2020-21,27247,2428,24819,91.1,163,57,35.0
+10X205,P.S. 205 Fiorello LaGuardia,All Grades,All Students,2020-21,139059,17433,121626,87.5,834,330,39.6
+10X206,I.S. 206 Ann Mersereau,All Grades,All Students,2020-21,44316,3968,40348,91.0,258,68,26.4
+10X207,P.S. 207,All Grades,All Students,2020-21,69633,7142,62491,89.7,406,148,36.5
+10X209,P.S. 209,All Grades,All Students,2020-21,43704,3505,40199,92.0,259,78,30.1
+10X213,Bronx Engineering and Technology Academy,All Grades,All Students,2020-21,63382,14193,49189,77.6,371,176,47.4
+10X225,Theatre Arts Production Company School,All Grades,All Students,2020-21,94176,18027,76149,80.9,548,313,57.1
+10X226,P.S. 226,All Grades,All Students,2020-21,63426,6264,57162,90.1,384,133,34.6
+10X228,Jonas Bronck Academy,All Grades,All Students,2020-21,46645,588,46057,98.7,270,5,1.9
+10X237,"The Marie Curie School for Medicine, Nursing, and",All Grades,All Students,2020-21,65228,9793,55435,85.0,383,144,37.6
+10X243,West Bronx Academy for the Future,All Grades,All Students,2020-21,111750,10955,100795,90.2,647,191,29.5
+10X244,The New School for Leadership and Journalism,All Grades,All Students,2020-21,119557,7523,112034,93.7,703,133,18.9
+10X246,P.S. 246 Poe Center,All Grades,All Students,2020-21,101888,12015,89873,88.2,598,271,45.3
+10X254,I.S. 254,All Grades,All Students,2020-21,82533,6482,76051,92.1,483,130,26.9
+10X264,Bronx Academy for Software Engineering (BASE),All Grades,All Students,2020-21,71904,13068,58836,81.8,421,196,46.6
+10X268,Kingsbridge International High School,All Grades,All Students,2020-21,61606,18305,43301,70.3,349,189,54.2
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",All Grades,All Students,2020-21,154950,6918,148032,95.5,926,138,14.9
+10X280,P.S./M.S. 280 Mosholu Parkway,All Grades,All Students,2020-21,129207,16795,112412,87.0,765,332,43.4
+10X284,Bronx School of Law and Finance,All Grades,All Students,2020-21,60710,10572,50138,82.6,357,153,42.9
+10X291,P.S. 291,All Grades,All Students,2020-21,93037,16428,76609,82.3,546,306,56.0
+10X306,P.S. 306,All Grades,All Students,2020-21,95631,7572,88059,92.1,573,199,34.7
+10X307,Luisa Pineiro Fuentes School of Science and Discov,All Grades,All Students,2020-21,48910,2857,46053,94.2,291,61,21.0
+10X308,Bronx Dance Academy School,All Grades,All Students,2020-21,46413,5298,41115,88.6,267,110,41.2
+10X310,P.S. 310 Marble Hill,All Grades,All Students,2020-21,99915,9529,90386,90.5,595,210,35.3
+10X315,P.S. 315 Lab School,All Grades,All Students,2020-21,39192,3390,35802,91.4,225,63,28.0
+10X331,The Bronx School of Young Leaders,All Grades,All Students,2020-21,78334,6968,71366,91.1,457,140,30.6
+10X340,P.S. 340,All Grades,All Students,2020-21,92325,10569,81756,88.6,544,207,38.1
+10X342,International School for Liberal Arts,All Grades,All Students,2020-21,90606,7834,82772,91.4,537,100,18.6
+10X344,Ampark Neighborhood,All Grades,All Students,2020-21,63657,3279,60378,94.8,374,62,16.6
+10X351,Bronx Collaborative High School,All Grades,All Students,2020-21,95441,41897,53544,56.1,565,523,92.6
+10X353,World View High School,All Grades,All Students,2020-21,105014,6900,98114,93.4,606,127,21.0
+10X360,P.S. 360,All Grades,All Students,2020-21,62700,7638,55062,87.8,378,163,43.1
+10X363,Academy For Personal Leadership And Excellence,All Grades,All Students,2020-21,141432,19554,121878,86.2,833,349,41.9
+10X368,In-Tech Academy (M.S. / High School 368),All Grades,All Students,2020-21,172252,29068,143184,83.1,1009,531,52.6
+10X374,Knowledge and Power Preparatory Academy Internatio,All Grades,All Students,2020-21,69272,10006,59266,85.6,403,175,43.4
+10X382,"Elementary School for Math, Science, and Technolog",All Grades,All Students,2020-21,48620,7967,40653,83.6,288,136,47.2
+10X386,School for Environmental Citizenship,All Grades,All Students,2020-21,89214,13945,75269,84.4,523,268,51.2
+10X390,M.S. 390,All Grades,All Students,2020-21,96178,6368,89810,93.4,557,120,21.5
+10X391,The Angelo Patri Middle School,All Grades,All Students,2020-21,71744,9156,62588,87.2,425,163,38.4
+10X396,P.S. 396,All Grades,All Students,2020-21,47887,4056,43831,91.5,286,77,26.9
+10X433,High School for Teaching and the Professions,All Grades,All Students,2020-21,69857,7465,62392,89.3,413,162,39.2
+10X434,Belmont Preparatory High School,All Grades,All Students,2020-21,69548,12476,57072,82.1,395,171,43.3
+10X437,Fordham High School for the Arts,All Grades,All Students,2020-21,69868,5812,64056,91.7,401,91,22.7
+10X438,Fordham Leadership Academy,All Grades,All Students,2020-21,67532,2952,64580,95.6,416,48,11.5
+10X439,Bronx High School for Law and Community Service,All Grades,All Students,2020-21,68212,6186,62026,90.9,410,115,28.0
+10X440,DeWitt Clinton High School,All Grades,All Students,2020-21,165383,23219,142164,86.0,969,357,36.8
+10X442,"Celia Cruz Bronx High School of Music, The",All Grades,All Students,2020-21,79463,4330,75133,94.6,459,59,12.9
+10X445,The Bronx High School of Science,All Grades,All Students,2020-21,513610,9547,504063,98.1,2938,99,3.4
+10X447,Creston Academy,All Grades,All Students,2020-21,78093,7169,70924,90.8,457,135,29.5
+10X477,Marble Hill High School for International Studies,All Grades,All Students,2020-21,71266,7242,64024,89.8,447,131,29.3
+10X524,Crotona International High School,All Grades,All Students,2020-21,55116,9045,46071,83.6,364,187,51.4
+10X546,Bronx Theatre High School,All Grades,All Students,2020-21,50693,6504,44189,87.2,327,113,34.6
+10X549,Discovery High School,All Grades,All Students,2020-21,77346,6755,70591,91.3,468,143,30.6
+10X565,High School for Energy and Technology,All Grades,All Students,2020-21,71453,4323,67130,93.9,419,74,17.7
+10X696,High School of American Studies at Lehman College,All Grades,All Students,2020-21,67175,372,66803,99.4,387,4,1.0
+11X016,P.S. 016 Wakefield,All Grades,All Students,2020-21,50979,6263,44716,87.7,304,115,37.8
+11X019,P.S. 019 Judith K. Weiss,All Grades,All Students,2020-21,93596,2898,90698,96.9,553,41,7.4
+11X021,P.S. 021 Philip H. Sheridan,All Grades,All Students,2020-21,93442,7159,86283,92.3,580,157,27.1
+11X041,P.S. 041 Gun Hill Road,All Grades,All Students,2020-21,125525,15287,110238,87.8,759,311,41.0
+11X068,P.S. 068 Bronx,All Grades,All Students,2020-21,89663,8389,81274,90.6,542,174,32.1
+11X076,P.S. 076 The Bennington School,All Grades,All Students,2020-21,137557,11557,126000,91.6,819,245,29.9
+11X078,P.S. 078 Anne Hutchinson,All Grades,All Students,2020-21,120390,15431,104959,87.2,734,311,42.4
+11X083,P.S. 083 Donald Hertz,All Grades,All Students,2020-21,278503,12331,266172,95.6,1659,193,11.6
+11X087,P.S. 087 Bronx,All Grades,All Students,2020-21,77613,9262,68351,88.1,463,183,39.5
+11X089,P.S. 089 Bronx,All Grades,All Students,2020-21,244798,19441,225357,92.1,1449,338,23.3
+11X096,P.S. 096 Richard Rodgers,All Grades,All Students,2020-21,149340,9300,140040,93.8,888,178,20.0
+11X097,P.S. 097 Bronx,All Grades,All Students,2020-21,87397,6816,80581,92.2,527,146,27.7
+11X103,P.S. 103 Hector Fontanez,All Grades,All Students,2020-21,147544,16762,130782,88.6,888,321,36.1
+11X105,P.S. 105 Sen Abraham Bernstein,All Grades,All Students,2020-21,155744,12078,143666,92.2,933,250,26.8
+11X106,P.S. 106 Parkchester,All Grades,All Students,2020-21,167238,14538,152700,91.3,1016,288,28.3
+11X108,P.S. 108 Philip J. Abinanti,All Grades,All Students,2020-21,93981,2325,91656,97.5,566,26,4.6
+11X111,P.S. 111 Seton Falls,All Grades,All Students,2020-21,87303,12673,74630,85.5,525,268,51.0
+11X112,P.S. 112 Bronxwood,All Grades,All Students,2020-21,64558,8539,56019,86.8,387,176,45.5
+11X121,P.S. 121 Throop,All Grades,All Students,2020-21,121642,12021,109621,90.1,728,211,29.0
+11X127,J.H.S. 127 The Castle Hill,All Grades,All Students,2020-21,152924,13688,139236,91.0,896,264,29.5
+11X144,J.H.S. 144 Michelangelo,All Grades,All Students,2020-21,76079,6858,69221,91.0,447,133,29.8
+11X153,P.S. 153 Helen Keller,All Grades,All Students,2020-21,93230,3052,90178,96.7,547,44,8.0
+11X160,P.S. 160 Walt Disney,All Grades,All Students,2020-21,60835,2555,58280,95.8,371,47,12.7
+11X169,Baychester Academy,All Grades,All Students,2020-21,66536,3954,62582,94.1,401,81,20.2
+11X175,P.S. 175 City Island,All Grades,All Students,2020-21,49307,2710,46597,94.5,288,50,17.4
+11X178,P.S. 178 - Dr. Selman Waksman,All Grades,All Students,2020-21,61045,5117,55928,91.6,365,83,22.7
+11X180,M.S. 180 Dr. Daniel Hale Williams,All Grades,All Students,2020-21,171652,13267,158385,92.3,998,249,24.9
+11X181,I.S. 181 Pablo Casals,All Grades,All Students,2020-21,148609,8375,140234,94.4,860,153,17.8
+11X189,Cornerstone Academy for Social Action,All Grades,All Students,2020-21,55126,5723,49403,89.6,336,125,37.2
+11X194,P.S./M.S. 194,All Grades,All Students,2020-21,206249,15093,191156,92.7,1217,308,25.3
+11X249,Bronx Health Sciences High School,All Grades,All Students,2020-21,58105,3770,54335,93.5,340,55,16.2
+11X253,Bronx High School for Writing and Communication Ar,All Grades,All Students,2020-21,45223,5639,39584,87.5,280,82,29.3
+11X265,Bronx Lab School,All Grades,All Students,2020-21,51096,20263,30833,60.3,311,290,93.2
+11X270,Academy for Scholarship and Entrepreneurship: A Co,All Grades,All Students,2020-21,62148,8911,53237,85.7,387,185,47.8
+11X275,High School of Computers and Technology,All Grades,All Students,2020-21,85880,13276,72604,84.5,508,190,37.4
+11X287,North Bronx School of Empowerment,All Grades,All Students,2020-21,74461,11316,63145,84.8,439,192,43.7
+11X288,Collegiate Institute for Math and Science,All Grades,All Students,2020-21,97610,15454,82156,84.2,599,242,40.4
+11X290,Bronx Academy of Health Careers,All Grades,All Students,2020-21,66036,12859,53177,80.5,390,201,51.5
+11X299,Astor Collegiate Academy,All Grades,All Students,2020-21,82652,13771,68881,83.3,479,186,38.8
+11X326,Bronx Green Middle School,All Grades,All Students,2020-21,72092,6589,65503,90.9,431,123,28.5
+11X355,Bronx Alliance Middle School,All Grades,All Students,2020-21,51966,5093,46873,90.2,304,105,34.5
+11X357,Young Voices Academy of the Bronx,All Grades,All Students,2020-21,70659,2853,67806,96.0,415,50,12.0
+11X370,Leaders of Tomorrow,All Grades,All Students,2020-21,76521,8902,67619,88.4,457,161,35.2
+11X418,Bronx High School for the Visual Arts,All Grades,All Students,2020-21,81538,15296,66242,81.2,476,217,45.6
+11X455,Harry S Truman High School,All Grades,All Students,2020-21,385821,76879,308942,80.1,2268,1318,58.1
+11X462,Cornerstone Academy for Social Action Middle Schoo,All Grades,All Students,2020-21,41153,2355,38798,94.3,240,32,13.3
+11X468,Pelham Academy of Academics and Community Engageme,All Grades,All Students,2020-21,56675,1377,55298,97.6,328,18,5.5
+11X481,The STEAM Bridge School,All Grades,All Students,2020-21,47759,3763,43996,92.1,286,85,29.7
+11X483,The Matilda Avenue School,All Grades,All Students,2020-21,43342,3380,39962,92.2,254,64,25.2
+11X498,P.S./M.S. 11X498 - Van Nest Academy,All Grades,All Students,2020-21,110335,4262,106073,96.1,644,74,11.5
+11X508,Bronxdale High School,All Grades,All Students,2020-21,79008,14535,64473,81.6,461,236,51.2
+11X509,High School of Language and Innovation,All Grades,All Students,2020-21,63923,6966,56957,89.1,395,127,32.2
+11X513,New World High School,All Grades,All Students,2020-21,62090,6964,55126,88.8,379,152,40.1
+11X514,The Bronxwood Preparatory Academy,All Grades,All Students,2020-21,62958,9078,53880,85.6,397,151,38.0
+11X529,One World Middle School at Edenwald,All Grades,All Students,2020-21,58893,5156,53737,91.2,342,98,28.7
+11X532,Baychester Middle School,All Grades,All Students,2020-21,49106,4351,44755,91.1,289,85,29.4
+11X542,Pelham Preparatory Academy,All Grades,All Students,2020-21,85986,9744,76242,88.7,504,174,34.5
+11X544,High School for Contemporary Arts,All Grades,All Students,2020-21,52983,8524,44459,83.9,342,139,40.6
+11X545,Bronx Aerospace High School,All Grades,All Students,2020-21,34331,4235,30096,87.7,217,62,28.6
+11X556,Bronx Park Middle School,All Grades,All Students,2020-21,67897,7964,59933,88.3,397,133,33.5
+11X566,Pelham Gardens Middle School,All Grades,All Students,2020-21,73603,6066,67537,91.8,428,112,26.2
+11X567,Linden Tree Elementary School,All Grades,All Students,2020-21,63982,5730,58252,91.0,387,118,30.5
+12X006,P.S. 006 West Farms,All Grades,All Students,2020-21,88896,12437,76459,86.0,535,275,51.4
+12X044,P.S. 044 David C. Farragut,All Grades,All Students,2020-21,43923,5985,37938,86.4,275,142,51.6
+12X047,P.S. 047 John Randolph,All Grades,All Students,2020-21,163909,16076,147833,90.2,977,318,32.5
+12X057,P.S. 057 Crescent,All Grades,All Students,2020-21,82116,9091,73025,88.9,481,202,42.0
+12X061,P.S. 061 Francisco Oller,All Grades,All Students,2020-21,44266,6283,37983,85.8,267,131,49.1
+12X066,P.S. 066 School of Higher Expectations,All Grades,All Students,2020-21,90692,11172,79520,87.7,568,240,42.3
+12X067,P.S. 067 Mohegan School,All Grades,All Students,2020-21,64268,6576,57692,89.8,399,136,34.1
+12X098,J.H.S. 098 Herman Ridder,All Grades,All Students,2020-21,32635,4559,28076,86.0,193,88,45.6
+12X129,M.S. 129 Academy for Independent Learning and Lead,All Grades,All Students,2020-21,84914,12700,72214,85.0,496,225,45.4
+12X134,P.S. 134 George F. Bristow,All Grades,All Students,2020-21,88867,10704,78163,88.0,540,216,40.0
+12X150,P.S. 150 Charles James Fox,All Grades,All Students,2020-21,106684,13362,93322,87.5,640,287,44.8
+12X190,E.S.M.T- I.S. 190,All Grades,All Students,2020-21,46899,3806,43093,91.9,275,72,26.2
+12X195,P.S. 195,All Grades,All Students,2020-21,137454,16065,121389,88.3,828,358,43.2
+12X196,P.S. 196,All Grades,All Students,2020-21,130480,10559,119921,91.9,773,202,26.1
+12X211,P.S. 211,All Grades,All Students,2020-21,79360,6316,73044,92.0,466,109,23.4
+12X214,P.S. 214,All Grades,All Students,2020-21,174408,12591,161817,92.8,1035,279,27.0
+12X217,School of Performing Arts,All Grades,All Students,2020-21,53300,3428,49872,93.6,321,63,19.6
+12X242,Mott Hall V,All Grades,All Students,2020-21,117594,11801,105793,90.0,679,210,30.9
+12X248,"Metropolitan High School, The",All Grades,All Students,2020-21,26507,3200,23307,87.9,172,59,34.3
+12X251,Explorations Academy H.S.,All Grades,All Students,2020-21,55462,7484,47978,86.5,346,142,41.0
+12X267,Bronx Latin,All Grades,All Students,2020-21,95794,9655,86139,89.9,552,201,36.4
+12X271,East Bronx Academy for the Future,All Grades,All Students,2020-21,115320,13926,101394,87.9,676,258,38.2
+12X273,Frederick Douglass Academy V. Middle School,All Grades,All Students,2020-21,35705,3033,32672,91.5,205,59,28.8
+12X286,Fannie Lou Hamer Middle School,All Grades,All Students,2020-21,48136,3810,44326,92.1,281,74,26.3
+12X300,The School of Science and Applied Learning,All Grades,All Students,2020-21,89232,12880,76352,85.6,530,232,43.8
+12X314,Fairmont Neighborhood School,All Grades,All Students,2020-21,42112,4832,37280,88.5,251,105,41.8
+12X316,Kappa III,All Grades,All Students,2020-21,62661,7076,55585,88.7,364,125,34.3
+12X318,"I.S. X318 Math, Science & Technology Through Arts",All Grades,All Students,2020-21,32649,2388,30261,92.7,193,39,20.2
+12X341,Accion Academy,All Grades,All Students,2020-21,54028,3324,50704,93.8,317,54,17.0
+12X383,Emolior Academy,All Grades,All Students,2020-21,65861,2809,63052,95.7,385,49,12.7
+12X388,Pan American International High School at Monroe,All Grades,All Students,2020-21,63949,11119,52830,82.6,400,202,50.5
+12X458,Samara Community School,All Grades,All Students,2020-21,47702,2222,45480,95.3,280,28,10.0
+12X463,Urban Scholars Community School,All Grades,All Students,2020-21,68362,8963,59399,86.9,408,178,43.6
+12X478,The Cinema School,All Grades,All Students,2020-21,62559,9258,53301,85.2,366,197,53.8
+12X479,Bronx Career and College Preparatory High School,All Grades,All Students,2020-21,45566,8484,37082,81.4,277,137,49.5
+12X511,Bronx Envision Academy,All Grades,All Students,2020-21,65198,11747,53451,82.0,391,167,42.7
+12X521,The Metropolitan Soundview High School,All Grades,All Students,2020-21,77200,7786,69414,89.9,458,142,31.0
+12X531,Archer Elementary School,All Grades,All Students,2020-21,68630,5286,63344,92.3,403,112,27.8
+12X536,P.S. 536,All Grades,All Students,2020-21,61128,5252,55876,91.4,361,105,29.1
+12X550,High School of World Cultures,All Grades,All Students,2020-21,52321,7215,45106,86.2,327,131,40.1
+12X595,P.S. 595,All Grades,All Students,2020-21,38964,3831,35133,90.2,242,83,34.3
+12X626,District 12 Pre-K Center,All Grades,All Students,2020-21,1283,249,1034,80.6,11,8,72.7
+12X682,Fannie Lou Hamer Freedom High School,All Grades,All Students,2020-21,80795,24896,55899,69.2,483,420,87.0
+12X684,Wings Academy,All Grades,All Students,2020-21,56434,9782,46652,82.7,343,145,42.3
+12X691,Bronx Little School,All Grades,All Students,2020-21,53591,2844,50747,94.7,330,56,17.0
+13K003,P.S. 003 The Bedford Village,All Grades,All Students,2020-21,45373,7591,37782,83.3,271,146,53.9
+13K008,P.S. 008 Robert Fulton,All Grades,All Students,2020-21,105367,3759,101608,96.4,630,53,8.4
+13K009,Public School 9 The Sarah Smith Garnet School,All Grades,All Students,2020-21,145266,8493,136773,94.2,879,141,16.0
+13K011,P.S. 011 Purvis J. Behan,All Grades,All Students,2020-21,147753,7394,140359,95.0,878,135,15.4
+13K020,P.S. 020 Clinton Hill,All Grades,All Students,2020-21,90107,6970,83137,92.3,535,127,23.7
+13K044,P.S. 044 Marcus Garvey,All Grades,All Students,2020-21,22610,2260,20350,90.0,146,61,41.8
+13K046,P.S. 046 Edward C. Blum,All Grades,All Students,2020-21,38444,6478,31966,83.1,233,135,57.9
+13K054,P.S. 054 Samuel C. Barnes,All Grades,All Students,2020-21,31214,3289,27925,89.5,189,68,36.0
+13K056,P.S. 056 Lewis H. Latimer,All Grades,All Students,2020-21,47373,4854,42519,89.8,281,82,29.2
+13K067,P.S. 067 Charles A. Dorsey,All Grades,All Students,2020-21,37435,5620,31815,85.0,222,102,45.9
+13K093,P.S. 093 William H. Prescott,All Grades,All Students,2020-21,30707,3833,26874,87.5,184,80,43.5
+13K113,M.S. 113 Ronald Edmonds Learning Center,All Grades,All Students,2020-21,56773,13179,43594,76.8,330,216,65.5
+13K133,P.S. 133 William A. Butler,All Grades,All Students,2020-21,115017,5014,110003,95.6,673,90,13.4
+13K256,P.S. 256 Benjamin Banneker,All Grades,All Students,2020-21,34444,8154,26290,76.3,202,155,76.7
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,All Grades,All Students,2020-21,55101,5669,49432,89.7,332,77,23.2
+13K266,M.S. K266 - Park Place Community Middle School,All Grades,All Students,2020-21,26039,1857,24182,92.9,152,26,17.1
+13K270,P.S. 270 Johann DeKalb,All Grades,All Students,2020-21,16563,1839,14724,88.9,98,28,28.6
+13K282,P.S. 282 Park Slope,All Grades,All Students,2020-21,80091,6295,73796,92.1,483,117,24.2
+13K287,P.S. 287 Bailey K. Ashford,All Grades,All Students,2020-21,20683,1808,18875,91.3,126,46,36.5
+13K301,Satellite East Middle School,All Grades,All Students,2020-21,14436,1445,12991,90.0,86,31,36.0
+13K307,P.S. 307 Daniel Hale Williams,All Grades,All Students,2020-21,56330,8347,47983,85.2,342,143,41.8
+13K313,Dock Street School for STEAM Studies,All Grades,All Students,2020-21,49336,1425,47911,97.1,283,19,6.7
+13K350,Urban Assembly School of Music and Art,All Grades,All Students,2020-21,28753,5813,22940,79.8,177,91,51.4
+13K351,The Urban Assembly Unison School,All Grades,All Students,2020-21,32889,1589,31300,95.2,197,31,15.7
+13K412,Brooklyn Community Arts & Media High School (BCAM),All Grades,All Students,2020-21,94496,23456,71040,75.2,550,294,53.5
+13K419,"Science Skills Center High School for Science, Tec",All Grades,All Students,2020-21,99533,3773,95760,96.2,595,78,13.1
+13K430,Brooklyn Technical High School,All Grades,All Students,2020-21,1024625,50640,973985,95.1,5963,625,10.5
+13K439,Brooklyn International High School,All Grades,All Students,2020-21,59867,12941,46926,78.4,355,178,50.1
+13K483,The Urban Assembly School for Law and Justice,All Grades,All Students,2020-21,79970,9012,70958,88.7,462,169,36.6
+13K492,Academy of Arts and Letters,All Grades,All Students,2020-21,114035,8542,105493,92.5,671,141,21.0
+13K527,Urban Assembly Institute of Math and Science for Y,All Grades,All Students,2020-21,85916,11215,74701,86.9,499,208,41.7
+13K594,Gotham Professional Arts Academy,All Grades,All Students,2020-21,29502,5894,23608,80.0,175,127,72.6
+13K595,Bedford Academy High School,All Grades,All Students,2020-21,67689,4150,63539,93.9,399,83,20.8
+13K605,George Westinghouse Career and Technical Education,All Grades,All Students,2020-21,123932,20008,103924,83.9,725,266,36.7
+13K670,Benjamin Banneker Academy,All Grades,All Students,2020-21,149976,14883,135093,90.1,886,294,33.2
+13K674,"City Polytechnic High School of Engineering, Archi",All Grades,All Students,2020-21,80336,12098,68238,84.9,468,204,43.6
+13K691,Fort Greene Preparatory Academy,All Grades,All Students,2020-21,33117,3733,29384,88.7,195,77,39.5
+13K915,I.S. 915,All Grades,All Students,2020-21,51503,2499,49004,95.1,302,37,12.3
+14K016,P.S. 016 Leonard Dunkly,All Grades,All Students,2020-21,31648,3319,28329,89.5,196,80,40.8
+14K017,P.S. 017 Henry D. Woodworth,All Grades,All Students,2020-21,45841,5250,40591,88.5,271,112,41.3
+14K018,P.S. 018 Edward Bush,All Grades,All Students,2020-21,33368,5752,27616,82.8,203,104,51.2
+14K023,P.S. 023 Carter G. Woodson,All Grades,All Students,2020-21,41580,7095,34485,82.9,250,139,55.6
+14K031,P.S. 031 Samuel F. Dupont,All Grades,All Students,2020-21,98772,2537,96235,97.4,590,40,6.8
+14K034,P.S. 034 Oliver H. Perry,All Grades,All Students,2020-21,74104,3309,70795,95.5,458,60,13.1
+14K050,J.H.S. 050 John D. Wells,All Grades,All Students,2020-21,58710,3563,55147,93.9,342,58,17.0
+14K059,P.S. 059 William Floyd,All Grades,All Students,2020-21,52097,6326,45771,87.9,309,111,35.9
+14K071,Juan Morel Campos Secondary School,All Grades,All Students,2020-21,86639,16850,69789,80.6,505,271,53.7
+14K084,P.S. 084 Jose De Diego,All Grades,All Students,2020-21,120264,11143,109121,90.7,713,214,30.0
+14K110,P.S. 110 The Monitor,All Grades,All Students,2020-21,91003,4906,86097,94.6,554,77,13.9
+14K120,P.S. 120 Carlos Tapia,All Grades,All Students,2020-21,60616,7894,52722,87.0,360,168,46.7
+14K126,John Ericsson Middle School 126,All Grades,All Students,2020-21,47382,3284,44098,93.1,277,63,22.7
+14K132,P.S. 132 The Conselyea School,All Grades,All Students,2020-21,118125,5733,112392,95.1,692,93,13.4
+14K147,P.S. 147 Isaac Remsen,All Grades,All Students,2020-21,52176,6419,45757,87.7,320,113,35.3
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Scien,All Grades,All Students,2020-21,57310,7555,49755,86.8,344,157,45.6
+14K196,P.S. 196 Ten Eyck,All Grades,All Students,2020-21,51057,6688,44369,86.9,308,137,44.5
+14K250,P.S. 250 George H. Lindsay,All Grades,All Students,2020-21,63144,6530,56614,89.7,370,127,34.3
+14K257,P.S. 257 John F. Hylan,All Grades,All Students,2020-21,91494,8357,83137,90.9,541,179,33.1
+14K297,P.S. 297 Abraham Stockton,All Grades,All Students,2020-21,34825,4884,29941,86.0,205,81,39.5
+14K318,I.S. 318 Eugenio Maria De Hostos,All Grades,All Students,2020-21,220715,20301,200414,90.8,1276,345,27.0
+14K319,P.S. 319,All Grades,All Students,2020-21,19412,1535,17877,92.1,118,36,30.5
+14K380,P.S. 380 John Wayne Elementary,All Grades,All Students,2020-21,84208,4969,79239,94.1,491,109,22.2
+14K414,Brooklyn Arbor Elementary School,All Grades,All Students,2020-21,99408,5905,93503,94.1,574,115,20.0
+14K449,"Brooklyn Latin School, The",All Grades,All Students,2020-21,140807,7138,133669,94.9,808,110,13.6
+14K454,The Williamsburg High School of Art and Technology,All Grades,All Students,2020-21,65225,5910,59315,90.9,383,118,30.8
+14K474,PROGRESS High School for Professional Careers,All Grades,All Students,2020-21,85765,18541,67224,78.4,540,295,54.6
+14K477,East Williamsburg Scholars Academy,All Grades,All Students,2020-21,53900,9173,44727,83.0,333,148,44.4
+14K478,"The High School for Enterprise, Business and Techn",All Grades,All Students,2020-21,118279,18783,99496,84.1,697,273,39.2
+14K488,Brooklyn Preparatory High School,All Grades,All Students,2020-21,83853,29743,54110,64.5,533,473,88.7
+14K558,Williamsburg High School for Architecture and Desi,All Grades,All Students,2020-21,105907,7232,98675,93.2,607,101,16.6
+14K561,Williamsburg Preparatory School,All Grades,All Students,2020-21,119725,10397,109328,91.3,719,175,24.3
+14K577,Conselyea Preparatory School,All Grades,All Students,2020-21,82500,2071,80429,97.5,475,16,3.4
+14K582,M.S. 582,All Grades,All Students,2020-21,61893,7882,54011,87.3,362,151,41.7
+14K586,Lyons Community School,All Grades,All Students,2020-21,70622,19991,50631,71.7,415,323,77.8
+14K610,A-Tech High School,All Grades,All Students,2020-21,54726,9154,45572,83.3,338,169,50.0
+14K614,Young Women's Leadership School of Brooklyn,All Grades,All Students,2020-21,64270,10160,54110,84.2,384,196,51.0
+14K685,El Puente Academy for Peace and Justice,All Grades,All Students,2020-21,30429,4360,26069,85.7,223,73,32.7
+15K001,P.S. 001 The Bergen,All Grades,All Students,2020-21,166019,14699,151320,91.1,977,318,32.5
+15K010,"Magnet School of Math, Science and Design Technolo",All Grades,All Students,2020-21,149790,8569,141221,94.3,879,151,17.2
+15K015,P.S. 015 Patrick F. Daly,All Grades,All Students,2020-21,74281,4485,69796,94.0,437,91,20.8
+15K024,P.S. 024,All Grades,All Students,2020-21,95130,6305,88825,93.4,562,123,21.9
+15K029,P.S. 029 John M. Harrigan,All Grades,All Students,2020-21,139432,3445,135987,97.5,819,33,4.0
+15K032,P.S. 032 Samuel Mills Sprole,All Grades,All Students,2020-21,79808,6615,73193,91.7,469,90,19.2
+15K038,P.S. 038 The Pacific,All Grades,All Students,2020-21,93593,6759,86834,92.8,554,122,22.0
+15K039,P.S. 039 Henry Bristow,All Grades,All Students,2020-21,68133,2788,65345,95.9,412,39,9.5
+15K051,M.S. 51 William Alexander,All Grades,All Students,2020-21,196145,20409,175736,89.6,1156,397,34.3
+15K058,P.S. 058 The Carroll,All Grades,All Students,2020-21,145637,2260,143377,98.4,878,12,1.4
+15K088,J.H.S. 088 Peter Rouget,All Grades,All Students,2020-21,242448,35491,206957,85.4,1417,666,47.0
+15K094,P.S. 094 The Henry Longfellow,All Grades,All Students,2020-21,198451,6298,192153,96.8,1156,116,10.0
+15K107,P.S. 107 John W. Kimball,All Grades,All Students,2020-21,85665,2528,83137,97.0,509,30,5.9
+15K118,The Maurice Sendak Community School,All Grades,All Students,2020-21,46900,1674,45226,96.4,275,22,8.0
+15K124,P.S. 124 Silas B. Dutcher,All Grades,All Students,2020-21,47760,7053,40707,85.2,293,134,45.7
+15K130,P.S. 130 The Parkside,All Grades,All Students,2020-21,148150,5868,142282,96.0,884,95,10.7
+15K131,P.S. 131 Brooklyn,All Grades,All Students,2020-21,129811,10459,119352,91.9,766,216,28.2
+15K136,I.S. 136 Charles O. Dewey,All Grades,All Students,2020-21,85645,4203,81442,95.1,504,67,13.3
+15K146,"The Brooklyn New School, P.S. 146",All Grades,All Students,2020-21,123814,6792,117022,94.5,724,104,14.4
+15K154,The Windsor Terrace School,All Grades,All Students,2020-21,75958,860,75098,98.9,451,4,0.9
+15K169,P.S. 169 Sunset Park,All Grades,All Students,2020-21,210804,8705,202099,95.9,1229,154,12.5
+15K172,P.S. 172 Beacon School of Excellence,All Grades,All Students,2020-21,98521,4454,94067,95.5,569,64,11.2
+15K230,P.S. 230 Doris L. Cohen,All Grades,All Students,2020-21,183106,16026,167080,91.2,1071,286,26.7
+15K261,P.S. 261 Philip Livingston,All Grades,All Students,2020-21,120993,3824,117169,96.8,705,52,7.4
+15K295,P.S. 295,All Grades,All Students,2020-21,63314,4762,58552,92.5,375,78,20.8
+15K321,P.S. 321 William Penn,All Grades,All Students,2020-21,213300,5720,207580,97.3,1261,45,3.6
+15K418,The Children's School,All Grades,All Students,2020-21,48150,1298,46852,97.3,291,15,5.2
+15K429,Digital Arts and Cinema Technology High School,All Grades,All Students,2020-21,59274,6323,52951,89.3,342,120,35.1
+15K442,M.S. 442 Carroll Gardens School for Innovation,All Grades,All Students,2020-21,62115,3074,59041,95.1,357,49,13.7
+15K443,New Voices School of Academic & Creative Arts,All Grades,All Students,2020-21,99442,8196,91246,91.8,580,169,29.1
+15K447,The Math & Science Exploratory School,All Grades,All Students,2020-21,93375,3535,89840,96.2,547,62,11.3
+15K448,Brooklyn Collaborative Studies,All Grades,All Students,2020-21,120168,25652,94516,78.7,691,416,60.2
+15K462,John Jay School for Law,All Grades,All Students,2020-21,85434,12672,72762,85.2,494,203,41.1
+15K463,Cyberarts Studio Academy,All Grades,All Students,2020-21,41455,6890,34565,83.4,266,134,50.4
+15K464,Park Slope Collegiate,All Grades,All Students,2020-21,118337,25451,92886,78.5,689,329,47.8
+15K497,The Boerum Hill School for International Studies,All Grades,All Students,2020-21,133777,14261,119516,89.3,795,227,28.6
+15K516,Sunset Park Avenues Elementary School,All Grades,All Students,2020-21,76258,5050,71208,93.4,459,95,20.7
+15K519,Cobble Hill School of American Studies,All Grades,All Students,2020-21,81976,20640,61336,74.8,486,249,51.2
+15K592,Khalil Gibran International Academy,All Grades,All Students,2020-21,26662,3802,22860,85.7,167,52,31.1
+15K656,Brooklyn High School of the Arts,All Grades,All Students,2020-21,166055,19709,146346,88.1,959,335,34.9
+15K667,Sunset Park High School,All Grades,All Students,2020-21,221077,50769,170308,77.0,1325,851,64.2
+15K676,Red Hook Neighborhood School,All Grades,All Students,2020-21,17578,2031,15547,88.4,110,45,40.9
+15K684,Millennium Brooklyn HS,All Grades,All Students,2020-21,120508,544,119964,99.5,692,0,0.0
+15K821,Sunset Park Prep,All Grades,All Students,2020-21,88455,2886,85569,96.7,528,48,9.1
+15K839,M.S. 839,All Grades,All Students,2020-21,63248,3329,59919,94.7,365,45,12.3
+15K896,The School of Creativity and Innovation,All Grades,All Students,2020-21,26123,2816,23307,89.2,154,40,26.0
+16K005,P.S. 005 Dr. Ronald McNair,All Grades,All Students,2020-21,34527,2185,32342,93.7,218,51,23.4
+16K021,P.S. 021 Crispus Attucks,All Grades,All Students,2020-21,93124,9554,83570,89.7,554,186,33.6
+16K025,P.S. 025 Eubie Blake School,All Grades,All Students,2020-21,10311,1275,9036,87.6,67,25,37.3
+16K026,P.S. 026 Jesse Owens,All Grades,All Students,2020-21,36716,5756,30960,84.3,220,102,46.4
+16K035,M.S. 035 Stephen Decatur,All Grades,All Students,2020-21,32867,3133,29734,90.5,191,51,26.7
+16K040,P.S. 040 George W. Carver,All Grades,All Students,2020-21,78734,5817,72917,92.6,472,129,27.3
+16K057,Whitelaw Reid Academy of Arts and Business,All Grades,All Students,2020-21,17329,1879,15450,89.2,105,38,36.2
+16K081,P.S. 081 Thaddeus Stevens,All Grades,All Students,2020-21,46992,2996,43996,93.6,296,64,21.6
+16K243,P.S. 243K- The Weeksville School,All Grades,All Students,2020-21,32868,1190,31678,96.4,204,25,12.3
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,All Grades,All Students,2020-21,27528,3629,23899,86.8,167,74,44.3
+16K267,"M.S. 267 Math, Science & Technology",All Grades,All Students,2020-21,34794,3241,31553,90.7,202,65,32.2
+16K308,P.S. 308 Clara Cardwell,All Grades,All Students,2020-21,44216,3178,41038,92.8,274,69,25.2
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,All Grades,All Students,2020-21,29512,3102,26410,89.5,177,56,31.6
+16K335,P.S. 335 Granville T. Woods,All Grades,All Students,2020-21,33984,4096,29888,87.9,207,83,40.1
+16K455,Boys and Girls High School,All Grades,All Students,2020-21,77096,18851,58245,75.5,442,200,45.2
+16K498,Brooklyn High School for Law and Technology,All Grades,All Students,2020-21,106207,25165,81042,76.3,609,280,46.0
+16K627,Brighter Choice Community School,All Grades,All Students,2020-21,53920,5516,48404,89.8,330,117,35.5
+16K628,Brooklyn Brownstone School,All Grades,All Students,2020-21,54881,2157,52724,96.1,327,35,10.7
+16K681,Madiba Prep Middle School,All Grades,All Students,2020-21,40124,3886,36238,90.3,237,79,33.3
+16K688,The Brooklyn Academy of Global Finance,All Grades,All Students,2020-21,22422,3150,19272,86.0,137,55,40.1
+16K765,Nelson Mandela High School,All Grades,All Students,2020-21,29168,5350,23818,81.7,187,92,49.2
+16K898,The Brooklyn Green School,All Grades,All Students,2020-21,25801,974,24827,96.2,152,18,11.8
+17K002,Parkside Preparatory Academy,All Grades,All Students,2020-21,72323,11714,60609,83.8,428,237,55.4
+17K006,Norma Adams Clemons Academy,All Grades,All Students,2020-21,105300,13744,91556,86.9,650,326,50.2
+17K012,Dr. Jacqueline Peek-Davis School,All Grades,All Students,2020-21,34702,6758,27944,80.5,210,121,57.6
+17K061,M.S. 061 Dr. Gladstone H. Atwell,All Grades,All Students,2020-21,86770,10754,76016,87.6,508,206,40.6
+17K091,P.S. 091 The Albany Avenue School,All Grades,All Students,2020-21,32724,4571,28153,86.0,197,89,45.2
+17K092,P.S. 092 Adrian Hegeman,All Grades,All Students,2020-21,54177,10045,44132,81.5,324,194,59.9
+17K122,Pathways in Technology Early College High School (,All Grades,All Students,2020-21,93272,19123,74149,79.5,548,273,49.8
+17K138,P.S. 138 Brooklyn,All Grades,All Students,2020-21,86353,13959,72394,83.8,520,236,45.4
+17K161,P.S. 161 The Crown,All Grades,All Students,2020-21,54764,7836,46928,85.7,351,170,48.4
+17K181,P.S. 181 Brooklyn,All Grades,All Students,2020-21,103423,14784,88639,85.7,619,265,42.8
+17K189,P.S. 189 The Bilingual Center,All Grades,All Students,2020-21,164872,12508,152364,92.4,983,234,23.8
+17K191,P.S. 191 Paul Robeson,All Grades,All Students,2020-21,30272,2083,28189,93.1,183,45,24.6
+17K221,P.S. 221 Toussaint L'Ouverture,All Grades,All Students,2020-21,32887,4488,28399,86.4,193,90,46.6
+17K241,P.S. 241 Emma L. Johnston,All Grades,All Students,2020-21,69231,4956,64275,92.8,416,96,23.1
+17K246,M.S. 246 Walt Whitman,All Grades,All Students,2020-21,62453,13209,49244,78.8,372,241,64.8
+17K249,P.S. 249 The Caton,All Grades,All Students,2020-21,140761,6616,134145,95.3,829,120,14.5
+17K289,P.S. 289 George V. Brower,All Grades,All Students,2020-21,49133,3793,45340,92.3,303,91,30.0
+17K316,P.S. 316 Elijah Stroud,All Grades,All Students,2020-21,97716,4868,92848,95.0,572,79,13.8
+17K340,I.S. 340,All Grades,All Students,2020-21,38296,3368,34928,91.2,223,72,32.3
+17K352,Ebbets Field Middle School,All Grades,All Students,2020-21,22386,2401,19985,89.3,134,42,31.3
+17K353,Elijah Stroud Middle School,All Grades,All Students,2020-21,25062,2878,22184,88.5,145,54,37.2
+17K354,The School of Integrated Learning,All Grades,All Students,2020-21,57081,4838,52243,91.5,333,80,24.0
+17K375,P.S. 375 Jackie Robinson School,All Grades,All Students,2020-21,44180,8408,35772,81.0,267,169,63.3
+17K382,Academy for College Preparation and Career Explora,All Grades,All Students,2020-21,58372,5103,53269,91.3,342,79,23.1
+17K394,M.S. K394,All Grades,All Students,2020-21,49527,8179,41348,83.5,296,162,54.7
+17K397,P.S. 397 Foster-Laurie,All Grades,All Students,2020-21,28542,2353,26189,91.8,167,50,29.9
+17K398,P.S. 398 Walter Weaver,All Grades,All Students,2020-21,35668,7334,28334,79.4,225,141,62.7
+17K399,P.S. 399 Stanley Eugene Clark,All Grades,All Students,2020-21,39847,5469,34378,86.3,239,111,46.4
+17K408,Academy of Hospitality and Tourism,All Grades,All Students,2020-21,45741,8316,37425,81.8,268,126,47.0
+17K484,Ronald Edmonds Learning Center II,All Grades,All Students,2020-21,30722,4374,26348,85.8,183,83,45.4
+17K524,International High School at Prospect Heights,All Grades,All Students,2020-21,53950,10176,43774,81.1,330,156,47.3
+17K528,The High School for Global Citizenship,All Grades,All Students,2020-21,40516,2652,37864,93.5,243,30,12.3
+17K531,"School for Human Rights, The",All Grades,All Students,2020-21,48450,10433,38017,78.5,285,129,45.3
+17K532,New Bridges Elementary,All Grades,All Students,2020-21,74033,7608,66425,89.7,445,164,36.9
+17K537,High School for Youth and Community Development at,All Grades,All Students,2020-21,77451,11772,65679,84.8,492,235,47.8
+17K539,High School for Service & Learning at Erasmus,All Grades,All Students,2020-21,44466,8277,36189,81.4,285,151,53.0
+17K543,"Science, Technology and Research Early College Hig",All Grades,All Students,2020-21,113084,8880,104204,92.1,651,159,24.4
+17K546,High School for Public Service: Heroes of Tomorrow,All Grades,All Students,2020-21,90038,15460,74578,82.8,518,236,45.6
+17K547,Brooklyn Academy of Science and the Environment,All Grades,All Students,2020-21,55779,7631,48148,86.3,337,120,35.6
+17K548,Brooklyn School for Music & Theatre,All Grades,All Students,2020-21,49824,10548,39276,78.8,294,163,55.4
+17K590,Medgar Evers College Preparatory School,All Grades,All Students,2020-21,260104,18108,241996,93.0,1496,283,18.9
+17K600,Clara Barton High School,All Grades,All Students,2020-21,217220,46185,171035,78.7,1320,742,56.2
+17K705,Brooklyn Arts and Science Elementary School,All Grades,All Students,2020-21,53036,4067,48969,92.3,318,77,24.2
+17K722,New Heights Middle School,All Grades,All Students,2020-21,41461,2241,39220,94.6,248,45,18.1
+17K745,Brooklyn Institute for Liberal Arts,All Grades,All Students,2020-21,89737,10735,79002,88.0,519,143,27.6
+17K751,Academy for Health Careers,All Grades,All Students,2020-21,48431,9686,38745,80.0,279,133,47.7
+17K770,P.S. 770 New American Academy,All Grades,All Students,2020-21,49413,2422,46991,95.1,295,48,16.3
+18K066,P.S. 66,All Grades,All Students,2020-21,116926,17369,99557,85.1,693,350,50.5
+18K068,I.S. 068 Isaac Bildersee,All Grades,All Students,2020-21,40642,6204,34438,84.7,245,123,50.2
+18K114,P.S. 114 Ryder Elementary,All Grades,All Students,2020-21,73535,10786,62749,85.3,452,216,47.8
+18K115,P.S. 115 Daniel Mucatel School,All Grades,All Students,2020-21,145518,13715,131803,90.6,870,286,32.9
+18K135,P.S. 135 Sheldon A. Brookner,All Grades,All Students,2020-21,71426,10789,60637,84.9,424,221,52.1
+18K208,P.S. 208 Elsa Ebeling,All Grades,All Students,2020-21,52887,5541,47346,89.5,313,113,36.1
+18K211,I.S. 211 John Wilson,All Grades,All Students,2020-21,44183,1054,43129,97.6,261,5,1.9
+18K219,P.S. 219 Kennedy-King,All Grades,All Students,2020-21,52907,7568,45339,85.7,318,132,41.5
+18K233,P.S. 233 Langston Hughes,All Grades,All Students,2020-21,53206,7425,45781,86.0,318,144,45.3
+18K235,P.S. 235 Janice Marie Knight School,All Grades,All Students,2020-21,193376,8835,184541,95.4,1122,152,13.5
+18K244,P.S. 244 Richard R. Green,All Grades,All Students,2020-21,66684,5640,61044,91.5,390,93,23.8
+18K268,P.S. 268 Emma Lazarus,All Grades,All Students,2020-21,50149,7885,42264,84.3,303,156,51.5
+18K272,P.S. 272 Curtis Estabrook,All Grades,All Students,2020-21,68436,15971,52465,76.7,409,261,63.8
+18K276,P.S. 276 Louis Marshall,All Grades,All Students,2020-21,86089,10175,75914,88.2,519,216,41.6
+18K279,P.S. 279 Herman Schreiber,All Grades,All Students,2020-21,49981,8565,41416,82.9,297,158,53.2
+18K285,I.S. 285 Meyer Levin,All Grades,All Students,2020-21,132563,16681,115882,87.4,766,329,43.0
+18K366,The Science And Medicine Middle School,All Grades,All Students,2020-21,67792,2381,65411,96.5,390,22,5.6
+18K563,It Takes a Village Academy,All Grades,All Students,2020-21,85501,18147,67354,78.8,502,240,47.8
+18K566,Brooklyn Community High School for Excellence and,All Grades,All Students,2020-21,34753,8198,26555,76.4,215,157,73.0
+18K567,Brooklyn Theatre Arts High School,All Grades,All Students,2020-21,41758,11148,30610,73.3,295,210,71.2
+18K569,Kurt Hahn Expeditionary Learning School,All Grades,All Students,2020-21,37093,14086,23007,62.0,217,198,91.2
+18K576,Victory Collegiate High School,All Grades,All Students,2020-21,47928,13090,34838,72.7,294,202,68.7
+18K581,"The Middle School of Media, Law and Fine Arts",All Grades,All Students,2020-21,35456,5092,30364,85.6,215,100,46.5
+18K588,Middle School for Art and Philosophy,All Grades,All Students,2020-21,23635,1730,21905,92.7,141,42,29.8
+18K617,High School for Innovation in Advertising and Medi,All Grades,All Students,2020-21,35303,6888,28415,80.5,212,109,51.4
+18K629,Cultural Academy for the Arts and Sciences,All Grades,All Students,2020-21,35242,8071,27171,77.1,214,102,47.7
+18K633,High School for Medical Professions,All Grades,All Students,2020-21,79774,10790,68984,86.5,489,174,35.6
+18K637,Academy for Conservation and the Environment,All Grades,All Students,2020-21,59080,1941,57139,96.7,348,10,2.9
+18K642,Urban Action Academy,All Grades,All Students,2020-21,28535,7004,21531,75.5,182,97,53.3
+18K763,Brooklyn Science and Engineering Academy,All Grades,All Students,2020-21,62634,4041,58593,93.5,362,74,20.4
+19K007,P.S. 007 Abraham Lincoln,All Grades,All Students,2020-21,125008,10477,114531,91.6,739,231,31.3
+19K013,P.S. 013 Roberto Clemente,All Grades,All Students,2020-21,69557,9693,59864,86.1,423,206,48.7
+19K065,P.S. 065,All Grades,All Students,2020-21,89636,8951,80685,90.0,531,178,33.5
+19K089,P.S. 089 Cypress Hills,All Grades,All Students,2020-21,82175,4410,77765,94.6,493,85,17.2
+19K108,P.S. 108 Sal Abbracciamento,All Grades,All Students,2020-21,147565,11078,136487,92.5,894,245,27.4
+19K149,P.S. 149 Danny Kaye,All Grades,All Students,2020-21,86210,5299,80911,93.9,512,111,21.7
+19K158,P.S. 158 Warwick,All Grades,All Students,2020-21,85192,11071,74121,87.0,507,224,44.2
+19K159,P.S. 159 Isaac Pitkin,All Grades,All Students,2020-21,120057,9292,110765,92.3,721,211,29.3
+19K171,I.S. 171 Abraham Lincoln,All Grades,All Students,2020-21,59448,2952,56496,95.0,347,42,12.1
+19K190,P.S. 190 Sheffield,All Grades,All Students,2020-21,28067,4493,23574,84.0,166,75,45.2
+19K202,P.S. 202 Ernest S. Jenkyns,All Grades,All Students,2020-21,48587,6728,41859,86.2,311,156,50.2
+19K213,P.S. 213 New Lots,All Grades,All Students,2020-21,40648,2811,37837,93.1,255,72,28.2
+19K214,P.S. 214 Michael Friedsam,All Grades,All Students,2020-21,143450,16323,127127,88.6,852,293,34.4
+19K218,J.H.S. 218 James P. Sinnott,All Grades,All Students,2020-21,58546,7368,51178,87.4,348,151,43.4
+19K224,P.S. 224 Hale A. Woodruff,All Grades,All Students,2020-21,49579,4879,44700,90.2,301,91,30.2
+19K273,P.S. 273 Wortman,All Grades,All Students,2020-21,53339,7430,45909,86.1,321,170,53.0
+19K290,P.S. 290 Juan Morel Campos,All Grades,All Students,2020-21,67340,6750,60590,90.0,403,131,32.5
+19K292,J.H.S. 292 Margaret S. Douglas,All Grades,All Students,2020-21,83762,10198,73564,87.8,521,208,39.9
+19K306,P.S. 306 Ethan Allen,All Grades,All Students,2020-21,48825,6988,41837,85.7,295,154,52.2
+19K325,The Fresh Creek School,All Grades,All Students,2020-21,24844,3058,21786,87.7,150,67,44.7
+19K328,P.S. 328 Phyllis Wheatley,All Grades,All Students,2020-21,50631,2922,47709,94.2,323,46,14.2
+19K345,P.S. 345 Patrolman Robert Bolden,All Grades,All Students,2020-21,86046,9650,76396,88.8,524,207,39.5
+19K346,P.S. 346 Abe Stark,All Grades,All Students,2020-21,85121,9335,75786,89.0,510,193,37.8
+19K364,I.S. 364 Gateway,All Grades,All Students,2020-21,36594,2454,34140,93.3,212,45,21.2
+19K404,Academy for Young Writers,All Grades,All Students,2020-21,93815,17285,76530,81.6,546,277,50.7
+19K409,East New York Family Academy,All Grades,All Students,2020-21,97264,8730,88534,91.0,564,163,28.9
+19K422,Spring Creek Community School,All Grades,All Students,2020-21,91787,9184,82603,90.0,535,153,28.6
+19K452,Frederick Douglass Academy VIII Middle School,All Grades,All Students,2020-21,47875,4051,43824,91.5,279,75,26.9
+19K502,FDNY - Captain Vernon A. Richard High School for F,All Grades,All Students,2020-21,45239,10003,35236,77.9,275,140,50.9
+19K504,High School for Civil Rights,All Grades,All Students,2020-21,30600,8270,22330,73.0,204,137,67.2
+19K507,Performing Arts and Technology High School,All Grades,All Students,2020-21,58554,5146,53408,91.2,353,100,28.3
+19K510,World Academy for Total Community Health High Scho,All Grades,All Students,2020-21,29058,5632,23426,80.6,174,88,50.6
+19K557,Brooklyn Gardens Elementary School,All Grades,All Students,2020-21,49647,4785,44862,90.4,303,88,29.0
+19K583,Multicultural High School,All Grades,All Students,2020-21,48437,7322,41115,84.9,292,129,44.2
+19K615,Transit Tech Career and Technical Education High S,All Grades,All Students,2020-21,145825,28506,117319,80.5,859,439,51.1
+19K618,Academy of Innovative Technology,All Grades,All Students,2020-21,78738,15410,63328,80.4,458,239,52.2
+19K639,Brooklyn Lab School,All Grades,All Students,2020-21,63273,10162,53111,83.9,407,159,39.1
+19K654,Van Siclen Community Middle School,All Grades,All Students,2020-21,50418,9803,40615,80.6,296,162,54.7
+19K659,Cypress Hills Collegiate Preparatory School,All Grades,All Students,2020-21,63955,7072,56883,88.9,379,131,34.6
+19K660,W. H. Maxwell Career and Technical Education High,All Grades,All Students,2020-21,63423,8341,55082,86.8,400,164,41.0
+19K661,Vista Academy,All Grades,All Students,2020-21,83321,5156,78165,93.8,487,78,16.0
+19K662,Liberty Avenue Middle School,All Grades,All Students,2020-21,93265,10068,83197,89.2,556,181,32.6
+19K663,School of the Future Brooklyn,All Grades,All Students,2020-21,19591,3797,15794,80.6,118,63,53.4
+19K677,East New York Elementary School of Excellence,All Grades,All Students,2020-21,77401,10885,66516,85.9,465,232,49.9
+19K678,East New York Middle School of Excellence,All Grades,All Students,2020-21,42793,346,42447,99.2,248,5,2.0
+19K683,School for Classics High School,All Grades,All Students,2020-21,41138,10398,30740,74.7,242,131,54.1
+19K760,Highland Park Community School,All Grades,All Students,2020-21,62543,5867,56676,90.6,370,114,30.8
+19K764,The Urban Assembly School for Collaborative Health,All Grades,All Students,2020-21,60432,11372,49060,81.2,356,202,56.7
+19K907,Legacy School of the Arts,All Grades,All Students,2020-21,24928,3281,21647,86.8,145,65,44.8
+19K938,P.S. 938,All Grades,All Students,2020-21,10475,1086,9389,89.6,63,25,39.7
+19K953,The East New York Arts and Civics High School,All Grades,All Students,2020-21,28578,5600,22978,80.4,169,88,52.1
+20K030,P.S./I.S. 30 Mary White Ovington,All Grades,All Students,2020-21,168552,13603,154949,91.9,994,266,26.8
+20K048,P.S. 048 Mapleton,All Grades,All Students,2020-21,97437,5752,91685,94.1,582,116,19.9
+20K062,J.H.S. 062 Ditmas,All Grades,All Students,2020-21,193795,24327,169468,87.4,1139,540,47.4
+20K069,P.S. 69 Vincent D. Grippo School,All Grades,All Students,2020-21,131782,2247,129535,98.3,763,31,4.1
+20K102,P.S. 102 The Bayview,All Grades,All Students,2020-21,225559,9923,215636,95.6,1336,182,13.6
+20K104,P.S./I.S. 104 The Fort Hamilton School,All Grades,All Students,2020-21,207589,9605,197984,95.4,1235,162,13.1
+20K105,P.S. 105 The Blythebourne,All Grades,All Students,2020-21,237944,3210,234734,98.7,1382,46,3.3
+20K112,P.S. 112 Lefferts Park,All Grades,All Students,2020-21,125366,6114,119252,95.1,740,110,14.9
+20K127,P.S. 127 Mckinley Park,All Grades,All Students,2020-21,90895,4993,85902,94.5,533,69,12.9
+20K160,P.S. 160 William T. Sampson,All Grades,All Students,2020-21,199678,3756,195922,98.1,1162,61,5.2
+20K163,P.S. 163 Bath Beach,All Grades,All Students,2020-21,107321,8702,98619,91.9,630,174,27.6
+20K164,P.S. 164 Caesar Rodney,All Grades,All Students,2020-21,109193,4922,104271,95.5,639,77,12.1
+20K170,Ralph A. Fabrizio School,All Grades,All Students,2020-21,170773,4998,165775,97.1,1013,91,9.0
+20K176,P.S. 176 Ovington,All Grades,All Students,2020-21,201409,3075,198334,98.5,1180,46,3.9
+20K179,P.S. 179 Kensington,All Grades,All Students,2020-21,134531,14375,120156,89.3,801,287,35.8
+20K180,The SEEALL Academy,All Grades,All Students,2020-21,181694,8482,173212,95.3,1048,140,13.4
+20K185,P.S. 185 Walter Kassenbrock,All Grades,All Students,2020-21,101685,5922,95763,94.2,608,97,16.0
+20K186,P.S. 186 Dr. Irving A Gladstone,All Grades,All Students,2020-21,184395,7651,176744,95.9,1078,139,12.9
+20K187,The Christa McAuliffe School\I.S. 187,All Grades,All Students,2020-21,173040,3213,169827,98.1,990,32,3.2
+20K192,P.S. 192 - The Magnet School for Math and Science,All Grades,All Students,2020-21,111987,9311,102676,91.7,647,168,26.0
+20K200,P.S. 200 Benson School,All Grades,All Students,2020-21,230918,19722,211196,91.5,1389,422,30.4
+20K201,J.H.S. 201 The Dyker Heights,All Grades,All Students,2020-21,301134,14537,286597,95.2,1741,235,13.5
+20K204,P.S. 204 Vince Lombardi,All Grades,All Students,2020-21,181227,4669,176558,97.4,1058,69,6.5
+20K205,P.S. 205 Clarion,All Grades,All Students,2020-21,215694,7949,207745,96.3,1262,137,10.9
+20K220,J.H.S. 220 John J. Pershing,All Grades,All Students,2020-21,248723,22545,226178,90.9,1439,424,29.5
+20K223,J.H.S. 223 The Montauk,All Grades,All Students,2020-21,156010,10801,145209,93.1,911,189,20.7
+20K227,J.H.S. 227 Edward B. Shallow,All Grades,All Students,2020-21,268486,21168,247318,92.1,1565,414,26.5
+20K229,P.S. 229 Dyker,All Grades,All Students,2020-21,208260,9962,198298,95.2,1218,185,15.2
+20K247,P.S. 247 Brooklyn,All Grades,All Students,2020-21,138463,4615,133848,96.7,809,64,7.9
+20K259,J.H.S. 259 William McKinley,All Grades,All Students,2020-21,306386,7960,298426,97.4,1778,107,6.0
+20K264,P.S. 264 Bay Ridge Elementary School For The Arts,All Grades,All Students,2020-21,72218,3482,68736,95.2,440,63,14.3
+20K310,The School For Future Leaders,All Grades,All Students,2020-21,85127,1979,83148,97.7,495,35,7.1
+20K445,New Utrecht High School,All Grades,All Students,2020-21,615427,132638,482789,78.4,3545,1442,40.7
+20K485,High School of Telecommunication Arts and Technolo,All Grades,All Students,2020-21,217814,28329,189485,87.0,1275,421,33.0
+20K490,Fort Hamilton High School,All Grades,All Students,2020-21,804394,81422,722972,89.9,4687,1031,22.0
+20K503,P.S. 503: The School of Discovery,All Grades,All Students,2020-21,149210,13736,135474,90.8,886,273,30.8
+20K505,Franklin Delano Roosevelt High School,All Grades,All Students,2020-21,568663,116959,451704,79.4,3319,1533,46.2
+20K506,P.S. 506: The School of Journalism & Technology,All Grades,All Students,2020-21,115403,9168,106235,92.1,680,178,26.2
+20K609,Urban Assembly School for Leadership and Empowerme,All Grades,All Students,2020-21,100341,6564,93777,93.5,583,118,20.2
+20K682,The Academy of Talented Scholars,All Grades,All Students,2020-21,67394,3053,64341,95.5,396,51,12.9
+20K686,Brooklyn School of Inquiry,All Grades,All Students,2020-21,90450,865,89585,99.0,526,7,1.3
+20K748,P.S. 748 Brooklyn School for Global Scholars,All Grades,All Students,2020-21,85631,2772,82859,96.8,510,45,8.8
+20K936,MS 936 Arts Off 3rd,All Grades,All Students,2020-21,25911,952,24959,96.3,151,14,9.3
+20K939,Sunset School of Cultural Learning,All Grades,All Students,2020-21,11061,730,10331,93.4,66,17,25.8
+20K971,"School of Math, Science, and Healthy Living",All Grades,All Students,2020-21,45009,1981,43028,95.6,265,32,12.1
+21K090,P.S. 90 Edna Cohen School,All Grades,All Students,2020-21,90945,14383,76562,84.2,536,240,44.8
+21K095,P.S. 095 The Gravesend,All Grades,All Students,2020-21,173496,13131,160365,92.4,1019,235,23.1
+21K096,I.S. 096 Seth Low,All Grades,All Students,2020-21,142013,11789,130224,91.7,838,213,25.4
+21K097,P.S. 97 The Highlawn,All Grades,All Students,2020-21,122702,4151,118551,96.6,724,74,10.2
+21K098,I.S. 98 Bay Academy,All Grades,All Students,2020-21,290049,6259,283790,97.8,1676,83,5.0
+21K099,P.S. 099 Isaac Asimov,All Grades,All Students,2020-21,146507,27544,118963,81.2,868,453,52.2
+21K100,P.S. 100 The Coney Island School,All Grades,All Students,2020-21,119220,7218,112002,93.9,717,121,16.9
+21K101,P.S. 101 The Verrazano,All Grades,All Students,2020-21,169344,6675,162669,96.1,997,119,11.9
+21K121,P.S. 121 Nelson A. Rockefeller,All Grades,All Students,2020-21,55759,3529,52230,93.7,327,62,19.0
+21K128,P.S. 128 Bensonhurst,All Grades,All Students,2020-21,73768,7464,66304,89.9,434,133,30.6
+21K153,P.S. 153 Homecrest,All Grades,All Students,2020-21,95195,13550,81645,85.8,580,274,47.2
+21K177,P.S. 177 The Marlboro,All Grades,All Students,2020-21,161892,11988,149904,92.6,982,256,26.1
+21K188,P.S. 188 Michael E. Berdy,All Grades,All Students,2020-21,53860,10952,42908,79.7,332,221,66.6
+21K199,P.S. 199 Frederick Wachtel,All Grades,All Students,2020-21,93382,8202,85180,91.2,560,155,27.7
+21K209,P.S. 209 Margaret Mead,All Grades,All Students,2020-21,120430,4962,115468,95.9,718,86,12.0
+21K212,P.S. 212 Lady Deborah Moody,All Grades,All Students,2020-21,106293,7327,98966,93.1,624,133,21.3
+21K215,P.S. 215 Morris H. Weiss,All Grades,All Students,2020-21,131141,7751,123390,94.1,776,164,21.1
+21K216,P.S. 216 Arturo Toscanini,All Grades,All Students,2020-21,121821,10409,111412,91.5,734,229,31.2
+21K225,P.S. K225 - The Eileen E. Zaglin,All Grades,All Students,2020-21,166680,28359,138321,83.0,1006,522,51.9
+21K226,P.S. 226 Alfred De B. Mason,All Grades,All Students,2020-21,163874,15745,148129,90.4,963,319,33.1
+21K228,I.S. 228 David A. Boody,All Grades,All Students,2020-21,277970,26481,251489,90.5,1610,455,28.3
+21K238,P.S. 238 Anne Sullivan,All Grades,All Students,2020-21,106083,8432,97651,92.1,631,174,27.6
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,All Grades,All Students,2020-21,230763,9320,221443,96.0,1337,134,10.0
+21K253,P.S. 253,All Grades,All Students,2020-21,150314,14058,136256,90.6,897,301,33.6
+21K281,I.S. 281 Joseph B Cavallaro,All Grades,All Students,2020-21,208206,23782,184424,88.6,1217,413,33.9
+21K288,P.S. 288 The Shirley Tanyhill,All Grades,All Students,2020-21,95616,13870,81746,85.5,567,282,49.7
+21K303,I.S. 303 Herbert S. Eisenberg,All Grades,All Students,2020-21,92245,11610,80635,87.4,542,243,44.8
+21K329,P.S. 329 Surfside,All Grades,All Students,2020-21,62242,10931,51311,82.4,375,199,53.1
+21K337,International High School at Lafayette,All Grades,All Students,2020-21,53212,10963,42249,79.4,313,144,46.0
+21K344,Rachel Carson High School for Coastal Studies,All Grades,All Students,2020-21,100757,13310,87447,86.8,599,203,33.9
+21K348,High School of Sports Management,All Grades,All Students,2020-21,47182,14464,32718,69.3,286,203,71.0
+21K410,Abraham Lincoln High School,All Grades,All Students,2020-21,308704,43110,265594,86.0,1852,682,36.8
+21K468,Kingsborough Early College School,All Grades,All Students,2020-21,131582,11733,119849,91.1,757,222,29.3
+21K525,Edward R. Murrow High School,All Grades,All Students,2020-21,638014,88055,549959,86.2,3700,1099,29.7
+21K540,John Dewey High School,All Grades,All Students,2020-21,390910,83054,307856,78.8,2286,1052,46.0
+21K559,Life Academy High School for Film and Music,All Grades,All Students,2020-21,44021,7660,36361,82.6,254,117,46.1
+21K572,Leaders High School,All Grades,All Students,2020-21,65277,11585,53692,82.3,394,172,43.7
+21K620,William E. Grady Career and Technical Education Hi,All Grades,All Students,2020-21,87129,24222,62907,72.2,507,287,56.6
+21K690,Brooklyn Studio Secondary School,All Grades,All Students,2020-21,167513,20486,147027,87.8,971,300,30.9
+22K014,J.H.S. 014 Shell Bank,All Grades,All Students,2020-21,92515,9112,83403,90.2,551,150,27.2
+22K052,P.S. 052 Sheepshead Bay,All Grades,All Students,2020-21,130911,12827,118084,90.2,796,275,34.5
+22K078,J.H.S. 078 Roy H. Mann,All Grades,All Students,2020-21,89731,5609,84122,93.7,529,107,20.2
+22K109,P.S. 109,All Grades,All Students,2020-21,89056,12525,76531,85.9,542,260,48.0
+22K119,P.S. 119 Amersfort,All Grades,All Students,2020-21,72687,5095,67592,93.0,433,112,25.9
+22K134,P.S. K134,All Grades,All Students,2020-21,99425,3652,95773,96.3,587,49,8.3
+22K139,P.S. 139 Alexine A. Fenty,All Grades,All Students,2020-21,145216,12115,133101,91.7,855,246,28.8
+22K152,School of Science & Technology,All Grades,All Students,2020-21,97454,10116,87338,89.6,584,198,33.9
+22K193,P.S. 193 Gil Hodges,All Grades,All Students,2020-21,101806,8882,92924,91.3,604,183,30.3
+22K194,P.S. 194 Raoul Wallenberg,All Grades,All Students,2020-21,89060,7916,81144,91.1,534,177,33.1
+22K195,P.S. 195 Manhattan Beach,All Grades,All Students,2020-21,69511,2795,66716,96.0,417,32,7.7
+22K197,P.S. 197 - The Kings Highway Academy,All Grades,All Students,2020-21,150078,13738,136340,90.8,919,281,30.6
+22K198,P.S. 198 Brooklyn,All Grades,All Students,2020-21,55955,6588,49367,88.2,334,140,41.9
+22K203,P.S. 203 Floyd Bennett School,All Grades,All Students,2020-21,94325,5537,88788,94.1,558,113,20.3
+22K206,P.S. 206 Joseph F Lamb,All Grades,All Students,2020-21,263929,7980,255949,97.0,1548,129,8.3
+22K207,P.S. 207 Elizabeth G. Leary,All Grades,All Students,2020-21,177146,6102,171044,96.6,1042,104,10.0
+22K217,P.S. 217 Colonel David Marcus School,All Grades,All Students,2020-21,183229,15083,168146,91.8,1078,302,28.0
+22K222,P.S. 222 Katherine R. Snyder,All Grades,All Students,2020-21,134821,4913,129908,96.4,796,86,10.8
+22K234,J.H.S. 234 Arthur W. Cunningham,All Grades,All Students,2020-21,245176,22899,222277,90.7,1433,391,27.3
+22K236,P.S. 236 Mill Basin,All Grades,All Students,2020-21,97891,4492,93399,95.4,572,57,10.0
+22K240,Andries Hudde,All Grades,All Students,2020-21,101891,11450,90441,88.8,596,225,37.8
+22K245,P.S. 245,All Grades,All Students,2020-21,44835,3556,41279,92.1,260,75,28.8
+22K251,P.S. 251 Paerdegat,All Grades,All Students,2020-21,68316,9684,58632,85.8,408,187,45.8
+22K254,P.S. 254 Dag Hammarskjold,All Grades,All Students,2020-21,116918,7153,109765,93.9,697,135,19.4
+22K255,P.S. 255 Barbara Reing School,All Grades,All Students,2020-21,139792,9807,129985,93.0,831,184,22.1
+22K277,P.S. 277 Gerritsen Beach,All Grades,All Students,2020-21,63903,3053,60850,95.2,377,45,11.9
+22K278,J.H.S. 278 Marine Park,All Grades,All Students,2020-21,218042,34278,183764,84.3,1265,656,51.9
+22K312,P.S. 312 Bergen Beach,All Grades,All Students,2020-21,123443,8985,114458,92.7,729,172,23.6
+22K315,P.S. K315,All Grades,All Students,2020-21,97183,13053,84130,86.6,582,243,41.8
+22K326,P.S. 326,All Grades,All Students,2020-21,24447,2385,22062,90.2,142,42,29.6
+22K361,P.S. 361 East Flatbush Early Childhood School,All Grades,All Students,2020-21,84956,14635,70321,82.8,513,277,54.0
+22K381,I. S. 381,All Grades,All Students,2020-21,55267,5543,49724,90.0,320,104,32.5
+22K405,Midwood High School,All Grades,All Students,2020-21,711717,61479,650238,91.4,4122,910,22.1
+22K425,James Madison High School,All Grades,All Students,2020-21,667974,68940,599034,89.7,3893,988,25.4
+22K535,Leon M. Goldstein High School for the Sciences,All Grades,All Students,2020-21,171999,21085,150914,87.7,993,333,33.5
+22K555,Brooklyn College Academy,All Grades,All Students,2020-21,113861,10567,103294,90.7,661,143,21.6
+22K611,Origins High School,All Grades,All Students,2020-21,71039,17927,53112,74.8,422,278,65.9
+22K889,P.S. 889,All Grades,All Students,2020-21,43740,3063,40677,93.0,261,60,23.0
+22K890,M.S. 890,All Grades,All Students,2020-21,50718,4503,46215,91.1,293,87,29.7
+23K041,P.S. 041 Francis White,All Grades,All Students,2020-21,51311,4604,46707,91.0,305,99,32.5
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,All Grades,All Students,2020-21,30208,5928,24280,80.4,175,94,53.7
+23K150,P.S. 150 Christopher,All Grades,All Students,2020-21,28313,3169,25144,88.8,167,62,37.1
+23K155,P.S./ I.S. 155 Nicholas Herkimer,All Grades,All Students,2020-21,59324,8869,50455,85.0,354,153,43.2
+23K156,P.S. 156 Waverly,All Grades,All Students,2020-21,91269,11780,79489,87.1,552,244,44.2
+23K165,P.S. 165 Ida Posner,All Grades,All Students,2020-21,41206,7334,33872,82.2,257,132,51.4
+23K178,P.S. 178 Saint Clair Mckelway,All Grades,All Students,2020-21,48649,6955,41694,85.7,302,118,39.1
+23K184,P.S. 184 Newport,All Grades,All Students,2020-21,80128,11553,68575,85.6,474,240,50.6
+23K284,"The Gregory Jocko Jackson School of Sports, Art, a",All Grades,All Students,2020-21,45910,3670,42240,92.0,273,67,24.5
+23K298,P.S. 298 Dr. Betty Shabazz,All Grades,All Students,2020-21,49786,4572,45214,90.8,305,96,31.5
+23K323,P.S./I.S. 323,All Grades,All Students,2020-21,87964,13296,74668,84.9,520,234,45.0
+23K327,P.S. 327 Dr. Rose B. English,All Grades,All Students,2020-21,45934,2068,43866,95.5,277,36,13.0
+23K363,Brownsville Collaborative Middle School,All Grades,All Students,2020-21,46211,3496,42715,92.4,271,79,29.2
+23K392,I.S. 392,All Grades,All Students,2020-21,55834,3830,52004,93.1,327,77,23.5
+23K401,Christopher Avenue Community School,All Grades,All Students,2020-21,49268,8002,41266,83.8,300,144,48.0
+23K446,Riverdale Avenue Community School,All Grades,All Students,2020-21,54160,4660,49500,91.4,330,80,24.2
+23K493,Brooklyn Collegiate: A College Board School,All Grades,All Students,2020-21,62090,14024,48066,77.4,369,196,53.1
+23K514,Frederick Douglass Academy VII High School,All Grades,All Students,2020-21,24175,2616,21559,89.2,146,44,30.1
+23K518,Kappa V (Knowledge and Power Preparatory Academy),All Grades,All Students,2020-21,23155,1919,21236,91.7,134,33,24.6
+23K522,Mott Hall IV,All Grades,All Students,2020-21,22987,1152,21835,95.0,135,20,14.8
+23K599,Brooklyn Landmark Elementary School,All Grades,All Students,2020-21,71158,8322,62836,88.3,419,135,32.2
+23K644,Eagle Academy for Young Men II,All Grades,All Students,2020-21,108621,4406,104215,95.9,636,51,8.0
+23K664,Brooklyn Environmental Exploration School (BEES),All Grades,All Students,2020-21,30196,2316,27880,92.3,180,41,22.8
+23K668,Riverdale Avenue Middle School,All Grades,All Students,2020-21,21654,2557,19097,88.2,126,49,38.9
+23K671,Mott Hall Bridges Academy,All Grades,All Students,2020-21,35383,3092,32291,91.3,207,56,27.1
+23K697,Teachers Preparatory High School,All Grades,All Students,2020-21,27088,5149,21939,81.0,163,85,52.1
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,All Grades,All Students,2020-21,288037,22028,266009,92.4,1673,386,23.1
+24Q007,P.S. 007 Louis F. Simeone,All Grades,All Students,2020-21,218869,13668,205201,93.8,1300,254,19.5
+24Q012,P.S. 012 James B. Colgate,All Grades,All Students,2020-21,186704,6082,180622,96.7,1095,92,8.4
+24Q013,P.S. 013 Clement C. Moore,All Grades,All Students,2020-21,216962,10402,206560,95.2,1286,192,14.9
+24Q014,P.S. 014 Fairview,All Grades,All Students,2020-21,225905,21067,204838,90.7,1337,425,31.8
+24Q016,P.S. Q016 The Nancy DeBenedittis School,All Grades,All Students,2020-21,226083,12873,213210,94.3,1324,225,17.0
+24Q019,P.S. 019 Marino Jeantet,All Grades,All Students,2020-21,298818,15088,283730,95.0,1756,293,16.7
+24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Cente,All Grades,All Students,2020-21,74795,5666,69129,92.4,439,103,23.5
+24Q049,P.S. 049 Dorothy Bonawit Kole,All Grades,All Students,2020-21,201032,9822,191210,95.1,1185,162,13.7
+24Q058,P.S. 58 - The School of Heroes,All Grades,All Students,2020-21,161236,8223,153013,94.9,942,140,14.9
+24Q061,I.S. 061 Leonardo Da Vinci,All Grades,All Students,2020-21,376064,43179,332885,88.5,2224,741,33.3
+24Q068,P.S. 068 Cambridge,All Grades,All Students,2020-21,84877,7315,77562,91.4,513,169,32.9
+24Q071,P.S. 071 Forest,All Grades,All Students,2020-21,110344,8538,101806,92.3,685,175,25.5
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,All Grades,All Students,2020-21,361886,22316,339570,93.8,2103,407,19.4
+24Q077,I.S. 077,All Grades,All Students,2020-21,135343,11440,123903,91.5,804,192,23.9
+24Q081,P.S. 81Q Jean Paul Richter,All Grades,All Students,2020-21,103026,13038,89988,87.3,622,253,40.7
+24Q087,P.S./I.S. 087 Middle Village,All Grades,All Students,2020-21,97533,6024,91509,93.8,577,114,19.8
+24Q088,P.S. 088 Seneca,All Grades,All Students,2020-21,121641,8376,113265,93.1,737,163,22.1
+24Q089,P.S. 089 Elmhurst,All Grades,All Students,2020-21,266867,20769,246098,92.2,1590,380,23.9
+24Q091,P.S. 091 Richard Arkwright,All Grades,All Students,2020-21,129631,8100,121531,93.8,797,157,19.7
+24Q093,I.S. 093 Ridgewood,All Grades,All Students,2020-21,187536,14128,173408,92.5,1119,252,22.5
+24Q102,P.S. 102 Bayview,All Grades,All Students,2020-21,215537,8734,206803,95.9,1280,155,12.1
+24Q110,P.S. 110,All Grades,All Students,2020-21,166739,16827,149912,89.9,994,322,32.4
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,All Grades,All Students,2020-21,145054,4769,140285,96.7,847,56,6.6
+24Q119,P.S./I.S. 119 The Glendale,All Grades,All Students,2020-21,217815,6952,210863,96.8,1288,93,7.2
+24Q125,I.S. 125 Thom J. McCann Woodside,All Grades,All Students,2020-21,240578,22400,218178,90.7,1402,546,38.9
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elemen",All Grades,All Students,2020-21,145762,4332,141430,97.0,856,46,5.4
+24Q143,P.S. 143 Louis Armstrong,All Grades,All Students,2020-21,226215,19309,206906,91.5,1369,410,29.9
+24Q153,P.S. 153 Maspeth Elem,All Grades,All Students,2020-21,163247,8677,154570,94.7,964,143,14.8
+24Q199,P.S. 199 Maurice A. Fitzgerald,All Grades,All Students,2020-21,106387,8875,97512,91.7,631,161,25.5
+24Q211,Elm Tree Elementary School,All Grades,All Students,2020-21,132016,8463,123553,93.6,794,186,23.4
+24Q229,P.S. 229 Emanuel Kaplan,All Grades,All Students,2020-21,223886,12939,210947,94.2,1318,238,18.1
+24Q236,International High School for Health Sciences,All Grades,All Students,2020-21,44368,9913,34455,77.7,260,153,58.8
+24Q239,P.S. 239,All Grades,All Students,2020-21,83956,6306,77650,92.5,514,137,26.7
+24Q264,Academy of Finance and Enterprise,All Grades,All Students,2020-21,127259,5131,122128,96.0,749,56,7.5
+24Q267,High School of Applied Communication,All Grades,All Students,2020-21,68055,9636,58419,85.8,397,128,32.2
+24Q290,A.C.E. Academy for Scholars at the Geraldine Ferra,All Grades,All Students,2020-21,96595,2415,94180,97.5,578,45,7.8
+24Q293,Civic Leadership Academy,All Grades,All Students,2020-21,114415,8312,106103,92.7,659,147,22.3
+24Q296,Pan American International High School,All Grades,All Students,2020-21,62999,3186,59813,94.9,406,63,15.5
+24Q299,Bard High School Early College Queens,All Grades,All Students,2020-21,113805,10452,103353,90.8,654,204,31.2
+24Q305,Learners and Leaders,All Grades,All Students,2020-21,91461,7952,83509,91.3,546,157,28.8
+24Q307,Pioneer Academy,All Grades,All Students,2020-21,144423,9363,135060,93.5,840,157,18.7
+24Q311,Corona Arts & Sciences Academy,All Grades,All Students,2020-21,128674,13464,115210,89.5,762,238,31.2
+24Q330,Helen M. Marshall School,All Grades,All Students,2020-21,78035,8481,69554,89.1,462,171,37.0
+24Q343,The Children's Lab School,All Grades,All Students,2020-21,80230,4340,75890,94.6,476,73,15.3
+24Q455,Newtown High School,All Grades,All Students,2020-21,282734,46697,236037,83.5,1697,692,40.8
+24Q485,Grover Cleveland High School,All Grades,All Students,2020-21,269374,48001,221373,82.2,1625,751,46.2
+24Q520,Middle College High School at LaGuardia Community,All Grades,All Students,2020-21,87611,9819,77792,88.8,519,191,36.8
+24Q530,International High School at LaGuardia Community C,All Grades,All Students,2020-21,87713,8787,78926,90.0,537,151,28.1
+24Q550,High School for Arts and Business,All Grades,All Students,2020-21,132399,8310,124089,93.7,773,127,16.4
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts an",All Grades,All Students,2020-21,112531,15178,97353,86.5,652,234,35.9
+24Q585,Maspeth High School,All Grades,All Students,2020-21,210110,31050,179060,85.2,1220,534,43.8
+24Q600,Queens Technical High School,All Grades,All Students,2020-21,257014,31038,225976,87.9,1484,425,28.6
+24Q610,Aviation Career & Technical Education High School,All Grades,All Students,2020-21,348014,10057,337957,97.1,2041,135,6.6
+25Q020,P.S. 020 John Bowne,All Grades,All Students,2020-21,202643,8828,193815,95.6,1197,175,14.6
+25Q021,P.S. 021 Edward Hart,All Grades,All Students,2020-21,212500,8289,204211,96.1,1256,149,11.9
+25Q022,P.S. 022 Thomas Jefferson,All Grades,All Students,2020-21,142864,5941,136923,95.8,846,108,12.8
+25Q024,P.S. 024 Andrew Jackson,All Grades,All Students,2020-21,187586,3786,183800,98.0,1115,51,4.6
+25Q025,I.S. 025 Adrien Block,All Grades,All Students,2020-21,181547,4843,176704,97.3,1052,89,8.5
+25Q029,P.S. 029 Queens,All Grades,All Students,2020-21,121691,6126,115565,95.0,738,110,14.9
+25Q032,P.S. 032 State Street,All Grades,All Students,2020-21,166089,3256,162833,98.0,966,53,5.5
+25Q079,P.S. 079 Francis Lewis,All Grades,All Students,2020-21,187359,4576,182783,97.6,1115,85,7.6
+25Q107,P.S. 107 Thomas A Dooley,All Grades,All Students,2020-21,156313,7653,148660,95.1,923,129,14.0
+25Q120,P.S. 120 Queens,All Grades,All Students,2020-21,144363,5330,139033,96.3,858,93,10.8
+25Q129,P.S. 129 Patricia Larkin,All Grades,All Students,2020-21,186308,9573,176735,94.9,1099,177,16.1
+25Q130,P.S. 130,All Grades,All Students,2020-21,69971,1403,68568,98.0,406,16,3.9
+25Q154,P.S. 154 Queens,All Grades,All Students,2020-21,104003,5697,98306,94.5,624,110,17.6
+25Q163,P.S. 163 Flushing Heights,All Grades,All Students,2020-21,140879,3950,136929,97.2,834,70,8.4
+25Q164,P.S. 164 Queens Valley,All Grades,All Students,2020-21,106540,6152,100388,94.2,630,130,20.6
+25Q165,P.S. 165 Edith K. Bergtraum,All Grades,All Students,2020-21,123167,6815,116352,94.5,737,125,17.0
+25Q169,P.S. 169 Bay Terrace,All Grades,All Students,2020-21,63197,1480,61717,97.7,372,17,4.6
+25Q184,P.S. 184 Flushing Manor,All Grades,All Students,2020-21,86179,2030,84149,97.6,513,32,6.2
+25Q185,J.H.S. 185 Edward Bleeker,All Grades,All Students,2020-21,244053,9942,234111,95.9,1424,158,11.1
+25Q189,J.H.S. 189 Daniel Carter Beard,All Grades,All Students,2020-21,125052,6959,118093,94.4,734,127,17.3
+25Q193,P.S. 193 Alfred J. Kennedy,All Grades,All Students,2020-21,101675,4327,97348,95.7,597,77,12.9
+25Q194,J.H.S. 194 William Carr,All Grades,All Students,2020-21,207161,8478,198683,95.9,1209,141,11.7
+25Q200,P.S./M.S. 200 - The Magnet School of Global Studie,All Grades,All Students,2020-21,90416,6984,83432,92.3,536,131,24.4
+25Q201,P.S. 201 The Discovery School for Inquiry and Rese,All Grades,All Students,2020-21,76747,6087,70660,92.1,457,119,26.0
+25Q209,P.S. 209 Clearview Gardens,All Grades,All Students,2020-21,95839,2704,93135,97.2,558,30,5.4
+25Q214,P.S. 214 Cadwallader Colden,All Grades,All Students,2020-21,65298,3343,61955,94.9,383,52,13.6
+25Q219,P.S. 219 Paul Klapper,All Grades,All Students,2020-21,110343,3848,106495,96.5,645,68,10.5
+25Q237,I.S. 237,All Grades,All Students,2020-21,230040,7881,222159,96.6,1333,126,9.5
+25Q240,Veritas Academy,All Grades,All Students,2020-21,106157,11665,94492,89.0,641,192,30.0
+25Q241,Queens High School for Language Studies,All Grades,All Students,2020-21,74612,9770,64842,86.9,446,159,35.7
+25Q242,P.S. 242 Leonard P. Stavisky Early Childhood Schoo,All Grades,All Students,2020-21,68904,1672,67232,97.6,407,29,7.1
+25Q244,The Active Learning Elementary School,All Grades,All Students,2020-21,84615,1905,82710,97.7,492,31,6.3
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle Sc,All Grades,All Students,2020-21,57948,5638,52310,90.3,348,112,32.2
+25Q252,"Queens School of Inquiry, The",All Grades,All Students,2020-21,105544,6993,98551,93.4,610,115,18.9
+25Q263,Flushing International High School,All Grades,All Students,2020-21,72061,8417,63644,88.3,438,149,34.0
+25Q281,East-West School of International Studies,All Grades,All Students,2020-21,117746,3538,114208,97.0,684,50,7.3
+25Q285,World Journalism Preparatory: A College Board Scho,All Grades,All Students,2020-21,108326,5694,102632,94.7,627,85,13.6
+25Q294,BELL Academy,All Grades,All Students,2020-21,61697,1518,60179,97.5,354,16,4.5
+25Q379,College Point Collaborative,All Grades,All Students,2020-21,83629,4840,78789,94.2,487,76,15.6
+25Q425,John Bowne High School,All Grades,All Students,2020-21,570075,114067,456008,80.0,3280,1295,39.5
+25Q460,Flushing High School,All Grades,All Students,2020-21,242152,47467,194685,80.4,1456,746,51.2
+25Q499,"The Queens College School for Math, Science and Te",All Grades,All Students,2020-21,89148,2287,86861,97.4,518,28,5.4
+25Q525,Townsend Harris High School,All Grades,All Students,2020-21,222405,3822,218583,98.3,1271,44,3.5
+25Q670,Robert F. Kennedy Community High School,All Grades,All Students,2020-21,112863,16371,96492,85.5,651,211,32.4
+26Q018,P.S. 018 Winchester,All Grades,All Students,2020-21,77647,3933,73714,94.9,462,74,16.0
+26Q026,P.S. 026 Rufus King,All Grades,All Students,2020-21,115059,5993,109066,94.8,715,135,18.9
+26Q031,P.S. 031 Bayside,All Grades,All Students,2020-21,79001,3097,75904,96.1,458,51,11.1
+26Q041,P.S. 041 Crocheron,All Grades,All Students,2020-21,77068,2107,74961,97.3,453,29,6.4
+26Q046,P.S. 046 Alley Pond,All Grades,All Students,2020-21,85060,2423,82637,97.2,508,33,6.5
+26Q067,J.H.S. 067 Louis Pasteur,All Grades,All Students,2020-21,181765,4681,177084,97.4,1050,67,6.4
+26Q074,J.H.S. 074 Nathaniel Hawthorne,All Grades,All Students,2020-21,193911,3674,190237,98.1,1131,31,2.7
+26Q094,P.S. 094 David D. Porter,All Grades,All Students,2020-21,54035,1134,52901,97.9,315,15,4.8
+26Q098,P.S. 098 The Douglaston School,All Grades,All Students,2020-21,44946,688,44258,98.5,269,3,1.1
+26Q115,The James J. Ambrose School,All Grades,All Students,2020-21,131073,3960,127113,97.0,781,71,9.1
+26Q133,P.S. 133 Queens,All Grades,All Students,2020-21,104596,3965,100631,96.2,609,45,7.4
+26Q158,M.S. 158 Marie Curie,All Grades,All Students,2020-21,168908,4852,164056,97.1,1004,71,7.1
+26Q159,P.S. 159,All Grades,All Students,2020-21,110868,2299,108569,97.9,664,35,5.3
+26Q162,P.S. 162 John Golden,All Grades,All Students,2020-21,100156,2342,97814,97.7,588,40,6.8
+26Q172,Irwin Altman Middle School 172,All Grades,All Students,2020-21,169445,10153,159292,94.0,990,191,19.3
+26Q173,P.S. 173 Fresh Meadows,All Grades,All Students,2020-21,154636,5897,148739,96.2,910,94,10.3
+26Q178,P.S./ IS 178 Holliswood,All Grades,All Students,2020-21,89120,4529,84591,94.9,533,76,14.3
+26Q186,P.S. 186 Castlewood,All Grades,All Students,2020-21,64997,1760,63237,97.3,386,18,4.7
+26Q188,P.S. 188 Kingsbury,All Grades,All Students,2020-21,125148,1986,123162,98.4,737,22,3.0
+26Q191,P.S. 191 Mayflower,All Grades,All Students,2020-21,69175,3019,66156,95.6,404,55,13.6
+26Q203,P.S. 203 Oakland Gardens,All Grades,All Students,2020-21,139096,3484,135612,97.5,816,49,6.0
+26Q205,P.S. 205 Alexander Graham Bell,All Grades,All Students,2020-21,49318,1565,47753,96.8,285,23,8.1
+26Q213,P.S. 213 The Carl Ullman School,All Grades,All Students,2020-21,74484,2975,71509,96.0,448,57,12.7
+26Q216,J.H.S. 216 George J. Ryan,All Grades,All Students,2020-21,276015,12102,263913,95.6,1617,186,11.5
+26Q221,P.S. 221 The North Hills School,All Grades,All Students,2020-21,102924,2878,100046,97.2,608,43,7.1
+26Q266,P.S./I.S. 266,All Grades,All Students,2020-21,101688,1902,99786,98.1,591,13,2.2
+26Q315,Business Technology Early College High School,All Grades,All Students,2020-21,95022,10874,84148,88.6,555,197,35.5
+26Q376,P.S. 376,All Grades,All Students,2020-21,52210,1348,50862,97.4,306,18,5.9
+26Q390,The CIVIC School of Bayside Hills,All Grades,All Students,2020-21,7184,246,6938,96.6,45,4,8.9
+26Q415,Benjamin N. Cardozo High School,All Grades,All Students,2020-21,588879,54695,534184,90.7,3412,1031,30.2
+26Q430,Francis Lewis High School,All Grades,All Students,2020-21,765700,58889,706811,92.3,4464,904,20.3
+26Q435,Martin Van Buren High School,All Grades,All Students,2020-21,197522,34749,162773,82.4,1174,540,46.0
+26Q495,Bayside High School,All Grades,All Students,2020-21,497981,32563,465418,93.5,2983,548,18.4
+26Q566,"Queens High School of Teaching, Liberal Arts and t",All Grades,All Students,2020-21,166967,25248,141719,84.9,967,386,39.9
+27Q042,P.S./M.S 042 R. Vernam,All Grades,All Students,2020-21,107580,21590,85990,79.9,642,407,63.4
+27Q043,P.S. 043,All Grades,All Students,2020-21,136515,28404,108111,79.2,830,488,58.8
+27Q045,P.S. 045 Clarence Witherspoon,All Grades,All Students,2020-21,52617,5776,46841,89.0,329,135,41.0
+27Q047,P.S. 047 Chris Galas,All Grades,All Students,2020-21,43249,3019,40230,93.0,251,54,21.5
+27Q051,P.S. 051,All Grades,All Students,2020-21,36637,3044,33593,91.7,225,67,29.8
+27Q053,M.S. 053 Brian Piccolo,All Grades,All Students,2020-21,28094,4620,23474,83.6,175,89,50.9
+27Q056,P.S. 056 Harry Eichler,All Grades,All Students,2020-21,57793,3766,54027,93.5,339,77,22.7
+27Q060,P.S. 060 Woodhaven,All Grades,All Students,2020-21,184504,14798,169706,92.0,1091,277,25.4
+27Q062,P. S. 62 - Chester Park School,All Grades,All Students,2020-21,155236,10562,144674,93.2,913,183,20.0
+27Q063,P.S. 063 Old South,All Grades,All Students,2020-21,191825,14336,177489,92.5,1135,263,23.2
+27Q064,P.S. 064 Joseph P. Addabbo,All Grades,All Students,2020-21,83315,6307,77008,92.4,488,128,26.2
+27Q065,P.S. 65 - The Raymond York Elementary School,All Grades,All Students,2020-21,73996,6602,67394,91.1,440,138,31.4
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,All Grades,All Students,2020-21,85891,5342,80549,93.8,513,106,20.7
+27Q090,P.S. 090 Horace Mann,All Grades,All Students,2020-21,116160,8652,107508,92.6,697,177,25.4
+27Q096,P.S. 096,All Grades,All Students,2020-21,52180,4859,47321,90.7,309,87,28.2
+27Q097,P.S. 097 Forest Park,All Grades,All Students,2020-21,109132,8132,101000,92.5,648,146,22.5
+27Q100,P.S. 100 Glen Morris,All Grades,All Students,2020-21,149162,11552,137610,92.3,880,189,21.5
+27Q104,P.S. 104 The Bays Water,All Grades,All Students,2020-21,105104,12303,92801,88.3,644,244,37.9
+27Q105,P.S. 105 The Bay School,All Grades,All Students,2020-21,136187,25751,110436,81.1,807,475,58.9
+27Q106,Lighthouse Elementary School,All Grades,All Students,2020-21,28352,5650,22702,80.1,170,113,66.5
+27Q108,P.S. 108 Captain Vincent G. Fowler,All Grades,All Students,2020-21,226630,9668,216962,95.7,1330,181,13.6
+27Q114,P.S./M.S. 114 Belle Harbor,All Grades,All Students,2020-21,111683,4580,107103,95.9,653,59,9.0
+27Q123,P.S. 123,All Grades,All Students,2020-21,104224,6375,97849,93.9,626,109,17.4
+27Q124,P.S. 124 Osmond A Church,All Grades,All Students,2020-21,189409,9685,179724,94.9,1106,184,16.6
+27Q137,M.S. 137 America's School of Heroes,All Grades,All Students,2020-21,336229,24989,311240,92.6,1948,442,22.7
+27Q146,P.S. 146 Howard Beach,All Grades,All Students,2020-21,94413,5315,89098,94.4,552,88,15.9
+27Q155,P.S. 155,All Grades,All Students,2020-21,94873,5394,89479,94.3,568,116,20.4
+27Q183,P.S. 183 Dr. Richard R. Green,All Grades,All Students,2020-21,79861,15389,64472,80.7,496,326,65.7
+27Q197,P.S. 197 The Ocean School,All Grades,All Students,2020-21,77103,7539,69564,90.2,460,159,34.6
+27Q202,J.H.S. 202 Robert H. Goddard,All Grades,All Students,2020-21,179888,22520,157368,87.5,1049,440,41.9
+27Q207,P.S. 207 Rockwood Park,All Grades,All Students,2020-21,114776,4584,110192,96.0,668,57,8.5
+27Q210,J.H.S. 210 Elizabeth Blackwell,All Grades,All Students,2020-21,297218,41655,255563,86.0,1750,818,46.7
+27Q223,P.S. 223 Lyndon B. Johnson,All Grades,All Students,2020-21,82499,9295,73204,88.7,505,212,42.0
+27Q226,J.H.S. 226 Virgil I. Grissom,All Grades,All Students,2020-21,152022,19235,132787,87.3,896,338,37.7
+27Q232,P.S. 232 Lindenwood,All Grades,All Students,2020-21,155467,8252,147215,94.7,910,136,14.9
+27Q253,P.S. 253,All Grades,All Students,2020-21,89454,14656,74798,83.6,536,279,52.1
+27Q254,P.S. 254 - The Rosa Parks School,All Grades,All Students,2020-21,100932,8580,92352,91.5,604,177,29.3
+27Q260,Frederick Douglass Academy VI High School,All Grades,All Students,2020-21,43157,19184,23973,55.5,251,198,78.9
+27Q262,Channel View School for Research,All Grades,All Students,2020-21,198326,11685,186641,94.1,1189,222,18.7
+27Q273,P.S. 273,All Grades,All Students,2020-21,52640,5475,47165,89.6,308,123,39.9
+27Q282,Knowledge and Power Preparatory Academy VI,All Grades,All Students,2020-21,48374,1371,47003,97.2,283,16,5.7
+27Q297,Hawtree Creek Middle School,All Grades,All Students,2020-21,68690,2359,66331,96.6,397,31,7.8
+27Q302,"Queens High School for Information, Research, and",All Grades,All Students,2020-21,82664,10905,71759,86.8,487,152,31.2
+27Q306,New York City Academy for Discovery,All Grades,All Students,2020-21,60507,3612,56895,94.0,368,76,20.7
+27Q308,Robert H. Goddard High School of Communication Art,All Grades,All Students,2020-21,104718,9480,95238,90.9,609,183,30.0
+27Q309,Academy of Medical Technology: A College Board Sch,All Grades,All Students,2020-21,120165,26587,93578,77.9,707,301,42.6
+27Q314,Epic High School - South,All Grades,All Students,2020-21,69998,7099,62899,89.9,421,129,30.6
+27Q316,Queens Explorers Elementary School,All Grades,All Students,2020-21,80878,5571,75307,93.1,471,99,21.0
+27Q317,Waterside Children's Studio School,All Grades,All Students,2020-21,84229,7569,76660,91.0,495,147,29.7
+27Q318,Waterside School For Leadership,All Grades,All Students,2020-21,33780,2517,31263,92.5,203,42,20.7
+27Q319,Village Academy,All Grades,All Students,2020-21,64906,7236,57670,88.9,385,126,32.7
+27Q323,Scholars' Academy,All Grades,All Students,2020-21,216569,20977,195592,90.3,1243,370,29.8
+27Q324,Rockaway Park High School for Environmental Sustai,All Grades,All Students,2020-21,43793,5891,37902,86.5,255,91,35.7
+27Q333,Goldie Maple Academy,All Grades,All Students,2020-21,62702,11113,51589,82.3,365,170,46.6
+27Q334,Epic High School - North,All Grades,All Students,2020-21,71223,10534,60689,85.2,420,155,36.9
+27Q351,Rockaway Collegiate High School,All Grades,All Students,2020-21,49674,12265,37409,75.3,301,177,58.8
+27Q362,Wave Preparatory Elementary School,All Grades,All Students,2020-21,82541,8827,73714,89.3,491,171,34.8
+27Q377,P.S. 377,All Grades,All Students,2020-21,68991,7190,61801,89.6,413,143,34.6
+27Q400,August Martin High School,All Grades,All Students,2020-21,72632,11614,61018,84.0,428,201,47.0
+27Q475,Richmond Hill High School,All Grades,All Students,2020-21,276492,33511,242981,87.9,1655,550,33.2
+27Q480,John Adams High School,All Grades,All Students,2020-21,415019,42186,372833,89.8,2499,611,24.4
+27Q650,"High School for Construction Trades, Engineering a",All Grades,All Students,2020-21,191640,14295,177345,92.5,1102,253,23.0
+28Q008,J.H.S. 008 Richard S. Grossley,All Grades,All Students,2020-21,77333,7443,69890,90.4,462,130,28.1
+28Q040,P.S. 040 Samuel Huntington,All Grades,All Students,2020-21,60785,8212,52573,86.5,381,187,49.1
+28Q048,P.S. 048 William Wordsworth,All Grades,All Students,2020-21,89339,9087,80252,89.8,543,193,35.5
+28Q050,P.S. 050 Talfourd Lawn Elementary School,All Grades,All Students,2020-21,138191,11062,127129,92.0,831,220,26.5
+28Q054,P.S. 054 Hillside,All Grades,All Students,2020-21,82020,5264,76756,93.6,490,92,18.8
+28Q055,P.S. 055 Maure,All Grades,All Students,2020-21,85811,7723,78088,91.0,510,128,25.1
+28Q072,Catherine & Count Basie Middle School 72,All Grades,All Students,2020-21,42985,5587,37398,87.0,261,101,38.7
+28Q080,PS 80  The Thurgood Marshall Magnet School of Mult,All Grades,All Students,2020-21,68618,8331,60287,87.9,418,179,42.8
+28Q082,P.S. 082 Hammond,All Grades,All Students,2020-21,99726,8382,91344,91.6,594,167,28.1
+28Q086,P.S. Q086,All Grades,All Students,2020-21,122438,8287,114151,93.2,734,171,23.3
+28Q099,P.S. 099 Kew Gardens,All Grades,All Students,2020-21,121923,3093,118830,97.5,715,53,7.4
+28Q101,P.S. 101 School in the Gardens,All Grades,All Students,2020-21,104136,2568,101568,97.5,620,28,4.5
+28Q117,P.S. 117 J. Keld / Briarwood School,All Grades,All Students,2020-21,150066,12058,138008,92.0,914,245,26.8
+28Q121,P.S. 121 Queens,All Grades,All Students,2020-21,135177,6799,128378,95.0,793,127,16.0
+28Q139,P.S. 139 Rego Park,All Grades,All Students,2020-21,111458,4778,106680,95.7,678,94,13.9
+28Q140,P.S. 140 Edward K Ellington,All Grades,All Students,2020-21,67880,9918,57962,85.4,412,160,38.8
+28Q144,P.S. 144 Col Jeromus Remsen,All Grades,All Students,2020-21,154523,2661,151862,98.3,910,23,2.5
+28Q157,J.H.S. 157 Stephen A. Halsey,All Grades,All Students,2020-21,287630,22137,265493,92.3,1675,394,23.5
+28Q160,P.S. 160 Walter Francis Bishop,All Grades,All Students,2020-21,110206,10456,99750,90.5,649,195,30.0
+28Q161,P.S. 161 Arthur Ashe School,All Grades,All Students,2020-21,103304,5528,97776,94.6,609,91,14.9
+28Q167,Metropolitan Expeditionary Learning School,All Grades,All Students,2020-21,145498,11788,133710,91.9,843,211,25.0
+28Q174,P.S. 174 William Sidney Mount,All Grades,All Students,2020-21,103814,2577,101237,97.5,617,36,5.8
+28Q175,P.S. 175 The Lynn Gross Discovery School,All Grades,All Students,2020-21,131826,7756,124070,94.1,786,136,17.3
+28Q182,P.S. 182 Samantha Smith,All Grades,All Students,2020-21,110045,10117,99928,90.8,660,215,32.6
+28Q190,J.H.S. 190 Russell Sage,All Grades,All Students,2020-21,197339,23764,173575,88.0,1149,390,33.9
+28Q196,P.S. 196 Grand Central Parkway,All Grades,All Students,2020-21,161589,3657,157932,97.7,969,45,4.6
+28Q206,P.S. 206 The Horace Harding School,All Grades,All Students,2020-21,95274,10188,85086,89.3,595,222,37.3
+28Q217,J.H.S. 217 Robert A. Van Wyck,All Grades,All Students,2020-21,278886,53178,225708,80.9,1635,1004,61.4
+28Q220,P.S. 220 Edward Mandel,All Grades,All Students,2020-21,109801,9118,100683,91.7,660,196,29.7
+28Q284,York Early College Academy,All Grades,All Students,2020-21,109601,4611,104990,95.8,630,65,10.3
+28Q287,The Emerson School,All Grades,All Students,2020-21,67882,13146,54736,80.6,399,202,50.6
+28Q303,The Academy for Excellence through the Arts,All Grades,All Students,2020-21,64315,1327,62988,97.9,383,10,2.6
+28Q310,Queens Collegiate: A College Board School,All Grades,All Students,2020-21,111758,17347,94411,84.5,652,261,40.0
+28Q312,Jamaica Children's School,All Grades,All Students,2020-21,41804,4903,36901,88.3,247,88,35.6
+28Q325,Hillside Arts & Letters Academy,All Grades,All Students,2020-21,77507,3809,73698,95.1,463,49,10.6
+28Q328,High School for Community Leadership,All Grades,All Students,2020-21,81117,5634,75483,93.1,477,84,17.6
+28Q332,Redwood Middle School,All Grades,All Students,2020-21,48467,8910,39557,81.6,284,165,58.1
+28Q349,The Queens School for Leadership and Excellence,All Grades,All Students,2020-21,106041,7830,98211,92.6,626,148,23.6
+28Q350,Jamaica Gateway to the Sciences,All Grades,All Students,2020-21,85511,6599,78912,92.3,508,118,23.2
+28Q354,The Jermaine L. Green STEM Institute of Queens,All Grades,All Students,2020-21,84194,12166,72028,85.6,500,224,44.8
+28Q358,M.S. 358,All Grades,All Students,2020-21,60812,8272,52540,86.4,354,162,45.8
+28Q440,Forest Hills High School,All Grades,All Students,2020-21,656342,52640,603702,92.0,3799,713,18.8
+28Q505,Hillcrest High School,All Grades,All Students,2020-21,492147,65427,426720,86.7,2944,1074,36.5
+28Q620,Thomas A. Edison Career and Technical Education Hi,All Grades,All Students,2020-21,404643,20476,384167,94.9,2337,260,11.1
+28Q680,Queens Gateway to Health Sciences Secondary School,All Grades,All Students,2020-21,114457,5459,108998,95.2,707,88,12.4
+28Q686,Queens Metropolitan High School,All Grades,All Students,2020-21,184071,9076,174995,95.1,1066,117,11.0
+28Q687,Queens High School for the Sciences at York Colleg,All Grades,All Students,2020-21,88939,2643,86296,97.0,512,30,5.9
+28Q690,High School for Law Enforcement and Public Safety,All Grades,All Students,2020-21,67171,13372,53799,80.1,393,210,53.4
+28Q896,"Young Women's Leadership School, Queens",All Grades,All Students,2020-21,101305,4862,96443,95.2,582,62,10.7
+29Q015,P.S. 015 Jackie Robinson,All Grades,All Students,2020-21,64054,5587,58467,91.3,387,123,31.8
+29Q033,P.S. 033 Edward M. Funk,All Grades,All Students,2020-21,154252,7667,146585,95.0,912,143,15.7
+29Q034,P.S. 034 John Harvard,All Grades,All Students,2020-21,94807,8299,86508,91.2,558,155,27.8
+29Q035,P.S. 035 Nathaniel Woodhull,All Grades,All Students,2020-21,113094,9561,103533,91.5,681,190,27.9
+29Q036,P.S. 036 Saint Albans School,All Grades,All Students,2020-21,58093,6459,51634,88.9,347,144,41.5
+29Q037,Cynthia Jenkins School,All Grades,All Students,2020-21,50914,5588,45326,89.0,307,118,38.4
+29Q038,P.S. 038 Rosedale,All Grades,All Students,2020-21,43309,3029,40280,93.0,261,61,23.4
+29Q052,P.S. 052 Queens,All Grades,All Students,2020-21,58213,12915,45298,77.8,352,215,61.1
+29Q059,I.S. 059 Springfield Gardens,All Grades,All Students,2020-21,89966,15080,74886,83.2,533,280,52.5
+29Q095,P.S. 095 Eastwood,All Grades,All Students,2020-21,242013,20140,221873,91.7,1443,389,27.0
+29Q109,Jean Nuzzi Intermediate School,All Grades,All Students,2020-21,197095,11954,185141,93.9,1150,236,20.5
+29Q116,P.S./I.S. 116 William C. Hughley,All Grades,All Students,2020-21,141862,25263,116599,82.2,858,525,61.2
+29Q118,P.S. 118 Lorraine Hansberry,All Grades,All Students,2020-21,70462,9215,61247,86.9,431,198,45.9
+29Q131,P.S. 131 Abigail Adams,All Grades,All Students,2020-21,119290,4244,115046,96.4,713,68,9.5
+29Q132,P.S. 132 Ralph Bunche,All Grades,All Students,2020-21,56329,3475,52854,93.8,342,75,21.9
+29Q134,P.S. 134 Hollis,All Grades,All Students,2020-21,50393,5968,44425,88.2,308,123,39.9
+29Q135,The Bellaire School,All Grades,All Students,2020-21,137613,13339,124274,90.3,828,256,30.9
+29Q136,P.S. 136 Roy Wilkins,All Grades,All Students,2020-21,84691,5425,79266,93.6,507,100,19.7
+29Q138,P.S./M.S. 138 Sunrise,All Grades,All Students,2020-21,103912,5217,98695,95.0,622,106,17.0
+29Q147,P.S./M.S. 147 Ronald McNair,All Grades,All Students,2020-21,85932,10569,75363,87.7,514,185,36.0
+29Q156,P.S. 156 Laurelton,All Grades,All Students,2020-21,26691,3021,23670,88.7,164,60,36.6
+29Q176,P.S. 176 Cambria Heights,All Grades,All Students,2020-21,115907,2205,113702,98.1,683,32,4.7
+29Q181,P.S. 181 Brookfield,All Grades,All Students,2020-21,50048,5496,44552,89.0,304,106,34.9
+29Q192,I.S. 192 The Linden,All Grades,All Students,2020-21,71432,10819,60613,84.9,422,214,50.7
+29Q195,P.S. 195 William Haberle,All Grades,All Students,2020-21,72053,5628,66425,92.2,438,126,28.8
+29Q208,P.S./I.S. 208,All Grades,All Students,2020-21,126128,4841,121287,96.2,741,96,13.0
+29Q238,I.S. 238 - Susan B. Anthony Academy,All Grades,All Students,2020-21,198322,55837,142485,71.8,1162,909,78.2
+29Q243,Institute for Health Professions at Cambria Height,All Grades,All Students,2020-21,79198,10952,68246,86.2,488,186,38.1
+29Q248,Queens Preparatory Academy,All Grades,All Students,2020-21,40415,7895,32520,80.5,240,112,46.7
+29Q251,P.S. 251 Queens,All Grades,All Students,2020-21,52323,5698,46625,89.1,306,88,28.8
+29Q259,Pathways College Preparatory School: A College Boa,All Grades,All Students,2020-21,106820,8825,97995,91.7,624,123,19.7
+29Q265,Excelsior Preparatory High School,All Grades,All Students,2020-21,69773,8455,61318,87.9,416,149,35.8
+29Q268,P.S./I.S. 268,All Grades,All Students,2020-21,109173,15269,93904,86.0,637,280,44.0
+29Q270,The Gordon Parks School,All Grades,All Students,2020-21,121103,11372,109731,90.6,707,244,34.5
+29Q272,George Washington Carver High School for the Scien,All Grades,All Students,2020-21,57712,11039,46673,80.9,361,159,44.0
+29Q283,Preparatory Academy for Writers: A College Board S,All Grades,All Students,2020-21,92095,8049,84046,91.3,553,169,30.6
+29Q289,Queens United Middle School,All Grades,All Students,2020-21,30123,2409,27714,92.0,179,41,22.9
+29Q295,P.S./I.S. 295,All Grades,All Students,2020-21,93439,5031,88408,94.6,556,90,16.2
+29Q313,Benjamin Franklin High School for Finance & Inform,All Grades,All Students,2020-21,73766,7735,66031,89.5,451,130,28.8
+29Q326,Cambria Heights Academy,All Grades,All Students,2020-21,62474,6828,55646,89.1,366,112,30.6
+29Q327,Eagle Academy for Young Men III,All Grades,All Students,2020-21,70992,15962,55030,77.5,415,306,73.7
+29Q355,Collaborative Arts Middle School,All Grades,All Students,2020-21,67602,11560,56042,82.9,400,211,52.8
+29Q356,Community Voices Middle School,All Grades,All Students,2020-21,55962,9218,46744,83.5,333,160,48.0
+29Q360,P.S. 360,All Grades,All Students,2020-21,56690,2424,54266,95.7,327,32,9.8
+29Q492,"Mathematics, Science Research and Technology Magne",All Grades,All Students,2020-21,59869,6535,53334,89.1,361,104,28.8
+29Q498,Humanities & Arts Magnet High School,All Grades,All Students,2020-21,66514,7892,58622,88.1,405,129,31.9
+30Q002,P.S. 002 Alfred Zimberg,All Grades,All Students,2020-21,87774,4675,83099,94.7,538,99,18.4
+30Q010,I.S. 010 Horace Greeley,All Grades,All Students,2020-21,133283,13277,120006,90.0,778,248,31.9
+30Q011,P.S. 011 Kathryn Phelan,All Grades,All Students,2020-21,143017,9004,134013,93.7,849,154,18.1
+30Q017,P.S. 017 Henry David Thoreau,All Grades,All Students,2020-21,98684,12929,85755,86.9,592,231,39.0
+30Q069,P.S. 069 Jackson Heights,All Grades,All Students,2020-21,151287,5974,145313,96.1,897,105,11.7
+30Q070,P.S. 070,All Grades,All Students,2020-21,139088,10649,128439,92.3,837,226,27.0
+30Q076,P.S. 076 William Hallet,All Grades,All Students,2020-21,69165,10094,59071,85.4,412,179,43.4
+30Q078,P.S./I.S. 78Q,All Grades,All Students,2020-21,116282,1661,114621,98.6,708,11,1.6
+30Q084,P.S. 084 Steinway,All Grades,All Students,2020-21,47811,2713,45098,94.3,284,54,19.0
+30Q085,P.S. 085 Judge Charles Vallone,All Grades,All Students,2020-21,101855,4093,97762,96.0,601,59,9.8
+30Q092,P.S. 092 Harry T. Stewart Sr.,All Grades,All Students,2020-21,148023,10997,137026,92.6,875,221,25.3
+30Q111,P.S. 111 Jacob Blackwell,All Grades,All Students,2020-21,57700,7377,50323,87.2,356,164,46.1
+30Q112,P.S. 112 Dutch Kills,All Grades,All Students,2020-21,68923,6397,62526,90.7,414,120,29.0
+30Q122,P.S. 122 Mamie Fay,All Grades,All Students,2020-21,219582,7306,212276,96.7,1288,109,8.5
+30Q126,Albert Shanker School for Visual and Performing Ar,All Grades,All Students,2020-21,101191,9203,91988,90.9,592,150,25.3
+30Q127,P.S. 127 Aerospace Science Magnet School,All Grades,All Students,2020-21,187875,15002,172873,92.0,1134,299,26.4
+30Q141,I.S. 141 The Steinway,All Grades,All Students,2020-21,201477,8715,192762,95.7,1189,133,11.2
+30Q145,I.S. 145 Joseph Pulitzer,All Grades,All Students,2020-21,280196,16718,263478,94.0,1647,299,18.2
+30Q148,P.S. 148 Queens,All Grades,All Students,2020-21,126754,9125,117629,92.8,762,175,23.0
+30Q149,P.S. 149 Christa McAuliffe,All Grades,All Students,2020-21,148845,12812,136033,91.4,873,253,29.0
+30Q150,P.S. 150 Queens,All Grades,All Students,2020-21,159947,5274,154673,96.7,936,75,8.0
+30Q151,P.S. 151 Mary D. Carter,All Grades,All Students,2020-21,52074,4786,47288,90.8,314,109,34.7
+30Q152,P.S. 152 Gwendoline N. Alleyne School,All Grades,All Students,2020-21,144353,8002,136351,94.5,855,146,17.1
+30Q166,P.S. 166 Henry Gradstein,All Grades,All Students,2020-21,155057,8120,146937,94.8,917,152,16.6
+30Q171,P.S. 171 Peter G. Van Alst,All Grades,All Students,2020-21,69319,8616,60703,87.6,415,161,38.8
+30Q204,I.S. 204 Oliver W. Holmes,All Grades,All Students,2020-21,66316,4584,61732,93.1,392,72,18.4
+30Q212,P.S. 212,All Grades,All Students,2020-21,126446,4874,121572,96.1,740,80,10.8
+30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora Sc,All Grades,All Students,2020-21,39879,3110,36769,92.2,241,64,26.6
+30Q227,I.S. 227 Louis Armstrong,All Grades,All Students,2020-21,269391,17143,252248,93.6,1565,295,18.8
+30Q228,The Ivan Lafayette Early Childhood School of the A,All Grades,All Students,2020-21,43296,1822,41474,95.8,258,29,11.2
+30Q230,I.S. 230,All Grades,All Students,2020-21,198291,15488,182803,92.2,1160,317,27.3
+30Q234,P.S. 234,All Grades,All Students,2020-21,70688,2798,67890,96.0,425,58,13.6
+30Q235,Academy for New Americans,All Grades,All Students,2020-21,13520,690,12830,94.9,95,12,12.6
+30Q258,Energy Tech High School,All Grades,All Students,2020-21,89796,7416,82380,91.7,532,122,22.9
+30Q280,P.S. 280,All Grades,All Students,2020-21,93067,5034,88033,94.6,564,95,16.8
+30Q286,"Young Women's Leadership School, Astoria",All Grades,All Students,2020-21,104385,11943,92442,88.6,600,238,39.7
+30Q291,Hunters Point Community Middle School,All Grades,All Students,2020-21,72675,4748,67927,93.5,422,88,20.9
+30Q300,The 30th Avenue School (G&T Citywide),All Grades,All Students,2020-21,92635,1398,91237,98.5,541,12,2.2
+30Q301,Academy for Careers in Television and Film,All Grades,All Students,2020-21,98934,9110,89824,90.8,573,155,27.1
+30Q329,East Elmhurst Community School,All Grades,All Students,2020-21,76899,4346,72553,94.3,459,70,15.3
+30Q361,The Woodside Community School,All Grades,All Students,2020-21,83545,4050,79495,95.2,493,87,17.6
+30Q384,P.S. 384,All Grades,All Students,2020-21,23521,800,22721,96.6,144,11,7.6
+30Q398,The Hector Figueroa School,All Grades,All Students,2020-21,31681,1846,29835,94.2,188,35,18.6
+30Q445,William Cullen Bryant High School,All Grades,All Students,2020-21,369617,59660,309957,83.9,2155,733,34.0
+30Q450,Long Island City High School,All Grades,All Students,2020-21,366010,63020,302990,82.8,2176,924,42.5
+30Q501,Frank Sinatra School of the Arts High School,All Grades,All Students,2020-21,152794,7068,145726,95.4,875,94,10.7
+30Q502,Information Technology High School,All Grades,All Students,2020-21,163650,27623,136027,83.1,949,406,42.8
+30Q555,Newcomers High School,All Grades,All Students,2020-21,120115,23921,96194,80.1,726,310,42.7
+30Q575,Academy of American Studies,All Grades,All Students,2020-21,194830,13539,181291,93.1,1125,194,17.2
+30Q580,Baccalaureate School for Global Education,All Grades,All Students,2020-21,100414,3784,96630,96.2,579,38,6.6
+31R001,P.S. 001 Tottenville,All Grades,All Students,2020-21,68093,3477,64616,94.9,399,54,13.5
+31R002,I.S. R002 George L. Egbert,All Grades,All Students,2020-21,171748,14455,157293,91.6,1001,294,29.4
+31R003,P.S. 003 The Margaret Gioiosa School,All Grades,All Students,2020-21,110915,4634,106281,95.8,647,66,10.2
+31R004,P.S. 004 Maurice Wollin,All Grades,All Students,2020-21,128058,6765,121293,94.7,758,115,15.2
+31R005,P.S. 005 Huguenot,All Grades,All Students,2020-21,49304,1430,47874,97.1,285,13,4.6
+31R006,P.S. 6 Corporal Allan F. Kivlehan School,All Grades,All Students,2020-21,81875,4446,77429,94.6,495,81,16.4
+31R007,I.S. 007 Elias Bernstein,All Grades,All Students,2020-21,208116,12150,195966,94.2,1203,233,19.4
+31R008,P.S. 8 Shirlee Solomon,All Grades,All Students,2020-21,96811,2581,94230,97.3,576,32,5.6
+31R009,Naples Street Elementary School,All Grades,All Students,2020-21,52081,1587,50494,97.0,305,13,4.3
+31R010,Fort Hill Collaborative Elementary School,All Grades,All Students,2020-21,35916,5809,30107,83.8,218,122,56.0
+31R011,P.S. 11 Thomas Dongan School,All Grades,All Students,2020-21,54442,6670,47772,87.7,330,134,40.6
+31R013,P.S. 013 M. L. Lindemeyer,All Grades,All Students,2020-21,144049,13548,130501,90.6,852,255,29.9
+31R016,P.S. 016 John J. Driscoll,All Grades,All Students,2020-21,73944,12113,61831,83.6,456,266,58.3
+31R018,P.S. 018 John G. Whittier,All Grades,All Students,2020-21,75572,14406,61166,80.9,462,288,62.3
+31R019,P.S. 019 The Curtis School,All Grades,All Students,2020-21,92422,6977,85445,92.5,544,131,24.1
+31R020,P.S. 020 Port Richmond,All Grades,All Students,2020-21,70996,13620,57376,80.8,424,269,63.4
+31R021,P.S. 21 Margaret Emery-Elm Park,All Grades,All Students,2020-21,68981,13362,55619,80.6,412,241,58.5
+31R022,P.S. 022 Graniteville,All Grades,All Students,2020-21,149110,18279,130831,87.7,882,362,41.0
+31R023,P.S. 023 Richmondtown,All Grades,All Students,2020-21,98838,3542,95296,96.4,571,46,8.1
+31R024,I.S. 024 Myra S. Barnes,All Grades,All Students,2020-21,227770,25230,202540,88.9,1322,491,37.1
+31R026,P.S. 026 The Carteret School,All Grades,All Students,2020-21,49861,2281,47580,95.4,290,37,12.8
+31R027,I.S. 027 Anning S. Prall,All Grades,All Students,2020-21,182617,27729,154888,84.8,1074,470,43.8
+31R028,The Eagle Academy for Young Men of Staten Island,All Grades,All Students,2020-21,59556,9652,49904,83.8,346,155,44.8
+31R029,P.S. 029 Bardwell,All Grades,All Students,2020-21,111257,5680,105577,94.9,650,102,15.7
+31R030,P.S. 030 Westerleigh,All Grades,All Students,2020-21,133165,6437,126728,95.2,786,96,12.2
+31R031,P.S. 031 William T. Davis,All Grades,All Students,2020-21,64298,13728,50570,78.6,387,249,64.3
+31R032,P.S. 032 The Gifford School,All Grades,All Students,2020-21,112068,5405,106663,95.2,651,84,12.9
+31R034,I.S. 034 Tottenville,All Grades,All Students,2020-21,175903,6581,169322,96.3,1016,94,9.3
+31R035,P.S. 35 The Clove Valley School,All Grades,All Students,2020-21,73876,2985,70891,96.0,435,41,9.4
+31R036,P.S. 036 J. C. Drumgoole,All Grades,All Students,2020-21,143203,7615,135588,94.7,847,122,14.4
+31R038,P.S. 038 George Cromwell,All Grades,All Students,2020-21,68534,6285,62249,90.8,403,112,27.8
+31R039,P.S. 39 Francis J. Murphy Jr.,All Grades,All Students,2020-21,86337,8340,77997,90.3,515,153,29.7
+31R041,The Stephanie A. Vierno School,All Grades,All Students,2020-21,116089,6796,109293,94.1,687,133,19.4
+31R042,P.S. 042 Eltingville,All Grades,All Students,2020-21,182267,13727,168540,92.5,1075,249,23.2
+31R044,P.S. 044 Thomas C. Brown,All Grades,All Students,2020-21,113194,19923,93271,82.4,690,389,56.4
+31R045,P.S. 045 John Tyler,All Grades,All Students,2020-21,145149,13999,131150,90.4,864,236,27.3
+31R046,P.S. 046 Albert V. Maniscalco,All Grades,All Students,2020-21,41680,5993,35687,85.6,250,117,46.8
+31R047,CSI High School for International Studies,All Grades,All Students,2020-21,85356,4323,81033,94.9,511,75,14.7
+31R048,P.S. 048 William G. Wilcox,All Grades,All Students,2020-21,169439,10288,159151,93.9,993,186,18.7
+31R049,I.S. 49 Berta A. Dreyfus,All Grades,All Students,2020-21,109915,28038,81877,74.5,644,412,64.0
+31R050,P.S. 050 Frank Hankinson,All Grades,All Students,2020-21,124799,4478,120321,96.4,733,83,11.3
+31R051,I.S. 051 Edwin Markham,All Grades,All Students,2020-21,242334,44826,197508,81.5,1416,753,53.2
+31R052,P.S. 052 John C. Thompson,All Grades,All Students,2020-21,103357,4259,99098,95.9,610,71,11.6
+31R053,The Barbara Esselborn School,All Grades,All Students,2020-21,141381,5036,136345,96.4,835,72,8.6
+31R054,P.S. 054 Charles W. Leng,All Grades,All Students,2020-21,137900,7905,129995,94.3,829,147,17.7
+31R055,P.S. 055 Henry M. Boehm,All Grades,All Students,2020-21,94486,5940,88546,93.7,557,97,17.4
+31R056,P.S. 56 The Louis Desario School,All Grades,All Students,2020-21,101146,3190,97956,96.8,589,52,8.8
+31R057,P.S. 057 Hubert H. Humphrey,All Grades,All Students,2020-21,101301,17106,84195,83.1,621,325,52.3
+31R058,Space Shuttle Columbia School,All Grades,All Students,2020-21,115032,5071,109961,95.6,674,80,11.9
+31R059,The Harbor View School,All Grades,All Students,2020-21,53301,5898,47403,88.9,313,112,35.8
+31R060,P.S. 060 Alice Austen,All Grades,All Students,2020-21,131674,13052,118622,90.1,787,247,31.4
+31R061,I.S. 061 William A Morris,All Grades,All Students,2020-21,175571,38357,137214,78.2,1021,652,63.9
+31R062,The Kathleen Grimm School for Leadership and Susta,All Grades,All Students,2020-21,75968,4490,71478,94.1,445,69,15.5
+31R063,Marsh Avenue School for Expeditionary Learning,All Grades,All Students,2020-21,80486,4617,75869,94.3,463,91,19.7
+31R064,Gaynor McCown Expeditionary Learning School,All Grades,All Students,2020-21,74397,19516,54881,73.8,432,278,64.4
+31R065,P.S. 65 The Academy of Innovative Learning,All Grades,All Students,2020-21,70706,4743,65963,93.3,410,79,19.3
+31R068,Port Richmond School for Visionary Learning,All Grades,All Students,2020-21,65201,5788,59413,91.1,387,120,31.0
+31R069,P.S. 069 Daniel D. Tompkins,All Grades,All Students,2020-21,153699,8086,145613,94.7,899,143,15.9
+31R072,I.S. 072 Rocco Laurie,All Grades,All Students,2020-21,265113,41415,223698,84.4,1541,721,46.8
+31R074,P.S. 74 Future Leaders Elementary School,All Grades,All Students,2020-21,47111,10278,36833,78.2,282,181,64.2
+31R075,I.S. 075 Frank D. Paulo,All Grades,All Students,2020-21,251773,10776,240997,95.7,1455,162,11.1
+31R078,P.S. 78,All Grades,All Students,2020-21,118087,25897,92190,78.1,698,452,64.8
+31R080,The Michael J. Petrides School,All Grades,All Students,2020-21,241366,37239,204127,84.6,1393,580,41.6
+31R440,New Dorp High School,All Grades,All Students,2020-21,540426,51100,489326,90.5,3169,695,21.9
+31R445,Port Richmond High School,All Grades,All Students,2020-21,263788,58452,205336,77.8,1526,661,43.3
+31R450,Curtis High School,All Grades,All Students,2020-21,423538,127476,296062,69.9,2508,1628,64.9
+31R455,Tottenville High School,All Grades,All Students,2020-21,643942,58101,585841,91.0,3735,826,22.1
+31R460,Susan E. Wagner High School,All Grades,All Students,2020-21,569086,68038,501048,88.0,3340,1011,30.3
+31R600,Ralph R. McKee Career and Technical Education High,All Grades,All Students,2020-21,143177,39158,104019,72.7,846,500,59.1
+31R605,Staten Island Technical High School,All Grades,All Students,2020-21,230417,5374,225043,97.7,1337,42,3.1
+31R861,Staten Island School of Civic Leadership,All Grades,All Students,2020-21,152591,14583,138008,90.4,889,246,27.7
+32K045,P.S./I.S. 045 Horace E. Greene,All Grades,All Students,2020-21,99089,12746,86343,87.1,594,251,42.3
+32K075,P.S. 075 Mayda Cortiella,All Grades,All Students,2020-21,43130,6753,36377,84.3,271,157,57.9
+32K086,P.S. 086 The Irvington,All Grades,All Students,2020-21,67072,8449,58623,87.4,415,180,43.4
+32K106,P.S. 106 Edward Everett Hale,All Grades,All Students,2020-21,60335,9744,50591,83.9,367,186,50.7
+32K116,P.S. 116 Elizabeth L Farrell,All Grades,All Students,2020-21,58308,5230,53078,91.0,377,108,28.6
+32K123,P.S. 123 Suydam,All Grades,All Students,2020-21,93375,7997,85378,91.4,590,188,31.9
+32K145,P.S. 145 Andrew Jackson,All Grades,All Students,2020-21,82871,10617,72254,87.2,500,207,41.4
+32K151,P.S. 151 Lyndon B. Johnson,All Grades,All Students,2020-21,53874,5593,48281,89.6,340,136,40.0
+32K162,J.H.S. 162 The Willoughby,All Grades,All Students,2020-21,57847,3671,54176,93.7,351,64,18.2
+32K168,The Brooklyn School for Math and Research,All Grades,All Students,2020-21,64172,9517,54655,85.2,382,151,39.5
+32K274,P.S. 274 Kosciusko,All Grades,All Students,2020-21,61687,5920,55767,90.4,391,152,38.9
+32K291,J.H.S. 291 Roland Hayes,All Grades,All Students,2020-21,54586,6255,48331,88.5,329,135,41.0
+32K299,P.S. 299 Thomas Warren Field,All Grades,All Students,2020-21,31404,2367,29037,92.5,203,43,21.2
+32K347,I.S. 347 School of Humanities,All Grades,All Students,2020-21,44009,4516,39493,89.7,272,81,29.8
+32K349,"I.S. 349 Math, Science & Tech.",All Grades,All Students,2020-21,49143,4983,44160,89.9,291,92,31.6
+32K376,P.S. 376,All Grades,All Students,2020-21,81875,4843,77032,94.1,493,95,19.3
+32K377,P.S. 377 Alejandrina B. De Gautier,All Grades,All Students,2020-21,24954,2828,22126,88.7,158,78,49.4
+32K383,J.H.S. 383 Philippa Schuyler,All Grades,All Students,2020-21,155778,10261,145517,93.4,895,176,19.7
+32K384,P.S. /I.S. 384 Frances E. Carter,All Grades,All Students,2020-21,69863,8778,61085,87.4,421,160,38.0
+32K403,Academy for Excellence in Leadership,All Grades,All Students,2020-21,42852,10605,32247,75.3,282,185,65.6
+32K545,EBC High School for Public Service - Bushwick,All Grades,All Students,2020-21,80333,15084,65249,81.2,466,229,49.1
+32K549,The Brooklyn School for Social Justice,All Grades,All Students,2020-21,52641,11705,40936,77.8,340,217,63.8
+32K552,The Academy of Urban Planning and Engineering,All Grades,All Students,2020-21,63589,8228,55361,87.1,370,123,33.2
+32K554,All City Leadership Secondary School,All Grades,All Students,2020-21,75333,1999,73334,97.3,432,26,6.0
+32K556,Bushwick Leaders High School for Academic Excellen,All Grades,All Students,2020-21,63422,12298,51124,80.6,370,207,55.9
+32K562,Evergreen Middle School for Urban Exploration,All Grades,All Students,2020-21,64154,1516,62638,97.6,375,22,5.9
+75K004,P.S. K004,All Grades,All Students,2020-21,68736,12051,56685,82.5,424,238,56.1
+75K036,P.S. 36,All Grades,All Students,2020-21,66301,13691,52610,79.4,397,243,61.2
+75K053,P.S. K053,All Grades,All Students,2020-21,76785,16539,60246,78.5,445,261,58.7
+75K077,P.S. K077,All Grades,All Students,2020-21,50502,7285,43217,85.6,296,128,43.2
+75K140,P.S. K140,All Grades,All Students,2020-21,60663,14140,46523,76.7,357,242,67.8
+75K141,P.S. K141,All Grades,All Students,2020-21,66037,17702,48335,73.2,387,302,78.0
+75K231,P.S. K231,All Grades,All Students,2020-21,52733,6333,46400,88.0,313,125,39.9
+75K368,P.S. 368,All Grades,All Students,2020-21,45326,16941,28385,62.6,279,222,79.6
+75K369,P.S. K369 - Coy L. Cox School,All Grades,All Students,2020-21,91812,18449,73363,79.9,533,275,51.6
+75K370,P.S. 370,All Grades,All Students,2020-21,41259,6055,35204,85.3,240,110,45.8
+75K371,P.S. 371 - Lillian L. Rashkis,All Grades,All Students,2020-21,37032,9911,27121,73.2,228,131,57.5
+75K372,P.S. 372 -The Children's School,All Grades,All Students,2020-21,32646,2588,30058,92.1,196,44,22.4
+75K373,P.S. 373 - Brooklyn Transition Center,All Grades,All Students,2020-21,84338,16284,68054,80.7,492,269,54.7
+75K396,P.S. K396,All Grades,All Students,2020-21,86345,17098,69247,80.2,510,317,62.2
+75K721,P.S. K721 - Brooklyn Occupational Training Center,All Grades,All Students,2020-21,82718,20564,62154,75.1,486,277,57.0
+75K753,P.S. K753 - School for Career Development,All Grades,All Students,2020-21,55726,12737,42989,77.1,354,204,57.6
+75K771,P.S. K771,All Grades,All Students,2020-21,82094,15006,67088,81.7,481,269,55.9
+75K811,P.S. K811 Connie Lekas School,All Grades,All Students,2020-21,57962,13760,44202,76.3,342,192,56.1
+75M079,P.S. M079 - Horan School,All Grades,All Students,2020-21,47949,17286,30663,63.9,273,221,81.0
+75M094,P.S. M094,All Grades,All Students,2020-21,71135,10595,60540,85.1,421,216,51.3
+75M138,P.S. 138,All Grades,All Students,2020-21,114564,20006,94558,82.5,672,343,51.0
+75M169,P.S. M169 - Robert F. Kennedy,All Grades,All Students,2020-21,62046,10381,51665,83.3,381,218,57.2
+75M226,P.S. M226,All Grades,All Students,2020-21,48306,8055,40251,83.3,288,140,48.6
+75M721,P.S. M721 - Manhattan Occupational Training Center,All Grades,All Students,2020-21,35007,5474,29533,84.4,208,102,49.0
+75M751,Manhattan School for Career Development,All Grades,All Students,2020-21,41178,7795,33383,81.1,247,121,49.0
+75M811,P.S. M811 - Mickey Mantle School,All Grades,All Students,2020-21,72887,16034,56853,78.0,432,282,65.3
+75Q004,P.S. Q004,All Grades,All Students,2020-21,78439,10468,67971,86.7,469,224,47.8
+75Q009,P.S. 009,All Grades,All Students,2020-21,109862,18955,90907,82.7,661,305,46.1
+75Q075,Robert E. Peary School,All Grades,All Students,2020-21,101412,19245,82167,81.0,615,386,62.8
+75Q177,P.S. Q177,All Grades,All Students,2020-21,86805,15628,71177,82.0,500,245,49.0
+75Q224,P.S. Q224,All Grades,All Students,2020-21,70238,9355,60883,86.7,419,207,49.4
+75Q233,P.S. Q233,All Grades,All Students,2020-21,95783,16028,79755,83.3,564,302,53.5
+75Q255,P.S. Q255,All Grades,All Students,2020-21,81030,13934,67096,82.8,471,280,59.4
+75Q277,The Riverview School,All Grades,All Students,2020-21,118535,16103,102432,86.4,697,329,47.2
+75Q721,John F. Kennedy Jr. School,All Grades,All Students,2020-21,86335,17679,68656,79.5,497,275,55.3
+75Q752,Queens Transition Center,All Grades,All Students,2020-21,71490,26889,44601,62.4,431,328,76.1
+75Q811,P.S. Q811,All Grades,All Students,2020-21,76593,14292,62301,81.3,454,247,54.4
+75Q993,P.S. Q993,All Grades,All Students,2020-21,105932,14103,91829,86.7,621,247,39.8
+75R025,South Richmond High School I.S./P.S. 25,All Grades,All Students,2020-21,103228,27105,76123,73.7,617,401,65.0
+75R037,The David Marquis School of the Arts,All Grades,All Students,2020-21,81396,11257,70139,86.2,479,205,42.8
+75R373,P.S. R373,All Grades,All Students,2020-21,107159,19525,87634,81.8,630,390,61.9
+75R721,The Richard H. Hungerford School,All Grades,All Students,2020-21,74923,11844,63079,84.2,435,205,47.1
+75X010,P.S. X010,All Grades,All Students,2020-21,111691,23511,88180,78.9,656,396,60.4
+75X012,P.S. X012 Lewis and Clark School,All Grades,All Students,2020-21,53688,10507,43181,80.4,318,212,66.7
+75X017,P.S. X017,All Grades,All Students,2020-21,94219,13772,80447,85.4,568,303,53.3
+75X168,P.S. 168,All Grades,All Students,2020-21,91241,23065,68176,74.7,537,375,69.8
+75X176,P.S. X176,All Grades,All Students,2020-21,95710,10313,85397,89.2,555,193,34.8
+75X186,P186X Walter J. Damrosch School,All Grades,All Students,2020-21,123903,21287,102616,82.8,744,460,61.8
+75X188,P.S. X188,All Grades,All Students,2020-21,99413,17229,82184,82.7,584,326,55.8
+75X352,The Vida Bogart School for All Children,All Grades,All Students,2020-21,97062,4310,92752,95.6,579,83,14.3
+75X469,P469X - The Bronx School for Continuous Learners,All Grades,All Students,2020-21,92570,14304,78266,84.5,555,276,49.7
+75X596,P.S. X596,All Grades,All Students,2020-21,70888,8460,62428,88.1,414,176,42.5
+75X721,P.S. X721 - Stephen McSweeney School,All Grades,All Students,2020-21,102465,21267,81198,79.2,598,330,55.2
+75X754,J. M. Rapport School Career Development,All Grades,All Students,2020-21,84421,43443,40978,48.5,471,399,84.7
+75X811,P.S. X811,All Grades,All Students,2020-21,112857,24696,88161,78.1,655,365,55.7

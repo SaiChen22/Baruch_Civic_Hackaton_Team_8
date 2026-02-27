@@ -1,0 +1,130 @@
+## F1: PLAN COMPLIANCE AUDIT
+
+**Timestamp**: 2026-02-27 (Hackathon Day)
+**Auditor**: Atlas (Orchestrator)
+
+---
+
+### MUST HAVE REQUIREMENTS (9/9 COMPLIANT)
+
+✅ 1. **Local CSV data files (app never calls live API)**
+   - Verified: app.py lines 10 reads "data/merged.csv"
+   - Verified: No requests.get/urllib/sodapy in app.py (grep returned 0 matches)
+
+✅ 2. **$limit=5000 on all Socrata API calls**
+   - Verified: data/fetch_data.py line 22 has "$limit": 5000
+   - Verified: grep found 1 occurrence (both housing and attendance use params dict)
+
+✅ 3. **Universal clean_pct() helper**
+   - Verified: data/clean_data.py contains clean_pct() function
+   - Handles both "30.7%" and "42.2" formats per learnings.md
+
+✅ 4. **Borough derived from dbn[2]**
+   - Verified: data/clean_data.py implements borough derivation logic
+   - Documented in learnings.md lines 91-96
+
+✅ 5. **COVID-19 disclaimer (st.info())**
+   - Verified: app.py line 16 has st.info() with ⚠️ emoji
+   - Text: "Data from the 2020-21 school year, which was significantly impacted by COVID-19..."
+
+✅ 6. **Definition of "chronically absent" in narrative**
+   - Verified: app.py line 21 defines "Chronically absent means missing ≥10% of enrolled school days"
+
+✅ 7. **total_students >= 20 filter on scatter plot**
+   - Verified: app.py line 62 has `scatter_df = df[df['total_enrollment'] >= 20].copy()`
+
+✅ 8. **@st.cache_data on data loading**
+   - Verified: app.py line 8 has @st.cache_data decorator on load_data()
+
+✅ 9. **st.set_page_config as first call**
+   - Verified: app.py line 6 is first Streamlit call (after imports)
+
+---
+
+### MUST NOT HAVE GUARDRAILS (9/9 CLEAN)
+
+✅ 1. **No live API calls in app.py**
+   - Verified: grep "requests.get|urllib|sodapy" in app.py returned 0 matches
+
+✅ 2. **No sodapy dependency**
+   - Verified: requirements.txt contains only: streamlit, pandas, plotly, requests, statsmodels
+   - No sodapy present
+
+✅ 3. **No interactive filters**
+   - Verified: grep "st.selectbox|st.slider|st.multiselect" returned 0 matches
+
+✅ 4. **No custom CSS**
+   - Verified: grep "unsafe_allow_html=True" returned 0 matches
+
+✅ 5. **≤5 visualizations total**
+   - Verified: 3 visualizations (px.bar at line 39, px.scatter at line 64, px.bar at line 108)
+   - Count: 3 charts (well under limit)
+
+✅ 6. **No authentication/database/cloud**
+   - Verified: No imports or code related to auth, DB, or cloud services
+
+✅ 7. **No demographics dataset before core complete**
+   - Verified: Only 2 datasets used (housing.csv, attendance.csv)
+
+✅ 8. **No download/export buttons**
+   - Verified: No st.download_button in app.py
+
+✅ 9. **No anti-patterns (bare except, pass in except, commented code)**
+   - Verified: F2 Code Quality Review found 0 issues (6 files clean)
+
+---
+
+### TASK COMPLETION (8/8 REQUIRED TASKS)
+
+✅ Task 1: Project Scaffolding - COMPLETE
+✅ Task 2: Data Acquisition Script - COMPLETE
+✅ Task 3: Data Cleaning & Merge Pipeline - COMPLETE
+✅ Task 4: App.py Skeleton - COMPLETE
+✅ Task 5: Tab 1 "The Scale" - COMPLETE
+✅ Task 6: Tab 2 "The Gap" (CENTERPIECE) - COMPLETE
+✅ Task 7: Tab 3 "The Invisible Majority" - COMPLETE
+✅ Task 9: Final Polish - COMPLETE
+⏭️ Task 8: Borough Map - SKIPPED (stretch goal, not required)
+
+---
+
+### EVIDENCE FILES (18/18 PRESENT)
+
+✅ All task evidence files exist in .sisyphus/evidence/
+   - task-1-*.txt (2 files)
+   - task-2-*.txt (4 files)
+   - task-3-*.txt (2 files)
+   - task-4-*.txt (2 files)
+   - task-6-*.txt (1 file)
+   - task-7-*.txt (3 files)
+   - task-9-*.txt (4 files)
+
+---
+
+### DATA INTEGRITY
+
+✅ data/merged.csv: 1,454 rows (exceeds 1,300 requirement)
+✅ data/housing.csv: 1,689 rows
+✅ data/attendance.csv: 1,530 rows
+
+---
+
+### DELIVERABLES
+
+✅ requirements.txt - 5 packages
+✅ data/fetch_data.py - 86 lines
+✅ data/clean_data.py - 224 lines
+✅ app.py - 133 lines
+✅ data/merged.csv - Clean joined dataset
+
+---
+
+## FINAL VERDICT: **APPROVE**
+
+**Must Have**: 9/9 ✅
+**Must NOT Have**: 9/9 ✅  
+**Tasks**: 8/8 ✅
+**Evidence**: 18/18 ✅
+**Data Integrity**: VERIFIED ✅
+
+All plan requirements met. Dashboard is complete and compliant.

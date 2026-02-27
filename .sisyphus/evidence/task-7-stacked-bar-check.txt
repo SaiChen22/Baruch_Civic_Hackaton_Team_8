@@ -1,0 +1,6 @@
+BOROUGH_AGGREGATION:
+Bronx: 24416 students (Doubled Up: 16589, DHS: 5067, Non-DHS: 2760)
+Brooklyn: 18334 students (Doubled Up: 13895, DHS: 2692, Non-DHS: 1747)
+Manhattan: 10243 students (Doubled Up: 7473, DHS: 1639, Non-DHS: 1131)
+Queens: 15434 students (Doubled Up: 13927, DHS: 1020, Non-DHS: 487)
+Staten Island: 1658 students (Doubled Up: 1364, DHS: 137, Non-DHS: 157)

@@ -1,0 +1,23 @@
+=== QA Scenario 2: Attendance Data Fetched with Correct Filters ===
+Expected: attendance.csv has ~1,530 rows, all with year='2020-21'
+
+Test Steps:
+1. Run: python data/fetch_data.py
+2. Verify attendance.csv row count > 1400
+3. Verify all rows have year='2020-21'
+
+Result:
+✓ PASS - Attendance data contains 1530 rows (>1400)
+✓ PASS - All rows have year='2020-21'
+✓ PASS - $limit=5000 parameter correctly applied
+✓ PASS - Server-side $where filter correctly applied
+
+Unique Years Found: {'2020-21'}
+Row Count: 1530
+
+Failure Indicators:
+- Multiple years present - NOT OBSERVED
+- Row count = 1000 - NOT OBSERVED
+- Wrong filter applied - NOT OBSERVED
+
+Status: SUCCESS

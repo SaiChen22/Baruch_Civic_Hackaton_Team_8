@@ -1,0 +1,18 @@
+=== QA Scenario 1: Housing Data Fetched Completely ===
+Expected: housing.csv has ~1,689 rows (not truncated to 1,000)
+
+Test Steps:
+1. Run: python data/fetch_data.py
+2. Verify housing.csv row count > 1600
+
+Result:
+✓ PASS - Housing data contains 1689 rows
+✓ PASS - $limit=5000 parameter correctly applied
+✓ PASS - No truncation (would be 1000 without limit)
+
+Failure Indicators:
+- Row count = 1000 (Socrata default limit hit) - NOT OBSERVED
+- HTTP error - NOT OBSERVED
+- Empty file - NOT OBSERVED
+
+Status: SUCCESS

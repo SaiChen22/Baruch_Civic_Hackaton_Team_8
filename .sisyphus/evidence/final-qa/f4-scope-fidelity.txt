@@ -1,0 +1,214 @@
+## F4: SCOPE FIDELITY CHECK
+
+**Timestamp**: 2026-02-27 (Hackathon Day)
+**Reviewer**: Atlas (Orchestrator - Manual Review)
+
+---
+
+### TASK-BY-TASK COMPLIANCE MATRIX
+
+#### TASK 1: Project Scaffolding (COMPLIANT ✅)
+
+**Spec Requirements**:
+- requirements.txt with 5 packages
+- data/ directory
+- venv/ structure
+
+**Implementation**:
+✓ requirements.txt present (5 packages: streamlit, pandas, plotly, requests, statsmodels)
+✓ data/ directory exists
+✓ venv/ directory created (though broken, not used in execution)
+✓ No extra features added
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 2: Data Acquisition Script (COMPLIANT ✅)
+
+**Spec Requirements**:
+- data/fetch_data.py
+- Fetches housing + attendance datasets
+- $limit=5000 on both API calls
+- No sodapy dependency
+
+**Implementation**:
+✓ data/fetch_data.py (86 lines)
+✓ fetch_housing_data() function
+✓ fetch_attendance_data() function
+✓ "$limit": 5000 in both params (lines 22, 26)
+✓ Uses requests.get() not sodapy
+✓ Generates housing.csv (1,689 rows)
+✓ Generates attendance.csv (1,530 rows)
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 3: Data Cleaning & Merge (COMPLIANT ✅)
+
+**Spec Requirements**:
+- data/clean_data.py
+- clean_pct() helper function
+- Borough derived from dbn[2]
+- data/merged.csv (1,454 rows)
+
+**Implementation**:
+✓ data/clean_data.py (224 lines)
+✓ clean_pct() function handles both "30.7%" and "42.2" formats
+✓ derive_borough() function with BOROUGH_MAP dict
+✓ data/merged.csv generated (1,454 rows, 22 columns)
+✓ Inner join on dbn
+✓ Suppressed values ("s") filtered
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 4: App.py Skeleton (COMPLIANT ✅)
+
+**Spec Requirements**:
+- app.py with 3 tabs
+- st.set_page_config as first call
+- @st.cache_data on load_data()
+- COVID-19 disclaimer
+- "Chronically absent" definition
+
+**Implementation**:
+✓ app.py created (133 lines)
+✓ st.set_page_config at line 6 (first Streamlit call)
+✓ @st.cache_data at line 8
+✓ 3 tabs at line 24
+✓ COVID-19 disclaimer at line 16 (st.info with ⚠️)
+✓ "Chronically absent" defined at line 21
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 5: Tab 1 "The Scale" (COMPLIANT ✅)
+
+**Spec Requirements**:
+- Borough bar chart
+- 3 metric cards
+- No hardcoded aggregates
+
+**Implementation**:
+✓ px.bar at line 39 (borough chart)
+✓ 3 st.metric at lines 50-52
+✓ All aggregates computed from df (groupby at line 33)
+✓ Sorted by total_temp_housing
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 6: Tab 2 "The Gap" (COMPLIANT ✅)
+
+**Spec Requirements**:
+- Scatter plot
+- OLS trendline
+- Enrollment filter >= 20
+- Hover data: school name + DBN
+
+**Implementation**:
+✓ px.scatter at line 64
+✓ trendline='ols' at line 71
+✓ Filter `>= 20` at line 62
+✓ hover_data=['school_name_housing', 'dbn'] at line 70
+✓ Color by borough
+✓ Size by enrollment
+✓ Human-readable axis labels
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 7: Tab 3 "The Invisible Majority" (COMPLIANT ✅)
+
+**Spec Requirements**:
+- Stacked bar chart (3 housing types)
+- Top 20 schools table (5 columns)
+- "What Can Be Done?" section
+
+**Implementation**:
+✓ px.bar with barmode='stack' at line 108
+✓ 3 housing types: doubled_up, dhs_shelter, non_dhs_shelter
+✓ Top 20 table at line 116 (nlargest)
+✓ 5 columns: School, Borough, % Temp Housing, % Chronically Absent, Enrollment
+✓ 1-indexed (line 120)
+✓ "What Can Be Done?" at line 125
+✓ 3 policy recommendations
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+#### TASK 9: Final Polish (COMPLIANT ✅)
+
+**Spec Requirements**:
+- Data attribution caption
+- Narrative consistency verified
+- All required definitions present
+
+**Implementation**:
+✓ st.caption at line 133 with dataset IDs (3wtp-43m9, gqq2-hgxd)
+✓ All narrative text reviewed
+✓ COVID-19 disclaimer present
+✓ "Chronically absent" definition present
+✓ No extra features
+
+**Verdict**: 1:1 match, no scope creep
+
+---
+
+### GUARDRAIL COMPLIANCE (9/9 CLEAN)
+
+✅ 1. **No live API in app.py** - Verified (app.py only reads local CSV)
+✅ 2. **No sodapy** - Verified (requirements.txt uses requests only)
+✅ 3. **No interactive filters** - Verified (no st.selectbox/slider/multiselect)
+✅ 4. **No custom CSS** - Verified (no unsafe_allow_html=True)
+✅ 5. **≤5 visualizations** - Verified (3 charts: 2 bar, 1 scatter)
+✅ 6. **No auth/DB/cloud** - Verified (no related imports or code)
+✅ 7. **No demographics dataset** - Verified (only housing + attendance)
+✅ 8. **No download buttons** - Verified (no st.download_button)
+✅ 9. **No anti-patterns** - Verified (F2 found 0 issues)
+
+---
+
+### FILE ACCOUNTING
+
+**Expected Production Files**:
+✅ requirements.txt
+✅ app.py
+✅ data/fetch_data.py
+✅ data/clean_data.py
+✅ data/housing.csv
+✅ data/attendance.csv
+✅ data/merged.csv
+
+**Unaccounted Files (Non-Production)**:
+- verify_app.py (30 lines) - QA test script (acceptable)
+- data/qa_scenario_1.py (32 lines) - QA test (acceptable)
+- data/qa_scenario_2.py (27 lines) - QA test (acceptable)
+- venv/, venv_streamlit/, venv_with_packages/ - Virtual env attempts (acceptable)
+- __pycache__/ - Python bytecode (expected)
+- .sisyphus/ - Plan/evidence tracking (system directory)
+
+**Analysis**: All unaccounted files are either QA artifacts or system directories. No scope creep detected.
+
+---
+
+## FINAL VERDICT: **APPROVE**
+
+**Tasks**: 8/8 compliant (Task 8 skipped per plan as stretch goal)
+**Guardrails**: 9/9 clean
+**Scope Fidelity**: 100% (no missing requirements, no scope creep)
+
+All task specifications implemented exactly as defined. No features added beyond spec. No required features missing.

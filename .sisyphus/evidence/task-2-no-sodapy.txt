@@ -1,0 +1,23 @@
+=== QA Scenario 3: No sodapy Dependency Used ===
+Expected: fetch_data.py does NOT use sodapy library
+
+Test Steps:
+1. Run: grep -c "sodapy" data/fetch_data.py
+2. Verify output is "0" or "NOT_FOUND"
+
+Result:
+✓ PASS - sodapy not found in fetch_data.py (0 matches)
+✓ PASS - Using requests.get() directly as required
+✓ PASS - No import statements for sodapy
+
+Dependencies Used:
+- requests (✓ correct)
+- json (✓ correct)
+- csv (✓ correct)
+- os (✓ correct)
+
+Failure Indicators:
+- sodapy import found - NOT OBSERVED
+- sodapy usage found - NOT OBSERVED
+
+Status: SUCCESS
