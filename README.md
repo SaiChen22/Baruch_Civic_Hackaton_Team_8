@@ -54,6 +54,10 @@ Baruch_hackton_Team_9_o/
 │   ├── fetch_data.py       # Data acquisition script
 │   ├── clean_data.py       # Data cleaning pipeline
 │   ├── housing.csv         # Raw housing data (1,689 rows)
+│   ├── housing_2019_20.csv # Raw housing data (2019-20)
+│   ├── housing_2018_19.csv # Raw housing data (2018-19)
+│   ├── housing_2017_18.csv # Raw housing data (2017-18)
+│   ├── housing_all_years.csv # Combined housing data (2017-18 to 2020-21)
 │   ├── attendance.csv      # Raw attendance data (1,530 rows)
 │   └── merged.csv          # Clean merged dataset (1,454 schools)
 └── README.md               # This file
@@ -90,7 +94,7 @@ All data from **NYC Open Data** (2020-21 school year):
   - https://data.cityofnewyork.us/Education/School-End-of-Year-Attendance/gqq2-hgxd
 
 ### Data Processing
-1. **Fetch**: `data/fetch_data.py` pulls data from NYC Open Data Socrata API
+1. **Fetch**: `data/fetch_data.py` pulls data from NYC Open Data Socrata API (housing for 2017-18 through 2020-21)
 2. **Clean**: `data/clean_data.py` merges datasets, handles percentage formats, derives borough from DBN
 3. **Load**: `app.py` loads the final `merged.csv` (1,454 schools)
 
